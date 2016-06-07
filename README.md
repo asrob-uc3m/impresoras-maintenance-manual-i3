@@ -23,7 +23,7 @@ Este obra está bajo una licencia de [Creative Commons Reconocimiento-NoComercia
 
 Este es el manual de mantenimiento de las impresoras de la Asociación de Robótica de la Universidad Carlos III de Madrid (ASROB), llamadas ***Blacky*** e ***Hija Resurrection***. Ambas son impresoras 3D de tipo **Prusa Air 2**.
 
-A continuación se detalla la guía recomendada para poder solucionar los principales problemas que pueden presentarse en el proceso de impresión de ambos dispositivos.
+A continuación se detalla una guía recomendada para poder solucionar los principales problemas que pueden presentarse en el proceso de impresión con ambos dispositivos.
 
 **Este manual es una guía y nunca sustituirá la formación previa de un operador.**
 
