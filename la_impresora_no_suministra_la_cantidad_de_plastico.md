@@ -1,7 +1,7 @@
 # La impresora no suministra la cantidad de plástico necesaria (subextrusión)
 
 
-Si la impresora no suministra la cantidad de plástico necesaria para la impresión, conviene focalizar el origen de este problema. Puede deberse a varios motivos principales:
+Si la impresora no suministra la cantidad de plástico necesaria para la impresión, conviene focalizar el origen del problema, ya que puede deberse a motivos muy diversos:
 
 
 ### 1- **Diámetro del filamento**
