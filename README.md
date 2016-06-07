@@ -11,7 +11,7 @@
 Este obra está bajo una licencia de [Creative Commons Reconocimiento-NoComercial-CompartirIgual 3.0 Unported.
 ](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.es_ES)
 
-**Autor: Jennifer Joana Gago Muñoz**
+**Autores: Jennifer Joana Gago Muñoz (2016-presente), Juan G Victores (2016-presente)**
 
 
 ---
