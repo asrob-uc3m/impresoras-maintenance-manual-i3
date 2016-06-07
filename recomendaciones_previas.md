@@ -40,4 +40,14 @@ Este es el modo más básico de calibrar el eje Z. Los tornillos son los vertica
 
 *Figura 2: Cama caliente de la impresora 3D Blacky.*
 
-- Ajustar el final de carrera del eje Z
+- **Ajustar el final de carrera del eje Z:**
+
+Ajustando el final de carrera del eje Z podemos aumentar o disminuir la distancia del extrusor a la base. Este final de carrera se ajusta en el sensor que puede encontrarse en el eje vertical de la impresora, tal y como se muestra a continuación.
+
+<img src="z.jpg" alt="z" height="300" width="400" align="middle">
+
+*Figura 3: Sensor fin de carrera de la impresora 3D Blacky.*
+
+- **Mediante la función Z offset**
+
+Siguiendo la siguiente secuencia de instrucciones se puede forzar a la impresora a que trabaje 
