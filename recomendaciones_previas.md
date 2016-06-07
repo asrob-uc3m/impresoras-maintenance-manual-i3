@@ -36,3 +36,8 @@ Los métodos recomendados para evitar este problema son:
 
 Este es el modo más básico de calibrar el eje Z. Los tornillos son los verticales que se muestran en la siguiente figura.
 
+<img src="FullSizeRender.gif" alt="FSR" height="300" width="400" align="middle">
+
+*Figura 2: Cama caliente de la impresora 3D Blacky.*
+
+- Ajustar el final de carrera del eje Z
