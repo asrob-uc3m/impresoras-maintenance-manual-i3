@@ -50,7 +50,7 @@ Ajustando el final de carrera del eje Z podemos aumentar o disminuir la distanci
 
 - **Mediante la función Z offset**
 
-Si se desea calibrar el eje Z de un modo **no manual**, siguiendo la siguiente secuencia de instrucciones se puede forzar a la impresora para que trabaje por encima o por debajo de su origen en el eje Z.
+Si se desea calibrar el eje Z de un modo **no manual**, siguiendo la siguiente secuencia de instrucciones se puede forzar a la impresora a que trabaje por encima o por debajo de su origen en el eje Z.
 
 *Slicer>Configure>PrinterSettings>SizeAndCoordinates>Zoffset*
 
