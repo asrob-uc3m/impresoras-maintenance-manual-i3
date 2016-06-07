@@ -1,4 +1,4 @@
 # Summary
 
-* Cover
+* [Cover](cover.md)
 
