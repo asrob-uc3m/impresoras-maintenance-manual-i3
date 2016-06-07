@@ -6,7 +6,7 @@ Si la impresora no suministra la cantidad de plástico necesaria para la impresi
 
 ### 1- **Diámetro del filamento**
 
-Debemos indicar a nuestro software *Repetier-Host*el **diámetro correcto** de nuestro filamento. En el caso de las impresoras Blacky e Hija Resurection, el diámetro recomendado para su buen funcionamiento es de **1,75 mm**. Indicar un valor erróneo de este parámetro podría producir problemas de extrusión.
+Debemos indicar a nuestro software *Repetier-Host*el **diámetro correcto** de nuestro filamento. En el caso de las impresoras *Blacky* e *Hija Resurection*, el diámetro recomendado para su buen funcionamiento es de **1,75 mm**. Indicar un valor erróneo de este parámetro podría producir problemas de extrusión.
 
 
 ### 2- **Material del filamento**
