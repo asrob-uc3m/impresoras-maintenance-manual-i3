@@ -19,7 +19,7 @@ Se recomienda, por lo tanto, el uso de PLA sobre el de ABS en calidad de producc
 
 <img src="image1.JPG" alt="image1" height="250" width="250" align="middle">
 
-*Figura 1: 3D Printer Filament PLA utilizado en el Despartamento de Sistemas y Automática para estas impresoras.*
+*Figura 4: 3D Printer Filament PLA utilizado en el Despartamento de Sistemas y Automática para estas impresoras.*
 
 
 ### 3- **Velocidad de la impresora**
