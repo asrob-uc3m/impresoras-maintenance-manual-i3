@@ -51,6 +51,7 @@ Varios factores influyen en la elección de la temperatura correcta, teniendo en
 
 Téngase en cuenta que excederse en elevar la temperatura de determinados plásticos puede resultar en la modificación de sus propiedades, se pueden quemar y podemos obstruir la impresora.
 
+
 ### 5- Parámetro multiplicador del extrusor
 
 Una de las posibles soluciones y a la vez posible fuente de error relacionada con la subextrusión es el valor concedido al parámetro multiplicador del extrusor.
