@@ -1,7 +1,7 @@
 # La impresora no suministra la cantidad de plástico necesaria (subextrusión)
 
 
-Si la impresora no suministra la cantidad de plástico necesaria para la impresión, conviene focalizar el origen del problema, ya que puede deberse a motivos muy diversos:
+Si la impresora no suministra la cantidad de plástico necesaria para la impresión, conviene focalizar el origen del problema, ya que este problema en concreto puede deberse a motivos muy diversos:
 
 
 ### 1- **Diámetro del filamento**
@@ -13,7 +13,7 @@ Se recomienda comprobar el diámetro del filamento adquirido, pues la medida que
 
 ### 2- **Material del filamento**
 
-Cada plástico que se use va a exigir unas determinadas condiciones de impresión. En el caso de utilizar **ABS**, se debe tener en cuenta que es un plástico sensible a los cambios de temperatura y que generalmente las temperaturas de trabajo van a ser relativamente altas (Extrusor: 230ºC; Plataforma base: 120ºC), y la impresión por lo tanto va a ser más lenta. Por otra parte, en el caso de utilizar **PLA**, debemos tener en cuenta que necesita temperaturas de producción más bajas y que se trata de un plástico más estable ante los cambios de temperatura, por lo que podemos ejecutar una impresión más rápida sin afectar al buen funcionamiento de nuestro extrusor. Puede encontrar más información al respecto en el siguiente apartado: *Importancia de las temperaturas*.
+Cada plástico que se use va a exigir unas determinadas condiciones de impresión. En el caso de utilizar **ABS**, se debe tener en cuenta que es un plástico sensible a los cambios de temperatura y que generalmente las **temperaturas de trabajo** van a ser **relativamente altas** (Extrusor: 230ºC; Plataforma base: 120ºC), y la impresión por lo tanto va a ser más lenta. Por otra parte, en el caso de utilizar **PLA**, debemos tener en cuenta que necesita temperaturas de producción más bajas y que se trata de un plástico más **estable** ante los cambios de temperatura, por lo que podemos ejecutar una impresión más rápida sin afectar al buen funcionamiento de nuestro extrusor. 
 
 Se recomienda, por lo tanto, el uso de PLA sobre el de ABS en calidad de producción, mas se debe tener en cuenta la desventaja competitiva del primero sobre el segundo en referencia a postproducción, por tratarse este de un material frágil que no admite taladrado.
 
@@ -32,9 +32,24 @@ Una fórmula útil para estimar la velocidad real de nuestra impresora es usar l
 
 *[diámetro de nozzle (mm)] x [altura de capa (mm)] x [Velocidad de extrusión (mm/s)] <=5mm3/s*
 
-Para comprobar o cambiar el valor teórico de la velocidad de impresión de nuestra impresora 3D, se deben seguir las siguientes instrucciones dentro del software:
+Para comprobar o cambiar el **valor teórico** de la velocidad de impresión de nuestra impresora 3D, se deben seguir las siguientes instrucciones dentro del software:
 
 *Slicer>Configure>PrintSettings>Speed*
 
 Aquí encontraremos todos los parámetros relacionados con la velocidad y la aceleración de producción.
+
+
+### 4- Temperaturas
+
+
+
+### 5- Parámetro multiplicador del extrusor
+
+Una de las posibles soluciones y a la vez posible fuente de error relacionada con la subextrusión es el valor concedido al parámetro multiplicador del extrusor.
+
+Si consideramos que nuestra impresora, a pesar de tener todos los ajustes anteriores en un estado correcto, sigue sin extruir la cantidad de material necesaria, podemos variar la **cantidad de plástico** que **extruye** por defecto en el siguiente apartado de ajustes:
+
+*Slicer>Configure>FilamentSettings>PrinterSettings>Filament>ExtrusionMultiplier*
+
+Se debe tener en consideración que el valor normal de este parámetro asociado a los plásticos más comúnmente usados, PLA y ABS, son de 0,9 y 1 respectivamente.
 
