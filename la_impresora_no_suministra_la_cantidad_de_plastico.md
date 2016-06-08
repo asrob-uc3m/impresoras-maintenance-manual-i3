@@ -6,7 +6,9 @@ Si la impresora no suministra la cantidad de plástico necesaria para la impresi
 
 ### 1- **Diámetro del filamento**
 
-Debemos indicar a nuestro software *Repetier-Host*el **diámetro correcto** de nuestro filamento. En el caso de las impresoras *Blacky* e *Hija Resurection*, el diámetro recomendado para su buen funcionamiento es de **1,75 mm**. Indicar un valor erróneo de este parámetro podría producir problemas de extrusión.
+Debemos indicar a nuestro software *Repetier-Host*el **diámetro correcto** de nuestro filamento. En el caso de las impresoras *Blacky* e *Hija Resurection*, el diámetro recomendado para su buen funcionamiento es de **1,75 mm**. Indicar un valor erróneo de este parámetro podría producir problemas de extrusión, ya que el valor de diámetro que especifiquemos en el software determinará la cantidad de filamento que la impresora va a extruir. Errores en su determinación pueden derivar en atascos del extrusor o bien en huecos en la pieza, dependiendo de si el error está por debajo o por encima del valor real.
+
+Se recomienda comprobar el diámetro del filamento adquirido, pues la medida que se especifica en el producto -en nuestro caso 1,75 mm- hace referencia al diámetro de nuestro tubo extrusor, por lo que en teoría el diámetro del filamento debería estar por debajo de este valor.
 
 
 ### 2- **Material del filamento**
@@ -30,4 +32,9 @@ Una fórmula útil para estimar la velocidad real de nuestra impresora es usar l
 
 *[diámetro de nozzle (mm)] x [altura de capa (mm)] x [Velocidad de extrusión (mm/s)] <=5mm3/s*
 
+Para comprobar o cambiar el valor teórico de la velocidad de impresión de nuestra impresora 3D, se deben seguir las siguientes instrucciones dentro del software:
+
+*Slicer>Configure>PrintSettings>Speed*
+
+Aquí encontraremos todos los parámetros relacionados con la velocidad y la aceleración de producción.
 
