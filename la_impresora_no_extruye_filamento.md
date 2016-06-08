@@ -5,7 +5,7 @@ La no extrusión de filamento es otro problema con numerosos posibles orígenes,
 Los principales motivos directos de la no extrusión de filamento son los siguientes:
 
 
-### 1- Obstrucción del extrusor
+### 1- Obstrucción de la salida del extrusor
 
 
 
@@ -21,3 +21,7 @@ Los principales motivos directos de la no extrusión de filamento son los siguie
 <img src="polea.JPG" alt="polea" height="250" width="400" align="middle">
 
 *Figura 6 - Polea y rodillo separados.*
+
+
+### 4- Enredos en el filamento
+
