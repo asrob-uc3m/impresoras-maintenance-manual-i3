@@ -3,6 +3,5 @@
 * [Introduction](README.md)
 * [Recomendaciones previas](recomendaciones_previas.md)
 * [La impresora no suministra la cantidad de plástico necesaria (subextrusión)](la_impresora_no_suministra_la_cantidad_de_plastico.md)
-* [Importancia de las temperaturas](importancia_de_las_temperaturas.md)
 * [Errores para los cuales debe contactar a un técnico profesional](errores_para_los_cuales_debe_contactar_a_un_tecnic.md)
 
