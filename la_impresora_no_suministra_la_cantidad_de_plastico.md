@@ -22,6 +22,6 @@ Se recomienda, por lo tanto, el uso de PLA sobre el de ABS en calidad de producc
 
 ### 3- **Velocidad de la impresora**
 
-
+Es importante estimar la velocidad a la que nuestras impresoras trabajan de forma eficaz, pues una de las causas más comunes de una mala extrusión es una velocidad excesiva de impresión.
 
 
