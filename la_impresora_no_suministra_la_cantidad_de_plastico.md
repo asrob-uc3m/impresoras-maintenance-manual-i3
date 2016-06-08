@@ -24,4 +24,10 @@ Se recomienda, por lo tanto, el uso de PLA sobre el de ABS en calidad de producc
 
 Es importante estimar la velocidad a la que nuestras impresoras trabajan de forma eficaz, pues una de las causas más comunes de una mala extrusión es una velocidad excesiva de impresión.
 
+Los valores recomendados para el PLA se encuetran entre 2,5 y 5 mm^3/s. Igualmente, la mayoría de plasticos darán buenos resultados por debajo de 5mm^3/s.
+
+Una fórmula útil para estimar la velocidad real de nuestra impresora es usar la siguiente fórmula:
+
+[diámetro de nozzle (mm)] x [altura de capa (mm)] x [Velocidad de extrusión (mm/s)] <=5mm3/s
+
 
