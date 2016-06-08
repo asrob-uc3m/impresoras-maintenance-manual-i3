@@ -52,7 +52,11 @@ Varios factores influyen en la elección de la temperatura correcta, teniendo en
 Téngase en cuenta que excederse en elevar la temperatura de determinados plásticos puede resultar en la modificación de sus propiedades, se pueden quemar y podemos obstruir la impresora.
 
 
-### 5- Parámetro multiplicador del extrusor
+### 5- Filamento viciado
+
+Si el filamento tiene una curvatura muy acentuada, este puede provocar fricciones al recorrer el tubo del extrusor, lo que tendría como consecuencia una extrusión más entrecortada y dificultosa. Conviene, por lo tanto, asegurarse de que la curvatura de nuestro filamento no impide que la extrusión se realice correctamente y rectificar esta característica en la medida de los posible (no olvidar que el PLA es un plástico muy frágil y no tolera bien esfuerzos de flexión en frío). 
+
+### 6- Parámetro multiplicador del extrusor
 
 Una de las posibles soluciones y a la vez posible fuente de error relacionada con la subextrusión es el valor concedido al parámetro multiplicador del extrusor.
 
