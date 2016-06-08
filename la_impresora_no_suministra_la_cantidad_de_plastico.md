@@ -46,9 +46,10 @@ Es un requisito imprescindible que la temperatura de trabajo sea la adecuada tan
 Varios factores influyen en la elección de la temperatura correcta, teniendo en cuenta las siguientes premisas:
 
 1. A **mayor velocidad** de impresión, **menor tiempo de calentamiento** del filamento. Luego a altas velocidades conviene elevar ligeramente la temperatura del extrusor.
-2. Materiales especialmente viscosos, como puede ser el caso del PLA en comparación con el ABS, pueden exigir **presiones altas** para su extrusión, provocando de este modo problemas de subextrusión e incluso obstrucciones en la salida del filamento.
+2. Materiales especialmente viscosos, como puede ser el caso del PLA en comparación con el ABS, pueden exigir **presiones altas** para su extrusión, provocando de este modo problemas de subextrusión e incluso obstrucciones en la salida del filamento. En este caso también se recomienda elevar ligeramente la temperatura del extrusor para facilitar el flujo del plástico.
+3. Temperaturas elevadas por encima de las recomendaciones del fabricante y velocidades altas son causa directa de **peor calidad** de impresión (encordados, voladizos...).
 
-
+Téngase en cuenta que excederse en elevar la temperatura de determinados plásticos puede resultar en la modificación de sus propiedades, se pueden quemar y podemos obstruir la impresora.
 
 ### 5- Parámetro multiplicador del extrusor
 
