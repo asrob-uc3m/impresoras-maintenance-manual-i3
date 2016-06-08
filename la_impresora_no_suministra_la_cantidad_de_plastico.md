@@ -54,7 +54,7 @@ Téngase en cuenta que excederse en elevar la temperatura de determinados plást
 
 ### 5- Filamento viciado
 
-Si el filamento tiene una curvatura muy acentuada, este puede provocar fricciones al recorrer el tubo del extrusor, lo que tendría como consecuencia una extrusión más entrecortada y dificultosa. Conviene, por lo tanto, asegurarse de que la curvatura de nuestro filamento no impide que la extrusión se realice correctamente y rectificar esta característica en la medida de los posible (no olvidar que el PLA es un plástico muy frágil y no tolera bien esfuerzos de flexión en frío). 
+Si el filamento tiene una curvatura muy acentuada, este puede provocar fricciones al recorrer el tubo del extrusor, lo que tendría como consecuencia una extrusión más entrecortada y dificultosa. Conviene, por lo tanto, asegurarse de que la curvatura de nuestro filamento no impide que la extrusión se realice correctamente y rectificar esta característica en la medida de los posible (no olvidemos que el PLA es un plástico muy frágil y no tolera bien esfuerzos de flexión en frío). 
 
 ### 6- Parámetro multiplicador del extrusor
 
