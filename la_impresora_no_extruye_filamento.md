@@ -33,10 +33,11 @@ Conviene revisar que la polea esté libre de residuos que le impidan trabajar co
 
 <img src="polea.JPG" alt="polea" height="250" width="400" align="middle">
 
-*Figura 6 - Polea y rodillo en la impresora Blacky.*
+*Figura 6 - Polea y rodillo separados en la impresora Blacky.*
 
 
 ### 3- Enredos en el filamento
+
 
 
 ### 4- No queda filamento
