@@ -7,7 +7,7 @@ Los principales motivos directos de la no extrusión de filamento son los siguie
 
 ### 1- Obstrucción de la salida del extrusor
 
-
+Al tratarse de un diámetro tan pequeño, la boquilla del extrusor puede obstruirse facilmente, bien por agentes externos como el polvo, o por el propio plástico, que puede haber dejado residuos por trabajarlo a una temperatura excesiva.
 
 ### 2- Filamento mordido
 
