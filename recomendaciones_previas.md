@@ -32,13 +32,13 @@ Se pueden seguir varios procedimientos para calibrar el eje Z de la impresora. S
 
 Los métodos recomendados para evitar este problema son:
 
-- **Ajustar la altura de la base caliente mediante los cuatro tornillos que la fijan a la estructura de la impresora:**
+- **Mediante la función Z offset**
 
-Este es el modo más básico de calibrar el eje Z. Los tornillos son los verticales que se muestran en la siguiente figura.
+Si se desea calibrar el eje Z de un modo **no manual**, siguiendo la siguiente secuencia de instrucciones se puede forzar a la impresora a que trabaje por encima o por debajo de su origen en el eje Z.
 
-<img src="FullSizeRender.gif" alt="FSR" height="300" width="400" align="middle">
+*Slicer>Configure>PrinterSettings>SizeAndCoordinates>Zoffset*
 
-*Figura 2: Cama caliente de la impresora 3D Blacky.*
+De este modo, eligiendo un número precedido de un guión (-) estaremos trabajandando por debajo del final de carrera del eje Z, dicha cantidad de milímetros. Por el contrario, sin el uso del guión, estaremos trabajando por encima de dicho límite.
 
 - **Ajustar el final de carrera del eje Z:**
 
@@ -48,10 +48,12 @@ Ajustando el final de carrera del eje Z podemos aumentar o disminuir la distanci
 
 *Figura 3: Sensor fin de carrera de la impresora 3D Blacky.*
 
-- **Mediante la función Z offset**
 
-Si se desea calibrar el eje Z de un modo **no manual**, siguiendo la siguiente secuencia de instrucciones se puede forzar a la impresora a que trabaje por encima o por debajo de su origen en el eje Z.
 
-*Slicer>Configure>PrinterSettings>SizeAndCoordinates>Zoffset*
+- **Ajustar la altura de la base caliente mediante los cuatro tornillos que la fijan a la estructura de la impresora:**
 
-De este modo, eligiendo un número precedido de un guión (-) estaremos trabajandando por debajo del final de carrera del eje Z, dicha cantidad de milímetros. Por el contrario, sin el uso del guión, estaremos trabajando por encima de dicho límite.
+Este es el modo más rudimentario de calibrar el eje Z. Los tornillos son los verticales que se muestran en la siguiente figura. Se debe tener cuidado para no desnivelar la cama caliente, usando siempre un calibre.
+
+<img src="FullSizeRender.gif" alt="FSR" height="300" width="400" align="middle">
+
+*Figura 2: Cama caliente de la impresora 3D Blacky.*
