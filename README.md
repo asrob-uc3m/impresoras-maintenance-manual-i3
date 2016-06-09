@@ -31,3 +31,6 @@ A continuación se detalla una guía recomendada para poder solucionar los princ
 
 **Este manual es una guía y nunca sustituirá la formación previa de un operador.**
 
+* 
+Read me at: [Gitbook](https://www.gitbook.com/book/asrobuc3m/impresoras-maintenance-manual-i3/details)
+* Hosted at: [Github](https://github.com/asrob-uc3m/impresoras-maintenance-manual-i3)
