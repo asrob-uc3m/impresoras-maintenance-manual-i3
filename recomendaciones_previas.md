@@ -6,7 +6,7 @@ Antes de proceder a la impresión de cualquier pieza, se recomienda seguir los s
 
 ### 1- **Purgar el cabezal del extrusor**
 
-Si se va a utilizar la impresora 3D después de un periodo de reposo, se recomienda extruir una pequeña cantidad de plástico antes de comenzar la impresión. Esto puede llevarse a cabo de dos maneras:
+Si se va a utilizar la impresora 3D después de un periodo de reposo, habiendo calentado el hot-end, se recomienda extruir una pequeña cantidad de plástico antes de comenzar la impresión. Esto puede llevarse a cabo de dos maneras:
 
 - **Mediante la pestaña de Control Manual: **
 
