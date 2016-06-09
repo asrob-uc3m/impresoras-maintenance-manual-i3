@@ -38,7 +38,7 @@ Conviene revisar que la polea esté libre de residuos que le impidan trabajar co
 
 ### 3- Enredos en el filamento
 
-
+Es importante comprobar que los hilos no se solapan en el carrete, pues esto podría generar un nudo al tirar del filamento y podríamos atascar el extusor.
 
 ### 4- No queda filamento
 
