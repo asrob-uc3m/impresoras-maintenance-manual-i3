@@ -3,6 +3,10 @@
 ## **Manual de mantenimiento (BLACKY e HIJA RESURRECTION)  Impresoras 3D modelos i3**
 
 
+---
+
+
+
 ![](https://avatars1.githubusercontent.com/u/6586261?v=3&s=200)
 
 
