@@ -40,6 +40,8 @@ No se recomienda, igualmente, hacer cambios de filamento durante la impresión. 
 
 ### 6- Motor sobrecalentado
 
+Un motor sobrecalentado normalmente se detendrá por orden del controlador para evitar dañar el equipo o causar incendios, por lo tanto, al apagarse dejará de imprimir. Se recomienda revisar los ajustes del driver del motor para solucionar posibles problemas relacionados con el sobrecalentamiento de este.
 
 ### 7- Presión insuficiente
 
+Es importante que el sistema de presión del extrusor esté bien ajustado o llegará un punto en el que deje de extruir el filamento. Se recomienda ponerse en contacto con el personal de mantenimiento especializado para calibrar este ajuste.
