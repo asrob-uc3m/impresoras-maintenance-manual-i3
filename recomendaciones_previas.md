@@ -46,7 +46,7 @@ Ajustando el final de carrera del eje Z podemos aumentar o disminuir la distanci
 
 <img src="z.jpg" alt="z" height="300" width="400" align="middle">
 
-*Figura 3: Sensor fin de carrera de la impresora 3D Blacky.*
+*Figura 2: Sensor fin de carrera de la impresora 3D Blacky.*
 
 
 
@@ -56,4 +56,4 @@ Este es el modo más rudimentario de calibrar el eje Z. Los tornillos son los ve
 
 <img src="FullSizeRender.gif" alt="FSR" height="300" width="400" align="middle">
 
-*Figura 2: Cama caliente de la impresora 3D Blacky.*
+*Figura 3: Cama caliente de la impresora 3D Blacky.*
