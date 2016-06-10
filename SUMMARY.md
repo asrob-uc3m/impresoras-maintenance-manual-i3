@@ -7,4 +7,5 @@
 * [Problemas de fijación de la pieza a la mesa](problemas_de_fijacion_de_la_pieza_a_la_mesa.md)
 * [La base de la pieza no se imprime uniforme](la_base_de_la_pieza_no_se_imprime_uniforme.md)
 * [Errores para los cuales debe contactar a un técnico profesional](errores_para_los_cuales_debe_contactar_a_un_tecnic.md)
+* Almohadillado (Pillowing)
 
