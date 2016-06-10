@@ -8,16 +8,22 @@ Si hay grietas o lineas muy visibles que incluso se levantan de la base en la ca
 
 ### 1- Altura de la primera capa
 
-Si la cama caliente está demasiado lejos de la boquilla del extrusor (Hot-end), el plástico no se aplastará bien sobre la base y la lineas quedarán separadas, luego no tendremos como resultado una superficie de aspecto homogéneo.
+Si la cama caliente está demasiado lejos de la boquilla del extrusor (Hot-end), el plástico no se aplastará bien sobre la base y la lineas quedarán separadas, luego no tendremos como resultado una superficie de aspecto homogéneo. Conviene ajustar el eje Z de nuestra impresora siguiendo las *Recomendaciones Previas* de este manual.
 
 ### 2- Temperatura de impresión
 
-
+Otro causante de que queden lineas separadas en la base de nuestra figura es una temperatura de trabajo insuficiente. Se recomienda, al trabajar con PLA, mantener la mesa alrededor de los 50ºC y el hot-end alrededor de los 180ºC, teniendo siempre en cuenta las pequeñas variaciones que puede exigir cada fabricante.
 
 ### 3- Aumentar o disminuir el ancho de linea en la primera capa
 
 
-Una impresión correcta de la capa inferior sería la siguiente. Si no logra que su impresora realice una impresión correcta de la base de la pieza siguiendo las indicaciones anteriores, contacte con el personal de mantenimiento.
+
+
+
+---
+
+
+Una impresión correcta de la capa inferior debería tener un aspecto similar al mostrado en la figura 9. Si no logra que su impresora realice una impresión correcta de la base de la pieza siguiendo las indicaciones anteriores, contacte con el personal de mantenimiento.
 
 <img src="bien.JPG" alt="bien" height="300" width="400" align="middle">
 
