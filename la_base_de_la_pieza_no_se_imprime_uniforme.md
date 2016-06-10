@@ -14,7 +14,7 @@ Si la cama caliente está demasiado lejos de la boquilla del extrusor (Hot-end),
 
 Otro causante de que queden lineas separadas en la base de nuestra figura es una temperatura de trabajo insuficiente. Se recomienda, al trabajar con PLA, mantener la mesa alrededor de los 50ºC y el hot-end alrededor de los 180ºC, teniendo siempre en cuenta las pequeñas variaciones que puede exigir cada fabricante.
 
-### 3- Aumentar el ancho de linea en la primera capa
+### 3- Ancho de linea en la primera capa
 
 Aumentando el ancho de linea en la primera capa podremos evitar esos espacios indeseables entre lineas en la base de la figura impresa. Podemos modificar el ancho de linea de la primera capa siguiendo las siguientes instrucciones:
 
