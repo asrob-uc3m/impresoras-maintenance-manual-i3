@@ -19,7 +19,7 @@ Este es uno de los problemas más comunes en la impresión 3D. La polea muerde e
 
 <img src="fm.JPG" alt="fm" height="250" width="400" align="middle">
 
-*Figura 5 - Filamento de PLA mordido.*
+*Figura 5: Filamento de PLA mordido.*
 
 Si el cabezal no está obstruido, quitaremos el filamento pulsando el botón *Retraer* repetidas veces en la pestaña de *Control Manual* y cortaremos la parte mordida de este, ajustando correctamente a posteriori la tensión del muelle mediante las tuercas con orejas. Una de las principales causas de este problema puede ser, precisamente, que la **presión** que ejercen estos tornillos sea **insuficiente**.
 
@@ -33,7 +33,7 @@ Conviene revisar que la polea esté libre de residuos que le impidan trabajar co
 
 <img src="polea.JPG" alt="polea" height="250" width="400" align="middle">
 
-*Figura 6 - Polea y rodillo separados en la impresora Blacky.*
+*Figura 6: Polea y rodillo separados en la impresora Blacky.*
 
 
 ### 3- Enredos en el filamento
