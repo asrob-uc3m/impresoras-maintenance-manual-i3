@@ -1,4 +1,4 @@
-# La base de la pieza no se imprime uniforme
+# La base de la pieza no se imprime de forma homogénea
 
 Si hay grietas o lineas muy visibles que incluso se levantan de la base en la capa inferior de nuestra pieza, tal y como ocurre en la figura 8, tendremos que revisar una serie de ajustes en nuestra impresora.
 
