@@ -18,14 +18,14 @@ Otro causante de que queden lineas separadas en la base de nuestra figura es una
 
 **Aumentando** el ancho de linea en la primera capa podremos evitar esos espacios indeseables entre lineas en la base de la figura impresa. Podemos modificar el ancho de linea de la primera capa siguiendo las siguientes instrucciones:
 
-*[INTRODUCIR AQUÍ INSTRUCCIONES DEL SOFTWARE]*
+Slicer>Configure>PrintSettings>Advanced>ExtrusionWith<FirstLayer
 
 
 ### 4- Altura de la primera capa
 
 Si la altura de la primera capa es demasiado alta, tendremos problemas con la homogeneización de esta. Conviene que esta altura **no** exceda los **0,3 mm**. Esta altura se puede modificar siguiendo las siguientes instrucciones:
 
-*[INTRODUCIR AQUÍ INSTRUCCIONES DEL SOFTWARE]*
+*Slicer>Configure>PrintSettings>LayersAndPerimeters>FirstLayerHeight*
 
 ---
 
