@@ -11,5 +11,5 @@
 * [Relleno defectuoso](relleno_defectuoso.md)
 * [Errores para los cuales debe contactar a un técnico profesional](errores_para_los_cuales_debe_contactar_a_un_tecnic.md)
 * [Bibliografía](bibliografia.md)
-* Aparición de hilos finos (Hairy print)
+* [Aparición de hilos finos (Hairy print)](aparicion_de_hilos_finos_hairy_print.md)
 
