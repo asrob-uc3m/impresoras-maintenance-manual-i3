@@ -2,7 +2,7 @@
 
 Si el relleno de la pieza no se está imprimiendo correctamente, y se está obteniendo un resultado similar al de la figura 10, se deben revisar los siguientes parámetros de la impresora:
 
-<img src="Infill.jpg" alt="infill" height="300" width="400" align="middle">
+<img src="Infill.jpg" alt="infill" height="320" width="400" align="middle">
 
 *Figura 10: Relleno Honeycomb defectuoso de pieza cúbica.*
 ### 1- Velocidad de impresión del relleno
