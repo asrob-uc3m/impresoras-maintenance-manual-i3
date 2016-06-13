@@ -9,7 +9,7 @@
 * [La base de la pieza no se imprime uniforme](la_base_de_la_pieza_no_se_imprime_uniforme.md)
 * [Almohadillado en capa superior (Pillowing)](almohadillado_pillowing.md)
 * [Relleno defectuoso](relleno_defectuoso.md)
+* [Aparición de hilos finos (Hairy print)](aparicion_de_hilos_finos_hairy_print.md)
 * [Errores para los cuales debe contactar a un técnico profesional](errores_para_los_cuales_debe_contactar_a_un_tecnic.md)
 * [Bibliografía](bibliografia.md)
-* [Aparición de hilos finos (Hairy print)](aparicion_de_hilos_finos_hairy_print.md)
 
