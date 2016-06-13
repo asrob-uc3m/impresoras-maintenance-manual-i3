@@ -22,3 +22,9 @@ Para este y otros problemas relacionados con la **deficiencia** en la extrusión
 No todas las piezas ofrecen los mismos resultados antes los mismos tipos de relleno. El software Repetier-Host ofrece **7 tipos** diferentes de relleno. 
 
 Usualmente se recomienda el relleno **Honeycomb** o relleno de panal de abeja, debido a las propiedades que este confiere a la pieza, pero se debe tener en cuenta que en piezas donde el relleno es muy estrecho, quizás nos convenga más utilizar otro tipo de relleno más adecuado, como el rectilineo.
+
+
+
+---
+
+Si nos encontramos en el caso particular de que nuestra pieza imprime huecos que no debería imprimir o, por el contrario, imprime capas en zonas donde debería imprimir huecos, debemos revisar el archivo de nuestra pieza, ya que probablemente esto esté ocurriendo porque el diseño de la pieza así lo determina.
