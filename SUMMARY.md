@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Glosario](glosario.md)
 * [Recomendaciones previas](recomendaciones_previas.md)
 * [La impresora no suministra la cantidad de plástico necesaria (Subextrusión)](la_impresora_no_suministra_la_cantidad_de_plastico.md)
 * [La impresora no extruye filamento](la_impresora_no_extruye_filamento.md)
@@ -9,5 +10,4 @@
 * [Almohadillado en capa superior (Pillowing)](almohadillado_pillowing.md)
 * [Relleno defectuoso](relleno_defectuoso.md)
 * [Errores para los cuales debe contactar a un técnico profesional](errores_para_los_cuales_debe_contactar_a_un_tecnic.md)
-* [Glosario](glosario.md)
 
