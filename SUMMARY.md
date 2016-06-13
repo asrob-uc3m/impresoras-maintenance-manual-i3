@@ -8,4 +8,5 @@
 * [La base de la pieza no se imprime uniforme](la_base_de_la_pieza_no_se_imprime_uniforme.md)
 * [Almohadillado (Pillowing)](almohadillado_pillowing.md)
 * [Errores para los cuales debe contactar a un técnico profesional](errores_para_los_cuales_debe_contactar_a_un_tecnic.md)
+* Relleno defectuoso
 
