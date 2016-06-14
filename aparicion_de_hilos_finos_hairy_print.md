@@ -1,4 +1,4 @@
-# Aparición de hilos finos (Hairy print)
+# Hilos finos entre piezas (Hairy print)
 
 La aparición de hilos muy finos en los espacios de nuestra pieza es un problema menor relacionado directamente con la **viscosidad** del filamento utilizado. El **PLA**, por ejemplo, es un plástico bastante viscoso, por lo que es muy probable que en piezas con espacios pequeños deje hilos como los que se pueden apreciar en la figura 11.
 
