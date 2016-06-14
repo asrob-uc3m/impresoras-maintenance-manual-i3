@@ -14,5 +14,5 @@
 * [Voladizos (Overhang)](voladizos_overhang.md)
 * [Errores para los cuales debe contactar a un técnico profesional](errores_para_los_cuales_debe_contactar_a_un_tecnic.md)
 * [Bibliografía](bibliografia.md)
-* Huecos entre el relleno y el perímetro
+* [Huecos entre el relleno y el perímetro](huecos_entre_el_relleno_y_el_perimetro.md)
 
