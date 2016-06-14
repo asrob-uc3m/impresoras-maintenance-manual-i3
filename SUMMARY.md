@@ -16,5 +16,5 @@
 * [Burbujas en la pieza](burbujas_en_la_pieza.md)
 * [Errores para los cuales debe contactar a un técnico profesional](errores_para_los_cuales_debe_contactar_a_un_tecnic.md)
 * [Bibliografía](bibliografia.md)
-* Grietas en la pieza
+* [Grietas en la pieza](grietas_en_la_pieza.md)
 
