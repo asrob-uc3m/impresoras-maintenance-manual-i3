@@ -3,7 +3,7 @@
 * **Cama caliente:** Elemento de nuestra impresora encargado de suministrar calor a la superficie en la que se apoya la pieza impresa.
 * **Extrusor: **Se denomina extrusor a todos los elementos que conforman el mecanismo de extrusión de la impresora.
 * **Filamento:**Material plástico en forma de hilo de sección cilíndrica, comercializado usualmente en bobinas, usado en la impresión de piezas.
-* **Hairy print o Strining:** Impresión caracterizada por la presencia de finos hilos excedentes en los huecos de la pieza impresa.
+* **Hairy print:** Impresión caracterizada por la presencia de finos hilos excedentes en los huecos de la pieza impresa.
 * **Hot end:** Punta o boquilla del extrusor. Parte de este que se calienta para fundir el filamento y así poder extruirlo.
 * **Overhang:** Problema de impresión causado por imprimir piezas a cierta altura sin ningún tipo de soporte, lo que causa que cuelguen hilos y el aspecto no sea el deseado.
 * **Pillowing:** Problema de impresión de la capa superior de la pieza impresa que se caracteriza por la presencia de huecos e hilos rizados.
