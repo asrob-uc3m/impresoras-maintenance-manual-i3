@@ -7,7 +7,7 @@
 * **Hot end**: Punta o boquilla del extrusor. Parte de este que se calienta para fundir el filamento y así poder extruirlo.
 * **Overhang**
 * **Pillowing**
-* PLA
+* **PLA**
 * Repetier-Host
 * Subextrusión
 * Warping
