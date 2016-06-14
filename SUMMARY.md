@@ -10,6 +10,7 @@
 * [Almohadillado en capa superior (Pillowing)](almohadillado_pillowing.md)
 * [Relleno defectuoso](relleno_defectuoso.md)
 * [Aparición de hilos finos (Hairy print)](aparicion_de_hilos_finos_hairy_print.md)
+* [Hilos gruesos entre piezas (Strining)](hilos_gruesos_entre_piezas_strining.md)
 * [Levantamiento de las esquinas de la base (Warping)](levantamiento_de_las_esquinas_de_la_base_warping.md)
 * [Voladizos (Overhang)](voladizos_overhang.md)
 * [Huecos entre el relleno y el perímetro](huecos_entre_el_relleno_y_el_perimetro.md)
@@ -19,5 +20,4 @@
 * [Impresión poco precisa](impresion_poco_precisa.md)
 * [Errores para los cuales debe contactar a un técnico profesional](errores_para_los_cuales_debe_contactar_a_un_tecnic.md)
 * [Bibliografía](bibliografia.md)
-* [Hilos gruesos entre piezas (Strining)](hilos_gruesos_entre_piezas_strining.md)
 
