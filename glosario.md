@@ -8,6 +8,6 @@
 * **Overhang**
 * **Pillowing**
 * **PLA**
-* Repetier-Host
-* Subextrusión
+* **Repetier-Host**
+* **Subextrusión**
 * Warping
