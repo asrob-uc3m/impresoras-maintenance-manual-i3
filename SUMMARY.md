@@ -13,7 +13,7 @@
 * [Levantamiento de las esquinas de la base (Warping)](levantamiento_de_las_esquinas_de_la_base_warping.md)
 * [Voladizos (Overhang)](voladizos_overhang.md)
 * [Huecos entre el relleno y el perímetro](huecos_entre_el_relleno_y_el_perimetro.md)
+* [Burbujas en la pieza](burbujas_en_la_pieza.md)
 * [Errores para los cuales debe contactar a un técnico profesional](errores_para_los_cuales_debe_contactar_a_un_tecnic.md)
 * [Bibliografía](bibliografia.md)
-* [Burbujas en la pieza](burbujas_en_la_pieza.md)
 
