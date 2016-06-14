@@ -8,7 +8,7 @@
 * **Overhang:** Problema de impresión causado por imprimir piezas a cierta altura sin ningún tipo de soporte, lo que causa que cuelguen hilos y el aspecto no sea el deseado.
 * **Pillowing:** Problema de impresión de la capa superior de la pieza impresa que se caracteriza por la presencia de huecos e hilos rizados.
 * **PLA:** Polímero constituido por moléculas de ácido láctico. Material más utilizado en la impresión 3D en el laboratorio de robótica. 
-* **Repetier-Host:** Software utilizado en el laboratorio de robótica, recomendado para la utilización de las impresoras *Blacky* e *Hija Resurection.*
+* **Repetier-Host:** Software utilizado en el laboratorio de robótica, recomendado para el control de las impresoras *Blacky* e *Hija Resurection.*
 * **Strining:** Problema de impresión similar al *Hairy print*, pero de distinta procedencia y caracterizado por la aparición de hilos gruesos entre distintas piezas o una misma pieza con huecos.
 * **Subextrusión:** Problema de impresión con diversos posibles orígenes que se caracteriza por la extrusión insuficiente de filamento.
 * **Warping:** Problema de impresión caracterizado por el levantamiento de las esquinas de la pieza impresa de la base sobre la cual se imprime.
