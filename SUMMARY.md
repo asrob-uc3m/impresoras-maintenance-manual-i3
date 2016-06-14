@@ -12,4 +12,5 @@
 * [Aparición de hilos finos (Hairy print)](aparicion_de_hilos_finos_hairy_print.md)
 * [Errores para los cuales debe contactar a un técnico profesional](errores_para_los_cuales_debe_contactar_a_un_tecnic.md)
 * [Bibliografía](bibliografia.md)
+* Levantamiento de las esquinas de la base (Warping)
 
