@@ -16,7 +16,7 @@
 * [Burbujas en la pieza](burbujas_en_la_pieza.md)
 * [Grietas en la pieza](grietas_en_la_pieza.md)
 * [Arañazos en la pieza](aranazos_en_la_pieza.md)
+* [Impresión poco precisa](impresion_poco_precisa.md)
 * [Errores para los cuales debe contactar a un técnico profesional](errores_para_los_cuales_debe_contactar_a_un_tecnic.md)
 * [Bibliografía](bibliografia.md)
-* [Impresión poco precisa](impresion_poco_precisa.md)
 
