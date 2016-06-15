@@ -20,5 +20,4 @@
 * [Impresión poco precisa](impresion_poco_precisa.md)
 * [Errores para los cuales debe contactar a un técnico profesional](errores_para_los_cuales_debe_contactar_a_un_tecnic.md)
 * [Bibliografía](bibliografia.md)
-   * Herramientas para el mantenimiento de las impresoras
 
