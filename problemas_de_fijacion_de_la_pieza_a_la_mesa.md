@@ -9,7 +9,7 @@ La casuística refleja tres posibles problemas relacionados con la figación de 
 Si la primera capa no se adhiere correctamente a la base, la impresión se habrá arruinado de forma irreversible. Para evitar este problema, conviene comprobar que **no** se cumplen los siguientes aspectos de nuestra impresora:
 
   1. El **hot-end** está demasiado **separado** de la cama caliente.
-  2. La cama caliente **no** está bien **calibrada**.
+  2. La cama caliente **no** está bien **nivelada**.
   2. La **temperatura** del **extrusor** no es la adecuada.
   3. La **temperatura** de la **cama caliente** no es la adecuada.
   4. Hay ningún tipo de **refrigeración** externa que esté pudiendo afectar a la impresión de la pieza.
