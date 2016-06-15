@@ -23,5 +23,5 @@
 * [Errores para los cuales debe contactar a un técnico profesional](errores_para_los_cuales_debe_contactar_a_un_tecnic.md)
 * [Bibliografía](bibliografia.md)
 * [Impresión desplazada](impresion_desplazada.md)
-* Lateral de la pieza irregular
+* [Lateral de la pieza irregular](lateral_de_la_pieza_irregular.md)
 
