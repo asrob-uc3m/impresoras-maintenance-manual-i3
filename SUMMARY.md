@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [Glosario terminológico](glosario.md)
-* [Recomendaciones previas](recomendaciones_previas.md)
 * [Herramientas para el mantenimiento de las impresoras](herramientas_para_el_mantenimiento_de_las_impresor.md)
+* [Recomendaciones previas](recomendaciones_previas.md)
 * [La impresora no suministra la cantidad de plástico necesaria (Subextrusión)](la_impresora_no_suministra_la_cantidad_de_plastico.md)
 * [La impresora no extruye filamento](la_impresora_no_extruye_filamento.md)
 * [Problemas de fijación de la pieza a la mesa](problemas_de_fijacion_de_la_pieza_a_la_mesa.md)
