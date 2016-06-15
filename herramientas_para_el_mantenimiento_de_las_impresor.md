@@ -1,6 +1,6 @@
 # Herramientas para el mantenimiento de las impresoras
 
-De cara a la reparación de cualquier problema que pueda surgir en las impresoras 3D *Blacky* e *Hija Resurrection*, es conveniente reunir una serie de herramientas e instrumentos que nos serán útiles a la hora de manipular estos dispositivos.
+De cara a la reparación de cualquier problema que pueda surgir en las impresoras 3D *Blacky* e *Hija Resurrection*, es conveniente reunir una serie de **herramientas** e instrumentos que nos serán útiles a la hora de **manipular** estos dispositivos.
 
 * Soldador.
 * Estaño (cuanto más fino mejor)
