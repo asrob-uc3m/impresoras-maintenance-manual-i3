@@ -28,6 +28,8 @@ En *Skirt* podremos determinar el número de vueltas (loops) de nuestro perímet
 
 ### 2- Calibrar el eje Z de la impresora
 
+(incluir calibrar mesa y comprobar z para distintos x e y)
+
 Se pueden seguir varios procedimientos para calibrar el eje Z de la impresora. Si partimos de una impresora con este eje no calibrado, tendremos numerosos problemas de impresión, bien por demasiada cercanía del extrusor a la cama caliente y su consecuente dificultad de extruir plástico, o bien por demasíada distancia entre estos, lo que produciría que el plástico se extruya a cierta altura y por lo tanto no se fije a la base caliente ni se consiga la forma esperada de la pieza. Se ha de tener en cuenta que **la distancia ideal entre el cabezal del extrusor y la base caliente es aquella que permita pasar un folio entre ambos sin dificultad.**
 
 Los métodos recomendados para evitar este problema son:
