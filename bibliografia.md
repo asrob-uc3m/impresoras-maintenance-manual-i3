@@ -7,4 +7,5 @@
 5. Wiki.ikaslab.org. (2016). ¿Tienes problemas de impresión? - IkasLab. [online] Available at: http://wiki.ikaslab.org/index.php/%C2%BFTienes_problemas_de_impresi%C3%B3n%3F 
 6. Spainlabs.com. (2016). Despegar piezas de la cama. [online] Available at: http://www.spainlabs.com/foros/tema-Despegar-piezas-de-la-cama 
 7. LEON3D. (2016). GUÍA DE RESOLUCIÓN DE PROBLEMAS | LEON3D. [online] Available at: https://www.leon-3d.es/guia-de-resolucion-de-problemas/ 
-8. Impresoras3D.com. (2016). El warping: qué es y como evitarlo. [online] Available at: https://impresoras3d.com/blogs/noticias/102850759-el-warping-que-es-y-como-evitarlo
+8. Ultimaker.com. (2016). Pillowing in print | Ultimaker. [online] Available at: https://ultimaker.com/en/community/8812-pillowing-in-print 
+9. Impresoras3D.com. (2016). El warping: qué es y como evitarlo. [online] Available at: https://impresoras3d.com/blogs/noticias/102850759-el-warping-que-es-y-como-evitarlo
