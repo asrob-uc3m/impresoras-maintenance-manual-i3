@@ -19,9 +19,9 @@
 * [Parte inferior de piezas curvada](bases_curvadas.md)
 * [Grietas en la pieza](grietas_en_la_pieza.md)
 * [Arañazos en la pieza](aranazos_en_la_pieza.md)
+* [Lateral de la pieza irregular](lateral_de_la_pieza_irregular.md)
 * [Impresión poco precisa](impresion_poco_precisa.md)
 * [Impresión desplazada](impresion_desplazada.md)
 * [Errores para los cuales debe contactar a un técnico profesional](errores_para_los_cuales_debe_contactar_a_un_tecnic.md)
 * [Bibliografía](bibliografia.md)
-* [Lateral de la pieza irregular](lateral_de_la_pieza_irregular.md)
 
