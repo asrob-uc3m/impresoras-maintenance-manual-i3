@@ -5,6 +5,7 @@
 3. Docs.google.com. (2016). Manual de usuario. [online] Available at: https://docs.google.com/document/d/1b7sLQl3vPjp7CNvayk5mEjHVgoPj9QuWfPiRglXKoq4/pub 
 4. enThings. (2014). Herramientas imprescindibles para imprimir en 3D. [online] Available at: http://enthings.com/tutorial/herramientas-imprescindibles-para-imprimir-en-3d/ 
 5. Wiki.ikaslab.org. (2016). ¿Tienes problemas de impresión? - IkasLab. [online] Available at: http://wiki.ikaslab.org/index.php/%C2%BFTienes_problemas_de_impresi%C3%B3n%3F 
+6. Tshop.r10s.com. (2016). Espátula para vitrocerámica (Imagen). [online] Available at: http://tshop.r10s.com/a1a9fcc0-e649-11e3-a562-005056b70a09/20140607/c83c98ee-50c6-44f0-80a9-efd58ad62fa4.jpg?_ex=330x330)
 6. Spainlabs.com. (2016). Despegar piezas de la cama. [online] Available at: http://www.spainlabs.com/foros/tema-Despegar-piezas-de-la-cama 
 7. LEON3D. (2016). GUÍA DE RESOLUCIÓN DE PROBLEMAS | LEON3D. [online] Available at: https://www.leon-3d.es/guia-de-resolucion-de-problemas/ 
 8. Ultimaker.com. (2016). Pillowing in print | Ultimaker. [online] Available at: https://ultimaker.com/en/community/8812-pillowing-in-print 
