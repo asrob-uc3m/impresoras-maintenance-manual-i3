@@ -44,7 +44,7 @@ Es importante comprobar que los hilos no se solapan en el carrete, pues esto pod
 
 Es recomendable comprobar que la **cantidad de filamento** previa a la impresión es la adecuada para las características de esta. Si el extrusor se queda sin filamento, habremos arruinado la pieza.
 
-**No** se recomienda, igualmente, hacer cambios de filamento **durante** la impresión. Diríjase a la sección *Escasez de filamento durante la impresión (Reemplazo en marcha)* para más información.
+**No** se recomienda, igualmente, hacer cambios de filamento **durante** la impresión. Diríjase a la sección *Reemplazo de filamento durante la impresión* para más información.
 
 ### 5- Motor sobrecalentado
 
