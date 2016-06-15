@@ -28,7 +28,7 @@ En *Skirt* podremos determinar el número de vueltas (loops) de nuestro perímet
 
 ### 2- Calibrar el eje Z de la impresora
 
-Antes de proceder a cualquier operación relacionada con el calibrado, es fundamental nivelar la cama caliente. Se recomienda que en todas las operaciones que se detallan a continuación se intercale la calibración del eje Z con la comprobación de la correctitud de los sensores correspondientes al fin de carrera tanto del eje X como del eje Y.
+Antes de proceder a cualquier operación relacionada con el calibrado, es fundamental **nivelar** la **cama caliente**. Se recomienda que en todas las operaciones que se detallan a continuación se intercale la calibración del eje Z con la comprobación de la correctitud de los sensores correspondientes al fin de carrera tanto del **eje X** como del **eje Y**.
 
 Se pueden seguir varios procedimientos para calibrar el eje Z de la impresora. Si partimos de una impresora con este eje no calibrado, tendremos numerosos problemas de impresión, bien por demasiada cercanía del extrusor a la cama caliente y su consecuente dificultad de extruir plástico, o bien por demasíada distancia entre estos, lo que produciría que el plástico se extruya a cierta altura y por lo tanto no se fije a la base caliente ni se consiga la forma esperada de la pieza. Se ha de tener en cuenta que **la distancia ideal entre el cabezal del extrusor y la base caliente es aquella que permita pasar un folio entre ambos sin dificultad.**
 
