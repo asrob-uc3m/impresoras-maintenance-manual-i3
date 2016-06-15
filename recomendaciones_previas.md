@@ -59,3 +59,10 @@ Este es el modo más rudimentario de calibrar el eje Z. Los tornillos son los ve
 <img src="FullSizeRender.gif" alt="FSR" height="300" width="400" align="middle">
 
 *Figura 3: Cama caliente de la impresora 3D Blacky.*
+
+
+### 3- Comprobar las temperaturas recomendadas para cada material
+
+Aunque no hay datos exactos, puesto que cada material, dependiendo del fabricante, del grosor del filamento e incluso del color, requiere unas condiciones distintas; se recomienda hacer un estudio de las temperaturas recomendadas para cada caso concreto, en lo referente al extrusor y a la cama caliente.
+
+A modo de guía aproximada, se puede seguir la tabla que se muestra en este [enlace](http://wiki.ikaslab.org/index.php/File:TABLA_MATERIALES.jpg), aunque es más conveniente seguir las instrucciones del fabricante.
