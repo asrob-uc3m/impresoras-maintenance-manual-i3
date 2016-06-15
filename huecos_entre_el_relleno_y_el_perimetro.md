@@ -13,7 +13,7 @@ En el caso de que estos ajustes no den un resultado positivo, podemos probar a m
 
 *Slicer>Configure>PrintSettings>Infill*
 
-Se recomienda tener siempre activada la siguiente casilla:
+Se recomienda tener siempre activada la siguiente casilla para evitar este problema:
 
 *Slicer>PrintSettings>LayersAndPerimeters>DetectThinWalls*
 
