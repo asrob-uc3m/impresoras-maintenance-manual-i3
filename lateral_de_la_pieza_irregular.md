@@ -2,9 +2,9 @@
 
 Si las capas de nuestra pieza no se apilan de forma ordenada, tendremos como resultado un perfil irregular y rugoso. Este problema tiene su origen en una **holgura** no deseada en el **eje Z**. Podemos recuperar la precisión de este eje en tres sencillos pasos:
 
-1. Fijar correctamente las varillas lisas del eje Z, ya que probablemente estén moviéndose en mayor o menor medida.
-2. Comprobar que las varillas roscadas de nuestra impresora están rectas y concéntricas con el motor.
-3. Fijar correctamente las tuercas que permiten el movimiento en el eje Z.
+1. **Fijar** correctamente las **varillas lisas** del eje Z, ya que probablemente estén moviéndose en mayor o menor medida.
+2. Comprobar que las **varillas roscadas** de nuestra impresora están **rectas** y **concéntricas** con el motor.
+3. **Fijar** correctamente las **tuercas** que permiten el movimiento en el eje Z.
 
 
 
