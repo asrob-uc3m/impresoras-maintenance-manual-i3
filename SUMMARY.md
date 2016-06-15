@@ -24,5 +24,5 @@
 * [Impresión desplazada](impresion_desplazada.md)
 * [Errores para los cuales debe contactar a un técnico profesional](errores_para_los_cuales_debe_contactar_a_un_tecnic.md)
 * [Bibliografía](bibliografia.md)
-* Escasez de filamento durante la impresión (Reemplazo en marcha)
+* [Escasez de filamento durante la impresión (Reemplazo en marcha)](escasez_de_filamento_durante_la_impresion_reemplaz.md)
 
