@@ -16,7 +16,7 @@
 * [Voladizos (Overhang)](voladizos_overhang.md)
 * [Huecos entre el relleno y el perímetro](huecos_entre_el_relleno_y_el_perimetro.md)
 * [Burbujas en la pieza](burbujas_en_la_pieza.md)
-* [Bases curvadas](bases_curvadas.md)
+* [Parte inferior de piezas curvada](bases_curvadas.md)
 * [Grietas en la pieza](grietas_en_la_pieza.md)
 * [Arañazos en la pieza](aranazos_en_la_pieza.md)
 * [Impresión poco precisa](impresion_poco_precisa.md)
