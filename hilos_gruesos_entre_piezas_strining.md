@@ -22,3 +22,7 @@ En el software Repetier-Host, podemos activar esta función siguiendo las siguie
 
 *Slicer>Configure>PrinterSettings>General>Advanced>UseFirmwareRetraction*
 
+También podemos activar la casilla de "retraer solo cuando se cruzan perímetros" siguiendo las siguientes instrucciones:
+
+*Slicer>Configure>PrintSettings>Infill>Advanced>OnlyRetractWhenCrossingPerimeters*
+
