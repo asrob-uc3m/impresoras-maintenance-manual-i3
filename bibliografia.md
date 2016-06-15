@@ -10,3 +10,5 @@
 7. LEON3D. (2016). GUÍA DE RESOLUCIÓN DE PROBLEMAS | LEON3D. [online] Available at: https://www.leon-3d.es/guia-de-resolucion-de-problemas/ 
 8. Ultimaker.com. (2016). Pillowing in print | Ultimaker. [online] Available at: https://ultimaker.com/en/community/8812-pillowing-in-print 
 9. Impresoras3D.com. (2016). El warping: qué es y como evitarlo. [online] Available at: https://impresoras3d.com/blogs/noticias/102850759-el-warping-que-es-y-como-evitarlo
+10. Barbón, C. (2015). Defectos en piezas fabricadas por impresión 3D FFF (IV). [online] Impresión 3D Prototipado | 3D Printing Prototyping | Dima 3D. Available at: http://www.dima3d.com/defectos-en-piezas-fabricadas-por-impresion-3d-fff-causas-y-soluciones-iv/ 
+11. RETSAC. (2013). Impresión 3D. ¿Qué es y qué podemos hacer?. [online] Available at: https://retsac.wordpress.com/2013/11/08/impresion-3d-que-es-y-que-podemos-hacer/ 
