@@ -13,6 +13,10 @@ En el caso de que estos ajustes no den un resultado positivo, podemos probar a m
 
 *Slicer>Configure>PrintSettings>Infill*
 
+Se recomienda tener siempre activada la siguiente casilla:
+
+*Slicer>PrintSettings>LayersAndPerimeters>DetectThinWalls*
+
 ### 2- Huecos en determinadas partes de la pieza entre el relleno y el perímetro
 
 Si estos huecos se presentan de forma irregular, estamos ante un problema de subextrusión. Se recomienda revisar el apartado de este manual llamado *La impresora no suministra la cantidad de plástico necesaria (Subextrusión)*.
