@@ -19,7 +19,7 @@ Se recomienda tener siempre activada la siguiente casilla para evitar este probl
 
 ### 2- Huecos en determinadas partes de la pieza entre el relleno y el perímetro
 
-Si estos huecos se presentan de forma irregular, estamos ante un problema de subextrusión. Se recomienda, tanto para este problema como para todos los problemas relacionados con la falta de material en la impresión, revisar el apartado de este manual llamado *La impresora no suministra la cantidad de plástico necesaria (Subextrusión)*.
+Si estos huecos se presentan de forma irregular, estamos ante un problema de subextrusión. Se recomienda, tanto para este problema como para todos los problemas relacionados con la falta de material en la impresión, revisar el apartado de este manual llamado *La impresora no extruye suficiente filamento (Subextrusión)*.
 
 <img src="Sub.jpg" alt="sub" height="320" width="400" align="middle">
 
