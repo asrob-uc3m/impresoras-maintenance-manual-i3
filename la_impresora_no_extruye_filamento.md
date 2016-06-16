@@ -29,7 +29,7 @@ Otros factores que debemos tener en cuenta para evitar la mordedura del filament
 2. **Temperatura**: Si la temperatura no es la adecuada, al igual que en el caso anterior se pueden producir problemas de extrusión con la correspondiente mordida del filamento.
 3. **Diámetro**: Un diámetro inferior al especificado puede producir que el filamento sea mordido.
 
-Conviene revisar que la polea esté libre de residuos que le impidan trabajar conrrectamente. Para ello, desenrroscaremos los tornillos con los muelles que unen la polea al rodillo y, si fuera necesario, **limpiaremos** con algún **objeto fino** los espacios entre los dientes. Se recomienda comprobar que los dientes no estén desgastados.
+Conviene revisar que la polea esté libre de residuos que le impidan trabajar conrrectamente. Para ello, desenrroscaremos los tornillos con los muelles que unen la polea al rodillo en el caso de la impresora *Blacky*, o desenroscamos el tornillo con la llave allen en el caso de la impresora *Hija Resurrection*. Si fuese necesario, **limpiaríamos** con algún **objeto fino** los espacios entre los dientes. Se recomienda comprobar que los dientes no estén desgastados.
 
 <img src="polea.JPG" alt="polea" height="250" width="400" align="middle">
 
