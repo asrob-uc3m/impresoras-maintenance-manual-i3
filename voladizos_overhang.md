@@ -4,7 +4,7 @@ La impresora 3D necesita una base en la cual apoyar la impresión. Si se imprime
 
 <img src="vol.jpg" alt="vol" height="320" width="400" align="middle">
 
-*Figura 12: Voladizos en una pieza impresa sin soporte.*
+*Figura 13: Voladizos en una pieza impresa sin soporte.*
 
 Para evitar este problema, existe una única solución, que es la **activación de un soporte** para nuestra pieza. Este soporte desechable estará constituido por el mismo material que la pieza y su función será la de servir como **base provisional** de impresión.
 
