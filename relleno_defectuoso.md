@@ -14,7 +14,7 @@ Si la velocidad de impresión del relleno es muy **alta**, este probablemente no
 
 ### 2- Aumentar el flujo de plástico
 
-Para este y otros problemas relacionados con la **deficiencia** en la extrusión, consultar el apartado *La impresora no suministra la cantidad de plástico necesaria (Subextrusión)* de este manual.
+Para este y otros problemas relacionados con la **deficiencia** en la extrusión, consultar el apartado *La impresora no extruye suficiente filamento (Subextrusión)* de este manual.
 
 
 ### 3- Tipo de relleno
