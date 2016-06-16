@@ -23,5 +23,5 @@ Si estos huecos se presentan de forma **irregular**, estamos ante un problema de
 
 <img src="Sub.jpg" alt="sub" height="320" width="400" align="middle">
 
-*Figura 14: Huecos irregulares entre el relleno y el perímetro. El problema se presenta como un claro caso de subextrusión, pues podemos comprobar que a lo largo de la base también se han producido espacios entre los filamentos.*
+*Figura 15: Huecos irregulares entre el relleno y el perímetro. El problema se presenta como un claro caso de subextrusión, pues podemos comprobar que a lo largo de la base también se han producido espacios entre los filamentos.*
 
