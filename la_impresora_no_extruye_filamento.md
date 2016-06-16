@@ -35,6 +35,9 @@ Conviene revisar que la polea esté libre de residuos que le impidan trabajar co
 
 *Figura 6: Polea y rodillo separados en la impresora Blacky.*
 
+<img src="hr.jpg" alt="hr" height="250" width="400" align="middle">
+
+*Figura 7: Tornillo a desenroscar en la impresora Hija Resurrection.*
 
 ### 3- Enredos en el filamento
 
