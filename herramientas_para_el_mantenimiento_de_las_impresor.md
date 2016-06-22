@@ -25,3 +25,5 @@ Es recomendable tener también:
 * Acetona (en deshuso por la utilización de PLA)
 
 <img src="Her.jpg" alt="Her" height="300" width="400" align="middle">
+
+*Figura 0: Herramientas imprescindibles para el trabajo diario con las impresoras 3D.*
