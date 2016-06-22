@@ -24,5 +24,4 @@ Es recomendable tener también:
 * Mechero
 * Acetona (en deshuso por la utilización de PLA)
 
-
-
+<img src="Her.jpg" alt="Her" height="300" width="400" align="middle">
