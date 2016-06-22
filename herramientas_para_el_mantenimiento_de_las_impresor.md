@@ -23,3 +23,6 @@ Es recomendable tener también:
 * Tubo termoretractil
 * Mechero
 * Acetona (en deshuso por la utilización de PLA)
+
+
+
