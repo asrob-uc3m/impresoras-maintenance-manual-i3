@@ -22,12 +22,13 @@ Cura es un software libre presente en el sistema operativo Lubuntu. Puede ser de
 Para su instalación se deben seguir los siguientes pasos:
 
 1. Abrir el archivo ejecutable y seguir las instrucciones del asistente de instalación.
-2. Nos aseguramos de que abra archivos .stl y .obj. Puede interesarnos marcar 
+2. En la ventana de *Choose Components* aseguramos de que el softwarer abra archivos .stl y .obj. Puede interesarnos marcar *Uninstall other Cura versions* si tenemos versiones anteriores instaladas en el ordenador.
+3. Seguimos los pasos que marca el instalador hasta que esta finalice. Cuando esto ocurra no abriremos el programa ya que primero hay que configurar el software.
 
-Tras descargar el software haremos doble click en descargable y seguiremos las instrucciones del asistente. En este primer paso lo que haremos es comprobar que tenemos los drivers instalados e instalar el software cura. 
 
-Nos aseguraremos de seleccionar tanto que nos abra archivos .stl y .obj y por si acaso seleccionaremos también Unninstall other Cura versions para que nos borre posibles anteriores versiones del software. Por lo demás es clickar en Siguiente en las ventanas posteriores. 
 
-Una vez acabamos la instalación NO vamos a abrir el programa ya que primero tenemos que configurar el software.
+---
+
+Para conocer los detalles de configuración del software Cura, visite el ANEXO 2 de este manual.
 
 
