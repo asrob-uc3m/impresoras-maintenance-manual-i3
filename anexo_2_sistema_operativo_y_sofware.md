@@ -34,7 +34,7 @@ Para su instalación se deben seguir los siguientes pasos:
 
 1. Abrir el archivo ejecutable y seguir las indicaciones del instalador.
 2. Marcar todas las casillas en la ventana de *Seleccione los Componentes*
-3. Seguimos los pasos que marca el instalador hasta que esta finalice. Cuando esto ocurra abriremos el programa para configurarlo desde el botón Configurar Impresora.
+3. Seguimos los pasos que marca el instalador hasta que esta finalice. Cuando esto ocurra abriremos el programa para configurarlo desde el botón *Configurar Impresora*.
 
 
 ---
