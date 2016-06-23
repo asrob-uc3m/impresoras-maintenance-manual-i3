@@ -1,2 +1,2 @@
-# ANEXO 2: Sistema operativo y sofware
+# ANEXO 1: Sistema operativo y sofware
 
