@@ -37,8 +37,6 @@ Para su instalación se deben seguir los siguientes pasos:
 3. Seguimos los pasos que marca el instalador hasta que esta finalice. Cuando esto ocurra abriremos el programa para configurarlo desde el botón Configurar Impresora.
 
 
-
-
 ---
 
 *Para conocer los detalles de configuración del software Cura y Repetier Host, visite el ANEXO 2 de este manual.*
