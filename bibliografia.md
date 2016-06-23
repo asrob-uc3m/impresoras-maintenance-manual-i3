@@ -14,3 +14,6 @@
 10. Barbón, C. (2015). Defectos en piezas fabricadas por impresión 3D FFF (IV). [online] Impresión 3D Prototipado | 3D Printing Prototyping | Dima 3D. Available at: http://www.dima3d.com/defectos-en-piezas-fabricadas-por-impresion-3d-fff-causas-y-soluciones-iv/ 
 11. RETSAC. (2013). Impresión 3D. ¿Qué es y qué podemos hacer?. [online] Available at: https://retsac.wordpress.com/2013/11/08/impresion-3d-que-es-y-que-podemos-hacer/ 
 12. Wiki.ikaslab.org. (2016). File:TABLA MATERIALES.jpg - IkasLab. [online] Available at: http://wiki.ikaslab.org/index.php/File:TABLA_MATERIALES.jpg 
+13. R3ald.com. (2016). ¿Qué es un fichero STL? - R3ALD. [online] Available at: http://www.r3ald.com/que-es-un-fichero-stl 
+14. Impresoras3D.com. (2016). Slic3r - El generador de G-code (parte 1 de 4). [online] Available at: https://impresoras3d.com/blogs/noticias/102827015-slic3r-el-generador-de-g-code-parte-1-de-4 
+4. Ventura, V. (2015). Crear G-Code con Cura para imprimir en 3D. [online] Polaridad.es. Available at: http://polaridad.es/gcode-cura-imprimir-3d/
