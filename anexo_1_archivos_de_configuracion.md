@@ -14,3 +14,14 @@ Antes de proceder a la configuración, debemos [descargar](https://github.com/tu
 
 ### 2- Configuración Repetier-Host
 
+Para la configuración de Repetier-Host en los nuevos PCs podremos hacer uso de los archivos de configuración presentes en el disco C: de los ordenadores antiguos.
+
+Los archivos fundamentales que necesitaremos serán los siguientes **archivos de configuración de inicio**, que copiaremos en la **misma ubicación** de la cual los hemos obtenido, en el nuevo ordenador:
+
+* *slic3r.ini* - Ubicado en: Repetier-Host
+* *custom.ini* - Ubicado en: Repetier-Host -> data
+
+Ambos archivos contiene la información de configuración que se indicó en su momento en el software de impresión con el que trabajábamos anteriormente.
+
+
+
