@@ -29,7 +29,7 @@ Para su instalación se deben seguir los siguientes pasos:
 
 ---
 
-*Dado que todo este manual de mantenimiento se explica desde el software Repetier-Host, se recomienda consultar el manual de Cura para conocer cómo acceder a los ajustes básicos a los que se hace referencia a lo largo de este documento.*
+*Dado que todo este manual de mantenimiento se explica desde el software Repetier-Host, se recomienda consultar el [manual de Cura](http://www.zonamaker.com/index.php/impresion-3d/software-imp3d/manual-de-cura) para conocer cómo acceder a los ajustes básicos a los que se hace referencia a lo largo de este documento.*
 
 
 ---
