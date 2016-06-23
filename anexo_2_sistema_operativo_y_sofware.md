@@ -29,6 +29,14 @@ Para su instalación se deben seguir los siguientes pasos:
 
 ---
 
-Para conocer los detalles de configuración del software Cura, visite el ANEXO 2 de este manual.
+*Para conocer los detalles de configuración del software Cura, visite el ANEXO 2 de este manual.*
+
+
+---
+
+
+### 3- Repetier Host
+
+
 
 
