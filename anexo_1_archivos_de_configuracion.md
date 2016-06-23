@@ -1,2 +1,2 @@
-# ANEXO 1: Archivos de configuración
+# ANEXO 2: Archivos de configuración
 
