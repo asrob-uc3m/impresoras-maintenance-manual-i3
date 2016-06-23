@@ -22,8 +22,8 @@ Cura es un software libre de impresión presente de serie en el sistema operativ
 Para su instalación se deben seguir los siguientes pasos:
 
 1. Abrir el **archivo ejecutable** y seguir las instrucciones del asistente de instalación.
-2. En la ventana de *Choose Components* aseguramos de que el softwarer abra archivos .stl y .obj. Puede interesarnos marcar *Uninstall other Cura versions* si tenemos versiones anteriores instaladas en el ordenador.
-3. Seguimos los pasos que marca el instalador hasta que esta finalice. Cuando esto ocurra no abriremos el programa ya que primero hay que configurar el software.
+2. En la ventana de *Choose Components* aseguramos de que el softwarer abra **archivos .stl y .obj**. Puede interesarnos marcar *Uninstall other Cura versions* si tenemos versiones anteriores instaladas en el ordenador.
+3. Seguimos los pasos que marca el instalador hasta que esta finalice. Cuando esto ocurra **no abriremos el programa** ya que primero hay que configurar el software.
 
 
 
@@ -41,9 +41,9 @@ Repetier-Host es el software de impresión utilizado de forma exclusiva hasta el
 
 Para su instalación se deben seguir los siguientes pasos:
 
-1. Abrir el archivo ejecutable y seguir las indicaciones del instalador.
-2. Marcar todas las casillas en la ventana de *Seleccione los Componentes*
-3. Seguimos los pasos que marca el instalador hasta que esta finalice. Cuando esto ocurra abriremos el programa para configurarlo desde el botón *Configurar Impresora*.
+1. Abrir el **archivo ejecutable** y seguir las indicaciones del instalador.
+2. Marcar **todas** las casillas en la ventana de *Seleccione los Componentes*
+3. Seguimos los pasos que marca el instalador hasta que esta finalice. Cuando esto ocurra **abriremos el programa** para configurarlo desde el botón *Configurar Impresora*.
 
 
 ---
