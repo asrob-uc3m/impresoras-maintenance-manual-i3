@@ -26,6 +26,15 @@ Para su instalación se deben seguir los siguientes pasos:
 3. Seguimos los pasos que marca el instalador hasta que esta finalice. Cuando esto ocurra no abriremos el programa ya que primero hay que configurar el software.
 
 
+
+---
+
+*Dado que todo este manual de mantenimiento se explica desde el software Repetier-Host, se recomienda consultar el manual de Cura para conocer cómo acceder a los ajustes básicos a los que se hace referencia a lo largo de este documento.*
+
+
+---
+
+
 ### 3- Software Repetier-Host
 
 Repetier-Host es el software de impresión utilizado de forma exclusiva hasta el 2016 en las impresoras del Departamento de Robótica de la UC3M. Puede ser descargado desde [este](https://github.com/tumaker/Printing_software) repositorio.
