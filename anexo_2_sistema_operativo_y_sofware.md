@@ -4,7 +4,7 @@ Debido a un **cambio en los equipos** del laboratorio, se va a prroceder a un **
 
 
 ### 1- Sistema operativo Lubuntu
-Lubuntu es un sistema operativo **rápido y ligero**, fundado por Julien Lavergne, cuyo núcleo está basado en Linux y Ubuntu. La ventaja competitiva de Lubuntu reside en su rapidez y su eficiencia energética, además de sus pocos requerimientos respectoa  hardware.
+Lubuntu es un sistema operativo **rápido y ligero**, fundado por Julien Lavergne, cuyo núcleo está basado en Linux y Ubuntu. La ventaja competitiva de Lubuntu reside en su rapidez y su eficiencia energética, además de sus pocos requerimientos respecto a  hardware.
 
 La elección de este sistema responde a dos motivos fundamentales:
 
@@ -17,6 +17,17 @@ A la instalación del sistema se puede acceder desde este [enlace](http://lubunt
 
 ### 2- Software Cura
 
+Cura es un software libre presente en el sistema operativo Lubuntu. Puede ser descargado desde [este](https://github.com/tumaker/Printing_software) repositorio.
 
+Para su instalación se deben seguir los siguientes pasos:
+
+1. Abrir el archivo ejecutable y seguir las instrucciones del asistente de instalación.
+2. Nos aseguramos de que abra archivos .stl y .obj. Puede interesarnos marcar 
+
+Tras descargar el software haremos doble click en descargable y seguiremos las instrucciones del asistente. En este primer paso lo que haremos es comprobar que tenemos los drivers instalados e instalar el software cura. 
+
+Nos aseguraremos de seleccionar tanto que nos abra archivos .stl y .obj y por si acaso seleccionaremos también Unninstall other Cura versions para que nos borre posibles anteriores versiones del software. Por lo demás es clickar en Siguiente en las ventanas posteriores. 
+
+Una vez acabamos la instalación NO vamos a abrir el programa ya que primero tenemos que configurar el software.
 
 
