@@ -17,3 +17,4 @@
 13. R3ald.com. (2016). ¿Qué es un fichero STL? - R3ALD. [online] Available at: http://www.r3ald.com/que-es-un-fichero-stl 
 14. Impresoras3D.com. (2016). Slic3r - El generador de G-code (parte 1 de 4). [online] Available at: https://impresoras3d.com/blogs/noticias/102827015-slic3r-el-generador-de-g-code-parte-1-de-4 
 4. Ventura, V. (2015). Crear G-Code con Cura para imprimir en 3D. [online] Polaridad.es. Available at: http://polaridad.es/gcode-cura-imprimir-3d/
+5. Wiki.ikaslab.org. (2016). Instalación de softwares y drivers para impresión 3D - IkasLab. [online] Available at: http://wiki.ikaslab.org/index.php/Instalaci%C3%B3n_de_softwares_y_drivers_para_impresi%C3%B3n_3D#Instalaci.C3.B3n_de_Cura [Accessed 23 Jun. 2016].
