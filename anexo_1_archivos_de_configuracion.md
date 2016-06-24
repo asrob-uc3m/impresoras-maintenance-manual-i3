@@ -23,5 +23,11 @@ Los archivos fundamentales que necesitaremos serán los siguientes **archivos de
 
 Ambos archivos contiene la información de configuración que se indicó en su momento en el software de impresión con el que trabajábamos anteriormente.
 
+* **CONFIGURACIÓN MANUAL DE REPETIER-HOST**
+
+p
+
+
+
 
 
