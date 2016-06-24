@@ -23,9 +23,42 @@ Los archivos fundamentales que necesitaremos serán los siguientes **archivos de
 
 Ambos archivos contiene la información de configuración que se indicó en su momento en el software de impresión con el que trabajábamos anteriormente.
 
-* **CONFIGURACIÓN MANUAL DE REPETIER-HOST**
+* **CONFIGURACIÓN MANUAL DE REPETIER-HOST PARA VOLADORA V2**
 
-p
+Desde dentro del programa, pulsaremos el botón de la esquina superior derecha *Configurar Impresora*. Encontraremos cuatro pestañas.
+
+1. **Pestaña conexión:** 
+ * Connector: Conexión Serie.
+ * Puerto: Aquel en el que tengamos conectada la impresora.
+ * Baudrate: 250000.
+ * Protocolo de transferencia: Autodetect.
+ * Reinicio al conectar: DTR low->high->low
+ * Reiniciar en emergencia: Envia el comando de emergencia y reconecta.
+ * Cache Recep: 63
+
+2. **Pestaña impresora (valores usados en el laboratorio):**
+  * Velocidad Desplazamiento sin extruir: 4800
+  * Velocidad Avance del Eje Z: 100
+  * 
+ 
+
+
+Temperatura precalentamiento Extrusor y Temperatura precalentamiento Plataforma: Son los valores que damos por defecto a la impresora para calentarse. Si no especificamos ninguna temperatura y pulsamos a calentar este es el valor al que se calentará el cabezal o la plataforma hasta que le digamos lo contrario.
+Send ETA to printer display: Es muy importante para el correcto funcionamiento de la impresora que esta casilla esté desactivada. 
+Ir a posición de reposo después de impresión: También tenemos que tenerlo desactivado siempre. 
+Apagar Extrusor, motores y plataforma: Estas opciones las mantendremos seleccionadas por seguridad y para ahorrar energía. 
+
+Extruder y Dimensiones impresora para Voladoras V2
+Repetier config simple.jpg
+
+De esta manera tenemos que configurar para las impresoras con un solo cabezal. 
+
+Número de Extrusores: 1
+Diameter: Aquí especificaremos de que tamaño es la salida del cabezal. Las Tumaker Voladoras se venden con boquilla de 0,4mm de diametro pero en caso de haber solicitado alguna especial habrá que anotarlo en esta casilla. 
+Reposo: Las opciones del reposo x, reposo y, y reposo z tienen que estar como en la ilustración, Min, Max y 0 respectivamente.
+Xmax, Ymax: Para indicar a la máquina donde esta el límite de movimiento de los ejes es importante definir Xmax= 220, Ymax= 210.
+Anchura, profundidad y altura: La superficie imprimible es de 220 x 210 x 190
+
 
 
 
