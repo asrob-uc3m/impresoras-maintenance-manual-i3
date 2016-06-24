@@ -3,7 +3,7 @@
 Será necesario configurar el software de impresión para poder utilizar las impresoras. A continuación se detallan los procedimientos para configurar tanto *Cura* como *Repetier-Host*.
 
 
-### 1- Configuración Cura
+### 1- Configuración *Cura*
 
 Antes de proceder a la configuración, debemos [descargar](https://github.com/tumaker/Config-files), si no los tenemos ya, unos **archivos .ini** con la configuración de las impresoras. Usaremos esos perfiles para la configuración, siguiendo los siguientes pasos:
 
@@ -12,19 +12,19 @@ Antes de proceder a la configuración, debemos [descargar](https://github.com/tu
 2. Abrimos *Cura*. En la guía de configuración que aparecerá, se nos pedirá que indiquemos el **modelo** de nuestra impresora. Entraremos en la pestaña *Machine* y seleccionaremos la opción *Other* y el modelo** Voladora V2** en nuestro caso (ya que nuestras impresoras tienen un único extrusor). 
 
 
-### 2- Configuración Repetier-Host
+### 2- Configuración *Repetier-Host*
 
-Para la configuración de Repetier-Host en los nuevos PCs podremos hacer uso de los archivos de configuración presentes en el disco C: de los ordenadores antiguos.
+Para la configuración de *Repetier-Host* en los nuevos PCs podremos hacer uso de los archivos de configuración presentes en el disco C: de los ordenadores antiguos.
 
 Los archivos fundamentales que necesitaremos serán los siguientes **archivos de configuración de inicio**, que copiaremos en la **misma ubicación** de la cual los hemos obtenido, en el nuevo ordenador:
 
-* *slic3r.ini* - Ubicado en: *Repetier-Host*
-* *custom.ini* - Ubicado en: *Repetier-Host->data*
-* *config.ini* - Se puede conseguir siguiendo las siguientes instrucciones dentro del programa *Repetier-Host*: *Slicer->Configure->File->ExportConfig...*
+* ***slic3r.ini*** - Ubicado en: *Repetier-Host*
+* ***custom.ini*** - Ubicado en: *Repetier-Host->data*
+* ***config.ini*** - Se puede conseguir siguiendo las siguientes instrucciones dentro del programa *Repetier-Host*: *Slicer->Configure->File->ExportConfig...*
 
 Ambos archivos contiene la información de configuración que se indicó en su momento en el software de impresión con el que trabajábamos anteriormente.
 
-* **CONFIGURACIÓN MANUAL DE REPETIER-HOST PARA VOLADORA V2**
+* **CONFIGURACIÓN MANUAL DE *REPETIER-HOST* PARA VOLADORA V2**
 
 Desde dentro del programa, pulsaremos el botón de la esquina superior derecha *Configurar Impresora*. Encontraremos cuatro pestañas.
 
@@ -73,7 +73,7 @@ Después de esto, salimos de la configuración de la impresora y en la **pestañ
    * Marcar: Override Slice3r Settings Y Enable Cooling
    * Resto de ajustes al gusto del usuario
 
-El resto de ajustes se configurarian pulsando el **botón Configure** de la **pestaña Slicer**. Estos ajustes son los más extensos y se incluyen en el archivo **slic3r.ini** que puede encontrarse en el [repositorio de ficheros de configuración](https://github.com/asrob-uc3m/impresoras-asrob) de las impresoras del Laboratorio de Robótica de la UC3M.
+El resto de ajustes se configurarian pulsando el **botón Configure** de la **pestaña Slicer**. Estos ajustes son los más extensos y se incluyen en el archivo ***slic3r.ini*** o ***config.ini*** que puede encontrarse en el [repositorio de ficheros de configuración](https://github.com/asrob-uc3m/impresoras-asrob) de las impresoras del Laboratorio de Robótica de la UC3M.
 
 
 
