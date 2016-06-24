@@ -37,7 +37,7 @@ Para su instalación se deben seguir los siguientes pasos:
 
 ### 3- Software Repetier-Host
 
-Repetier-Host es el software de impresión utilizado de forma exclusiva hasta el 2016 en las impresoras del Departamento de Robótica de la UC3M. Puede ser descargado desde [este](https://github.com/tumaker/Printing_software) repositorio.
+*Repetier-Host *es el software de impresión utilizado de forma exclusiva hasta el 2016 en las impresoras del Departamento de Robótica de la UC3M. Puede ser descargado desde [este](https://github.com/tumaker/Printing_software) repositorio.
 
 Para su instalación se deben seguir los siguientes pasos:
 
