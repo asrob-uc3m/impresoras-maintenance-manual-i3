@@ -1,6 +1,6 @@
 # ANEXO 1: Sistema operativo y sofware
 
-Debido a un **cambio en los equipos** del laboratorio, se va a prroceder a un **cambio en los sistemas operativos** y en el software de control de la impresora.
+Debido a un **cambio en los equipos** del laboratorio, se va a proceder a un **cambio en los sistemas operativos** y en el software de control de la impresora.
 
 
 ### 1- Sistema operativo Lubuntu
