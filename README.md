@@ -29,7 +29,7 @@ Este es el manual de mantenimiento de las impresoras de la Asociación de Robót
 
 A continuación se detalla una guía recomendada para poder solucionar los principales problemas que pueden presentarse en el proceso de impresión con ambos dispositivos.
 
-**Este manual es una guía y nunca sustituirá la formación previa de un operador.**
+**Este manual es una guía y nunca sustituirá la formación previa de un [operador](http://ieee.uc3m.es/index.php/Operadores#Operadores_Autorizados).**
 
 * 
 Read me at: [Gitbook](https://www.gitbook.com/book/asrobuc3m/impresoras-maintenance-manual-i3/details)
