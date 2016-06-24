@@ -1,7 +1,7 @@
 # Errores para los cuales debe contactar a un técnico profesional
 
 
-Si se diese cualquiera de los casos que se enumeran a continuación, usted debe delegar el trabajo de reparación en el personal responsable de mantenimiento de estos dispositivos, pues se requiere de un conocimiento más profundo de estos para proceder a la solución del problema.
+Si se diese cualquiera de los casos que se enumeran a continuación, usted debe delegar el trabajo de reparación en el [personal responsable de mantenimiento](http://ieee.uc3m.es/index.php/Operadores#Operadores_Autorizados) de estos dispositivos, pues se requiere de un conocimiento más profundo de estos para proceder a la solución del problema.
 
 ###  1- **Impresiones que se desplazan en los ejes X y/o Y.**
 
