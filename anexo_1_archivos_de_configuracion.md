@@ -9,7 +9,7 @@ Antes de proceder a la configuración, debemos [descargar](https://github.com/tu
 
 1. Copiar los **archivos de configuración** de la impresora en la carpeta del programa que se ha creado en la instalación. Usualmente esta carpeta estará ubicada en el **disco C**, en *Archivos de programa (x86)*. Allí seguiremos las siguientes instrucciones: *Resources->**machine_profiles***. Dentro de esta última carpeta pegaremos los archivos copiados.
 
-2. Abrimos Cura. En la guía de configuración que aparecerá, se nos pedirá que indiquemos el **modelo** de nuestra impresora. Entraremos en la pestaña *Machine* y seleccionaremos la opción *Other* y el modelo** Voladora V2** en nuestro caso (ya que nuestras impresoras tienen un único extrusor). 
+2. Abrimos *Cura*. En la guía de configuración que aparecerá, se nos pedirá que indiquemos el **modelo** de nuestra impresora. Entraremos en la pestaña *Machine* y seleccionaremos la opción *Other* y el modelo** Voladora V2** en nuestro caso (ya que nuestras impresoras tienen un único extrusor). 
 
 
 ### 2- Configuración Repetier-Host
@@ -18,8 +18,9 @@ Para la configuración de Repetier-Host en los nuevos PCs podremos hacer uso de 
 
 Los archivos fundamentales que necesitaremos serán los siguientes **archivos de configuración de inicio**, que copiaremos en la **misma ubicación** de la cual los hemos obtenido, en el nuevo ordenador:
 
-* *slic3r.ini* - Ubicado en: Repetier-Host
-* *custom.ini* - Ubicado en: Repetier-Host -> data
+* *slic3r.ini* - Ubicado en: *Repetier-Host*
+* *custom.ini* - Ubicado en: *Repetier-Host->data*
+* *config.ini* - Se puede conseguir siguiendo las siguientes instrucciones dentro del programa *Repetier-Host*: *Slicer->Configure->File->ExportConfig...*
 
 Ambos archivos contiene la información de configuración que se indicó en su momento en el software de impresión con el que trabajábamos anteriormente.
 
