@@ -7,7 +7,7 @@ Será necesario configurar el software de impresión para poder utilizar las imp
 
 Antes de proceder a la configuración, debemos [descargar](https://github.com/tumaker/Config-files), si no los tenemos ya, unos **archivos .ini** con la configuración de las impresoras. Usaremos esos perfiles para la configuración, siguiendo los siguientes pasos:
 
-1. Copiar los archivos de configuración de la impresora en la carpeta del programa que se ha creado en la instalación. Usualmente esta carpeta estará ubicada en el **disco C**, en *Archivos de programa (x86)*. Allí seguiremos las siguientes instrucciones: *Resources->**machine_profiles***. Dentro de esta última carpeta pegaremos los archivos copiados.
+1. Copiar los **archivos de configuración** de la impresora en la carpeta del programa que se ha creado en la instalación. Usualmente esta carpeta estará ubicada en el **disco C**, en *Archivos de programa (x86)*. Allí seguiremos las siguientes instrucciones: *Resources->**machine_profiles***. Dentro de esta última carpeta pegaremos los archivos copiados.
 
 2. Abrimos Cura. En la guía de configuración que aparecerá, se nos pedirá que indiquemos el **modelo** de nuestra impresora. Entraremos en la pestaña *Machine* y seleccionaremos la opción *Other* y el modelo** Voladora V2** en nuestro caso (ya que nuestras impresoras tienen un único extrusor). 
 
@@ -47,18 +47,32 @@ Desde dentro del programa, pulsaremos el botón de la esquina superior derecha *
   * Añadir tiempo de Impresión: 8
   * Tener marcadas todas las casillas menos: Eliminar comandos M105 del Registro.
 
-3. Pestaña Dimensiones Impresión
+3. **Pestaña Dimensiones Impresión:**
+  * Printer Type: Impresora cartesiana
+  * Reposo X, Y, Z: (Min)
+  * X,Y (Min): 0
+  * X,Y (Max): 170
+  * X,Y (Coord. Plat): 0
+  * Anchura area de impresión: 190
+  * Profundidad area de impresión: 170
+  * Altura area de impresión: 180
+  
+4. **Pestaña Avanzado:**
+  * Ruta de Filtrado y Parámetro: yourFilter #in #out
+  * No marcar nada
 
-Extruder y Dimensiones impresora para Voladoras V2
-Repetier config simple.jpg
+Después de esto, salimos de la configuración de la impresora y en la **pestaña Slicer**, en el programa principal, indicamos lo siguiente:
+   * Slice: Slic3r
+   * Print Setting: Normal Print
+   * Printer Settings: 0.4mm Extruder
+   * Extrusor 1: PLA 1.75mm (si estamos trabajando con PLA)
+   * Layer Height: 0.3mm
+   * Infill Density: 25%
+   * Infill Angle: 45º
+   * Marcar: Override Slice3r Settings Y Enable Cooling
+   * Resto de ajustes al gusto del usuario
 
-De esta manera tenemos que configurar para las impresoras con un solo cabezal. 
-
-Número de Extrusores: 1
-Diameter: Aquí especificaremos de que tamaño es la salida del cabezal. Las Tumaker Voladoras se venden con boquilla de 0,4mm de diametro pero en caso de haber solicitado alguna especial habrá que anotarlo en esta casilla. 
-Reposo: Las opciones del reposo x, reposo y, y reposo z tienen que estar como en la ilustración, Min, Max y 0 respectivamente.
-Xmax, Ymax: Para indicar a la máquina donde esta el límite de movimiento de los ejes es importante definir Xmax= 220, Ymax= 210.
-Anchura, profundidad y altura: La superficie imprimible es de 220 x 210 x 190
+El resto de ajustes se configurarian pulsando el **botón Configure** de la **pestaña Slicer**. Estos ajustes son los más extensos y se incluyen en el archivo **slic3r.ini** que puede encontrarse en el [repositorio de ficheros de configuración](https://github.com/asrob-uc3m/impresoras-asrob) de las impresoras del Laboratorio de Robótica de la UC3M.
 
 
 
