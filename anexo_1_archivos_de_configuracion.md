@@ -36,17 +36,18 @@ Desde dentro del programa, pulsaremos el botón de la esquina superior derecha *
  * Reiniciar en emergencia: Envia el comando de emergencia y reconecta.
  * Cache Recep: 63
 
-2. **Pestaña impresora (valores usados en el laboratorio):**
+2. **Pestaña Impresora (valores usados en el laboratorio):**
   * Velocidad Desplazamiento sin extruir: 4800
   * Velocidad Avance del Eje Z: 100
-  * 
- 
+  * Temperatura precalentamiento Extrusor: 180
+  * Temperatura precalentamiento Plataforma: 50
+  * Número de Extrusores: 1
+  * Comprobar cada 3 segundos
+  * Posición de Reposo X, Y, Z: 85, 170, 0
+  * Añadir tiempo de Impresión: 8
+  * Tener marcadas todas las casillas menos: Eliminar comandos M105 del Registro.
 
-
-Temperatura precalentamiento Extrusor y Temperatura precalentamiento Plataforma: Son los valores que damos por defecto a la impresora para calentarse. Si no especificamos ninguna temperatura y pulsamos a calentar este es el valor al que se calentará el cabezal o la plataforma hasta que le digamos lo contrario.
-Send ETA to printer display: Es muy importante para el correcto funcionamiento de la impresora que esta casilla esté desactivada. 
-Ir a posición de reposo después de impresión: También tenemos que tenerlo desactivado siempre. 
-Apagar Extrusor, motores y plataforma: Estas opciones las mantendremos seleccionadas por seguridad y para ahorrar energía. 
+3. Pestaña Dimensiones Impresión
 
 Extruder y Dimensiones impresora para Voladoras V2
 Repetier config simple.jpg
