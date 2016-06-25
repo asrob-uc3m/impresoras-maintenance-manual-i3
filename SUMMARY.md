@@ -38,5 +38,5 @@
    * Hilos finos entre piezas (Hairy print)
    * Hilos gruesos entre piezas (Strining)
    * Burbujas en la pieza
-* Problemas de homogeneidad del material
+* [Problemas de homogeneidad del material](problemas_de_homogeneidad_del_material.md)
 
