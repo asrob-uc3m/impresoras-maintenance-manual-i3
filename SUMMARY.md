@@ -46,6 +46,7 @@
 * [Problemas de acabado de las piezas](problemas_de_acabado_de_las_piezas.md)
    * Relleno defectuoso
    * Voladizos (Overhang)
+   * Lateral de la pieza irregular
 * [Problemas de deformaciones](problemas_de_deformaciones.md)
    * Levantamiento de las esquinas de la base (Warping)
    * Parte interior de piezas curvada
