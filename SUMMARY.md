@@ -38,4 +38,5 @@
    * Hilos finos entre piezas (Hairy print)
    * Hilos gruesos entre piezas (Strining)
    * Burbujas en la pieza
+* Problemas de insuficiencia de material
 
