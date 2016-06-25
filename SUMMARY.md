@@ -44,5 +44,5 @@
    * Huecos entre el relleno y el perímetro
    * Grietas en la pieza
 * Problemas de acabado de las piezas
-* Problemas de deformaciones
+* [Problemas de deformaciones](problemas_de_deformaciones.md)
 
