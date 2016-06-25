@@ -35,4 +35,5 @@
    * La impresora extruye demasiado filamento
    * El extrusor gotea filamento al calentarlo
 * [Problemas de exceso de material](problemas_de_exceso_de_material.md)
+   * Hilos finos entre piezas (Hairy print)
 
