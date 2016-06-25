@@ -48,6 +48,7 @@
    * Voladizos (Overhang)
    * Lateral de la pieza irregular
    * Arañazos en la pieza
+   * Impresión poco precisa
 * [Problemas de deformaciones](problemas_de_deformaciones.md)
    * Levantamiento de las esquinas de la base (Warping)
    * Parte interior de piezas curvada
