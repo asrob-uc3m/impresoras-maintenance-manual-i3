@@ -42,4 +42,5 @@
    * La base de la pieza no se imprime de forma homogénea
    * Almohadillado en capa superior (Pillowing)
    * Huecos entre el relleno y el perímetro
+* Problemas de acabado de las piezas
 
