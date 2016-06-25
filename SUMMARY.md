@@ -29,6 +29,12 @@
 * [Bibliografía](bibliografia.md)
 * [ANEXO 1: Sistema operativo y sofware](anexo_2_sistema_operativo_y_sofware.md)
 * [ANEXO 2: Configuración del software de impresión](anexo_1_archivos_de_configuracion.md)
+* [Problemas de acabado de las piezas](problemas_de_acabado_de_las_piezas.md)
+   * Relleno defectuoso
+   * Voladizos (Overhang)
+   * Lateral de la pieza irregular
+   * Arañazos en la pieza
+   * Impresión poco precisa
 * [Problemas de extrusión](problemas_de_extrusion.md)
    * La impresora no extruye suficiente filamento (Subextrusión)
    * La impresora no extruye filamento
@@ -43,12 +49,6 @@
    * Almohadillado en capa superior (Pillowing)
    * Huecos entre el relleno y el perímetro
    * Grietas en la pieza
-* [Problemas de acabado de las piezas](problemas_de_acabado_de_las_piezas.md)
-   * Relleno defectuoso
-   * Voladizos (Overhang)
-   * Lateral de la pieza irregular
-   * Arañazos en la pieza
-   * Impresión poco precisa
 * [Problemas de deformaciones](problemas_de_deformaciones.md)
    * Levantamiento de las esquinas de la base (Warping)
    * Parte interior de piezas curvada
