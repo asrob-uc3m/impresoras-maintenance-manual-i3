@@ -35,6 +35,9 @@
    * Lateral de la pieza irregular
    * Arañazos en la pieza
    * Impresión poco precisa
+* [Problemas básicos/frecuentes](problemas_basicosfrecuentes.md)
+   * Reemplazo de filamento durante la impresión
+   * Problemas de fijación de la pieza a la mesa
 * [Problemas de deformaciones](problemas_de_deformaciones.md)
    * Levantamiento de las esquinas de la base (Warping)
    * Parte interior de piezas curvada
@@ -53,7 +56,4 @@
    * Almohadillado en capa superior (Pillowing)
    * Huecos entre el relleno y el perímetro
    * Grietas en la pieza
-* [Problemas básicos/frecuentes](problemas_basicosfrecuentes.md)
-   * Reemplazo de filamento durante la impresión
-   * Problemas de fijación de la pieza a la mesa
 
