@@ -34,4 +34,5 @@
    * La impresora no extruye filamento
    * La impresora extruye demasiado filamento
    * El extrusor gotea filamento al calentarlo
+* Problemas de exceso de material
 
