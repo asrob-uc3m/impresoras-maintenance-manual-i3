@@ -54,4 +54,5 @@
    * Parte interior de piezas curvada
    * Impresión desplazada
 * [Problemas básicos/frecuentes](problemas_basicosfrecuentes.md)
+   * Reemplazo de filamento durante la impresión 
 
