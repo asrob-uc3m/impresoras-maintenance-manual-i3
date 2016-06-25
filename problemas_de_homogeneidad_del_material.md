@@ -1,2 +1,2 @@
-# Problemas de homogeneidad del material
+# Problemas de homogeneidad en la pieza
 
