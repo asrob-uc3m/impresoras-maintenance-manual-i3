@@ -43,6 +43,6 @@
    * Almohadillado en capa superior (Pillowing)
    * Huecos entre el relleno y el perímetro
    * Grietas en la pieza
-* Problemas de acabado de las piezas
+* [Problemas de acabado de las piezas](problemas_de_acabado_de_las_piezas.md)
 * [Problemas de deformaciones](problemas_de_deformaciones.md)
 
