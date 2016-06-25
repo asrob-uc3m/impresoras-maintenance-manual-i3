@@ -53,5 +53,5 @@
    * Levantamiento de las esquinas de la base (Warping)
    * Parte interior de piezas curvada
    * Impresión desplazada
-* Problemas básicos/frecuentes
+* [Problemas básicos/frecuentes](problemas_basicosfrecuentes.md)
 
