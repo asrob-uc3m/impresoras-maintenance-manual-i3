@@ -31,4 +31,5 @@
 * [ANEXO 2: Configuración del software de impresión](anexo_1_archivos_de_configuracion.md)
 * [Problemas de extrusión](problemas_de_extrusion.md)
    * La impresora no extruye suficiente filamento (Subextrusión)
+   * La impresora no extruye filamento
 
