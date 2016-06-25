@@ -39,4 +39,5 @@
    * Hilos gruesos entre piezas (Strining)
    * Burbujas en la pieza
 * [Problemas de homogeneidad del material](problemas_de_homogeneidad_del_material.md)
+   * La base de la pieza no se imprime de forma homogénea
 
