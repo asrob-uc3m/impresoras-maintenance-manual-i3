@@ -29,4 +29,5 @@
 * [Bibliografía](bibliografia.md)
 * [ANEXO 1: Sistema operativo y sofware](anexo_2_sistema_operativo_y_sofware.md)
 * [ANEXO 2: Configuración del software de impresión](anexo_1_archivos_de_configuracion.md)
+* Problemas de extrusión
 
