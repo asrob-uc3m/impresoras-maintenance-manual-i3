@@ -4,7 +4,6 @@
 * [Glosario terminológico](glosario.md)
 * [Herramientas para el mantenimiento de las impresoras](herramientas_para_el_mantenimiento_de_las_impresor.md)
 * [Recomendaciones previas](recomendaciones_previas.md)
-* [Voladizos (Overhang)](voladizos_overhang.md)
 * [Huecos entre el relleno y el perímetro](huecos_entre_el_relleno_y_el_perimetro.md)
 * [Burbujas en la pieza](burbujas_en_la_pieza.md)
 * [Parte inferior de piezas curvada](bases_curvadas.md)
