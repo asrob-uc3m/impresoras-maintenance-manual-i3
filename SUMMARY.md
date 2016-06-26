@@ -28,7 +28,7 @@
    * [4.2 Voladizos (Overhang)](42_voladizos_overhang.md)
    * [4.3 Lateral de la pieza irregular](43_lateral_de_la_pieza_irregular.md)
    * [4.4 Arañazos en la pieza](44_aranazos_en_la_pieza.md)
-   * 4.5 Impresión poco precisa
+   * [4.5 Impresión poco precisa](45_impresion_poco_precisa.md)
 * [5. Problemas de exceso de material](problemas_de_exceso_de_material.md)
    * [5.1 Hilos finos entre piezas (Hairy print)](51_hilos_finos_entre_piezas_hairy_print.md)
    * [5.2 Hilos gruesos entre piezas (Strining)](52_hilos_gruesos_entre_piezas_strining.md)
