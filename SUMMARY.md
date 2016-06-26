@@ -51,7 +51,7 @@
 * [5. Problemas de exceso de material](problemas_de_exceso_de_material.md)
    * 5.1 Hilos finos entre piezas (Hairy print)
    * 5.2 Hilos gruesos entre piezas (Strining)
-   * Burbujas en la pieza
+   * 5.3 Burbujas en la pieza
 * [Problemas de deformaciones](problemas_de_deformaciones.md)
    * Levantamiento de las esquinas de la base (Warping)
    * Parte interior de piezas curvada
