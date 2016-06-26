@@ -38,7 +38,7 @@
 * [1. Problemas básicos/frecuentes](problemas_basicosfrecuentes.md)
    * [1.1 Reemplazo de filamento durante la impresión](11_reemplazo_de_filamento_durante_la_impresion.md)
    * [1.2 Problemas de fijación de la pieza a la mesa](12_problemas_de_fijacion_de_la_pieza_a_la_mesa.md)
-* [Problemas de extrusión](problemas_de_extrusion.md)
+* [2. Problemas de extrusión](problemas_de_extrusion.md)
    * La impresora no extruye suficiente filamento (Subextrusión)
    * La impresora no extruye filamento
    * La impresora extruye demasiado filamento
