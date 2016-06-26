@@ -54,6 +54,6 @@
    * 5.3 Burbujas en la pieza
 * [6. Problemas de deformaciones](problemas_de_deformaciones.md)
    * 6.1 Levantamiento de las esquinas de la base (Warping)
-   * Parte interior de piezas curvada
+   * 6.2 Parte interior de piezas curvada
    * Impresión desplazada
 
