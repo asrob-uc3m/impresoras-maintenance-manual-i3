@@ -25,7 +25,7 @@ En el caso de que la pieza se mueva o se separe de la cama caliente durante la i
 Si se nos da esta situación, probablemente estemos ante una de estas dos situaciones:
 
  1. Estamos intentando despegar la pieza de la mesa, estando la mesa y la pieza aún **calientes**. Conviene **esperar** a que se enfríen para que se puedan separar sin dificultad.
- 2. Nos hemos excedido en **cantidad** del método de **fijación **elegido. En este caso se puede usar una **espátula** con **mucho cuidado **para separar la pieza de la mesa o se puede probar a enfriar la mesa y la pieza de un modo artificial, para forzar su separación.
+ 2. Nos hemos excedido en **cantidad** del método de **fijación **elegido. En este caso se puede usar una **espátula** (figura 5) con **mucho cuidado **para separar la pieza de la mesa o se puede probar a enfriar la mesa y la pieza de un modo artificial, para forzar su separación.
 
 ![](http://tshop.r10s.com/a1a9fcc0-e649-11e3-a562-005056b70a09/20140607/c83c98ee-50c6-44f0-80a9-efd58ad62fa4.jpg?_ex=330x330)
 
