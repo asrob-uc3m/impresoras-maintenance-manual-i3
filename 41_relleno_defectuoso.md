@@ -1,10 +1,10 @@
 # 4.1 Relleno defectuoso
 
-Si el relleno de la pieza no se está imprimiendo correctamente, y se está obteniendo un resultado similar al de la figura 11, se deben revisar los siguientes parámetros de la impresora:
+Si el relleno de la pieza no se está imprimiendo correctamente, y se está obteniendo un resultado similar al de la figura 14, se deben revisar los siguientes parámetros de la impresora:
 
 <img src="Infill.jpg" alt="infill" height="320" width="400" align="middle">
 
-*Figura 11: Relleno Honeycomb defectuoso de pieza cúbica.*
+*Figura 14: Relleno Honeycomb defectuoso de pieza cúbica.*
 ### 1- Velocidad de impresión del relleno
 
 Si la velocidad de impresión del relleno es muy **alta**, este probablemente no se imprimirá de forma correcta. Podemos modificar la velocidad de impresión del relleno siguiendo las siguientes instrucciones:
@@ -14,7 +14,7 @@ Si la velocidad de impresión del relleno es muy **alta**, este probablemente no
 
 ### 2- Aumentar el flujo de plástico
 
-Para este y otros problemas relacionados con la **deficiencia** en la extrusión, consultar el apartado *La impresora no extruye suficiente filamento (Subextrusión)* de este manual.
+Para este y otros problemas relacionados con la **deficiencia** en la extrusión, consultar el apartado *2.1 La impresora no extruye suficiente filamento (Subextrusión)* de este manual.
 
 
 ### 3- Tipo de relleno
