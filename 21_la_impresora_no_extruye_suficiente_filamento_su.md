@@ -1,6 +1,6 @@
 # 2.1 La impresora no extruye suficiente filamento (Subextrusión)
 
-Si la impresora no suministra la cantidad de plástico necesaria para la impresión, conviene focalizar el origen del problema, ya que este problema en concreto puede deberse a motivos muy diversos:
+Si la impresora no suministra la cantidad de plástico necesaria para la impresión, conviene focalizar el origen del problema, ya que puede deberse a motivos muy diversos.
 
 
 ### 1- **Diámetro del filamento**
