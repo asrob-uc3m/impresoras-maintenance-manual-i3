@@ -4,7 +4,6 @@
 * [Glosario terminológico](glosario.md)
 * [Herramientas para el mantenimiento de las impresoras](herramientas_para_el_mantenimiento_de_las_impresor.md)
 * [Recomendaciones previas](recomendaciones_previas.md)
-* [La base de la pieza no se imprime uniforme](la_base_de_la_pieza_no_se_imprime_uniforme.md)
 * [Almohadillado en capa superior (Pillowing)](almohadillado_pillowing.md)
 * [Relleno defectuoso](relleno_defectuoso.md)
 * [Hilos finos entre piezas (Hairy print)](aparicion_de_hilos_finos_hairy_print.md)
