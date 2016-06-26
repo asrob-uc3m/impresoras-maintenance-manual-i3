@@ -26,4 +26,4 @@ Es recomendable tener también:
 
 <img src="Her.jpg" alt="Her" height="300" width="400" align="middle">
 
-*Figura 0: Herramientas imprescindibles para el trabajo diario con las impresoras 3D.*
+*Figura 1: Herramientas imprescindibles para el trabajo diario con las impresoras 3D.*
