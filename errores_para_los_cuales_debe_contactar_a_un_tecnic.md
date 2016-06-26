@@ -1,4 +1,4 @@
-# Errores para los cuales debe contactar a un técnico profesional
+# 7. Problemas para los cuales debe contactar a un operador
 
 
 Si se diese cualquiera de los casos que se enumeran a continuación, usted debe delegar el trabajo de reparación en el [personal responsable de mantenimiento](http://ieee.uc3m.es/index.php/Operadores#Operadores_Autorizados) de estos dispositivos, pues se requiere de un conocimiento más profundo de estos para proceder a la solución del problema.
@@ -27,8 +27,8 @@ Si no fuera este el problema debemos ver si el motor va bien, puede que se haya 
 Si en algún momento alguno de los **motores** de la impresora **no funciona**, podemos encontrarnos ante dos posibles problemas.
 
         1. El Driver correspondiente se ha desconfigurado.
-        2. 2. El Driver correspondiente se ha estropeado.
-        3. 3. El motor está estropeado.        
+        2. El Driver correspondiente se ha estropeado.
+        3. El motor está estropeado.        
 
 Puede que el **Driver** se haya **desconfigurado**, para ello se debe contactar con un **técnico de mantenimiento** que pueda reconfigurarlo paso a paso si esto fuera necesario.
 
