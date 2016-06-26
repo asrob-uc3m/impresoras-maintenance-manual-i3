@@ -4,7 +4,6 @@
 * [Glosario terminológico](glosario.md)
 * [Herramientas para el mantenimiento de las impresoras](herramientas_para_el_mantenimiento_de_las_impresor.md)
 * [Recomendaciones previas](recomendaciones_previas.md)
-* [Parte inferior de piezas curvada](bases_curvadas.md)
 * [Lateral de la pieza irregular](lateral_de_la_pieza_irregular.md)
 * [Grietas en la pieza](grietas_en_la_pieza.md)
 * [Arañazos en la pieza](aranazos_en_la_pieza.md)
