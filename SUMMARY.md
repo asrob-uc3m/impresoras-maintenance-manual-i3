@@ -24,7 +24,7 @@
    * [3.1 La base de la pieza no se imprime de forma homogénea](31_la_base_de_la_pieza_no_se_imprime_de_forma_homo.md)
    * [3.2 Almohadillado en capa superior (Pillowing)](32_almohadillado_en_capa_superior_pillowing.md)
    * [3.3 Huecos entre el relleno y el perímetro](33_huecos_entre_el_relleno_y_el_perimetro.md)
-   * 3.4 Grietas en la pieza
+   * [3.4 Grietas en la pieza](34_grietas_en_la_pieza.md)
 * [4. Problemas de acabado de las piezas](problemas_de_acabado_de_las_piezas.md)
    * [4.1 Relleno defectuoso](41_relleno_defectuoso.md)
    * [4.2 Voladizos (Overhang)](42_voladizos_overhang.md)
