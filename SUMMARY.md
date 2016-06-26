@@ -35,5 +35,5 @@
 * [6. Problemas de deformaciones](problemas_de_deformaciones.md)
    * [6.1 Levantamiento de las esquinas de la base (Warping)](61_levantamiento_de_las_esquinas_de_la_base_warpin.md)
    * [6.2 Parte interior de piezas curvada](62_parte_interior_de_piezas_curvada.md)
-   * 6.3 Impresión desplazada
+   * [6.3 Impresión desplazada](63_impresion_desplazada.md)
 
