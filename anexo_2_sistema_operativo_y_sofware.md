@@ -17,7 +17,7 @@ A la instalación del sistema se puede acceder desde este [enlace](http://lubunt
 
 ### 2- Software *Cura*
 
-Cura es un software libre de impresión presente de serie en el sistema operativo *Lubuntu*. Puede ser descargado desde [este](https://github.com/tumaker/Printing_software) repositorio.
+Cura es un software libre de impresión que usaremos en el entorno de *Lubuntu*. Puede ser descargado desde [este](https://github.com/tumaker/Printing_software) repositorio.
 
 Para su instalación se deben seguir los siguientes pasos:
 
