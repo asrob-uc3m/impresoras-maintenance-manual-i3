@@ -36,7 +36,7 @@
    * Arañazos en la pieza
    * Impresión poco precisa
 * [1. Problemas básicos/frecuentes](problemas_basicosfrecuentes.md)
-   * 1.1 Reemplazo de filamento durante la impresión
+   * [1.1 Reemplazo de filamento durante la impresión](11_reemplazo_de_filamento_durante_la_impresion.md)
    * Problemas de fijación de la pieza a la mesa
 * [Problemas de deformaciones](problemas_de_deformaciones.md)
    * Levantamiento de las esquinas de la base (Warping)
