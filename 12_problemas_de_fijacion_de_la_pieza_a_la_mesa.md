@@ -29,4 +29,4 @@ Si se nos da esta situación, probablemente estemos ante una de estas dos situac
 
 ![](http://tshop.r10s.com/a1a9fcc0-e649-11e3-a562-005056b70a09/20140607/c83c98ee-50c6-44f0-80a9-efd58ad62fa4.jpg?_ex=330x330)
 
-*Figura 8: Espátula de vitrocerámica recomendada para la utilización sobre la base de la impresora 3D, para evitar rayarla.*
+*Figura 5: Espátula de vitrocerámica recomendada para la utilización sobre la base de la impresora 3D, para evitar rayarla.*
