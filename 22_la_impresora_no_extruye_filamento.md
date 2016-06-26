@@ -29,15 +29,13 @@ Otros factores que debemos tener en cuenta para evitar la mordedura del filament
 2. **Temperatura**: Si la temperatura no es la adecuada, al igual que en el caso anterior se pueden producir problemas de extrusión con la correspondiente mordida del filamento.
 3. **Diámetro**: Un diámetro inferior al especificado puede producir que el filamento sea mordido.
 
-Conviene revisar que la polea esté libre de residuos que le impidan trabajar conrrectamente. Para ello, desenrroscaremos los tornillos con los muelles que unen la polea al rodillo en el caso de la impresora *Blacky*, o desenroscamos el tornillo con la llave allen en el caso de la impresora *Hija Resurrection*. Si fuese necesario, **limpiaríamos** con algún **objeto fino** los espacios entre los dientes. Se recomienda comprobar que los dientes no estén desgastados.
+Conviene revisar que la polea esté libre de residuos que le impidan trabajar conrrectamente. Para ello, desenrroscaremos los tornillos con los muelles que unen la polea al rodillo en el caso de la impresora *Blacky*, o desenroscamos el tornillo con la llave allen en el caso de la impresora *Hija Resurrection*. 
 
-<img src="polea.JPG" alt="polea" height="250" width="400" align="middle">
+Si fuese necesario, **limpiaríamos** con algún **objeto fino** los espacios entre los dientes, pues el residuo que deja el filamento mordido puede impedir que la polea desempeñe su función correctamente. Se recomienda comprobar que los dientes no estén desgastados.
 
-*Figura 6: Polea y rodillo separados en la impresora Blacky.*
+<img src="Resi.JPG" alt="Resi" height="300" width="400" align="middle">
 
-<img src="hr.jpg" alt="hr" height="300" width="400" align="middle">
-
-*Figura 7: Tornillo a desenroscar en la impresora Hija Resurrection.*
+*Figura 8: Residuos entre los dientes de la polea de la impresora Blacky debido a mordedura del filamento.*
 
 ### 3- Enredos en el filamento
 
@@ -56,3 +54,11 @@ Un motor sobrecalentado normalmente se detendrá por orden del controlador para 
 ### 7- Presión insuficiente
 
 Es importante que el sistema de presión del extrusor esté bien ajustado o llegará un punto en el que deje de extruir el filamento. Se recomienda ponerse en contacto con el **personal de mantenimiento** especializado para **calibrar** este ajuste correctamente.
+
+<img src="polea.JPG" alt="polea" height="250" width="400" align="middle">
+
+*Figura 6: Tornillos de la impresora Blacky que permiten ajustar la presión que se ejerce contra el filamento (en este caso abiertos).*
+
+<img src="hr.jpg" alt="hr" height="300" width="400" align="middle">
+
+*Figura 7: Tornillo a desenroscar en la impresora Hija Resurrection para controlar la presión de la polea contra el filamento.*
