@@ -40,7 +40,7 @@
    * [1.2 Problemas de fijación de la pieza a la mesa](12_problemas_de_fijacion_de_la_pieza_a_la_mesa.md)
 * [2. Problemas de extrusión](problemas_de_extrusion.md)
    * 2.1 La impresora no extruye suficiente filamento (Subextrusión)
-   * La impresora no extruye filamento
+   * 2.2 La impresora no extruye filamento
    * La impresora extruye demasiado filamento
    * El extrusor gotea filamento al calentarlo
 * [Problemas de deformaciones](problemas_de_deformaciones.md)
