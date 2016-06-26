@@ -37,7 +37,7 @@
    * Impresión poco precisa
 * [1. Problemas básicos/frecuentes](problemas_basicosfrecuentes.md)
    * [1.1 Reemplazo de filamento durante la impresión](11_reemplazo_de_filamento_durante_la_impresion.md)
-   * 1.2 Problemas de fijación de la pieza a la mesa
+   * [1.2 Problemas de fijación de la pieza a la mesa](12_problemas_de_fijacion_de_la_pieza_a_la_mesa.md)
 * [Problemas de deformaciones](problemas_de_deformaciones.md)
    * Levantamiento de las esquinas de la base (Warping)
    * Parte interior de piezas curvada
