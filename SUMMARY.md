@@ -37,6 +37,11 @@
    * 2.2 La impresora no extruye filamento
    * 2.3 La impresora extruye demasiado filamento
    * 2.4 El extrusor gotea filamento al calentarlo
+* [Problemas de homogeneidad en la pieza](problemas_de_homogeneidad_del_material.md)
+   * La base de la pieza no se imprime de forma homogénea
+   * Almohadillado en capa superior (Pillowing)
+   * Huecos entre el relleno y el perímetro
+   * Grietas en la pieza
 * [Problemas de acabado de las piezas](problemas_de_acabado_de_las_piezas.md)
    * Relleno defectuoso
    * Voladizos (Overhang)
@@ -51,9 +56,4 @@
    * Levantamiento de las esquinas de la base (Warping)
    * Parte interior de piezas curvada
    * Impresión desplazada
-* [Problemas de homogeneidad en la pieza](problemas_de_homogeneidad_del_material.md)
-   * La base de la pieza no se imprime de forma homogénea
-   * Almohadillado en capa superior (Pillowing)
-   * Huecos entre el relleno y el perímetro
-   * Grietas en la pieza
 
