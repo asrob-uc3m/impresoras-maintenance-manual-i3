@@ -4,7 +4,6 @@
 * [Glosario terminológico](glosario.md)
 * [Herramientas para el mantenimiento de las impresoras](herramientas_para_el_mantenimiento_de_las_impresor.md)
 * [Recomendaciones previas](recomendaciones_previas.md)
-* [La impresora no extruye filamento](la_impresora_no_extruye_filamento.md)
 * [La impresora extruye demasiado filamento](la_impresora_extruye_demasiado_filamento.md)
 * [El extrusor gotea filamento al calentarlo](el_extrusor_gotea_filamento_al_calentarlo.md)
 * [Reemplazo de filamento durante la impresión](escasez_de_filamento_durante_la_impresion_reemplaz.md)
