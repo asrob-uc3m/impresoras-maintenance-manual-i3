@@ -32,7 +32,7 @@
    * [2.3 La impresora extruye demasiado filamento](23_la_impresora_extruye_demasiado_filamento.md)
    * [2.4 El extrusor gotea filamento al calentarlo](24_el_extrusor_gotea_filamento_al_calentarlo.md)
 * [3. Problemas de homogeneidad en la pieza](problemas_de_homogeneidad_del_material.md)
-   * 3.1 La base de la pieza no se imprime de forma homogénea
+   * [3.1 La base de la pieza no se imprime de forma homogénea](31_la_base_de_la_pieza_no_se_imprime_de_forma_homo.md)
    * 3.2 Almohadillado en capa superior (Pillowing)
    * 3.3 Huecos entre el relleno y el perímetro
    * 3.4 Grietas en la pieza
