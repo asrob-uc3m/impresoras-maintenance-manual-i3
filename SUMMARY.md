@@ -41,7 +41,7 @@
 * [2. Problemas de extrusión](problemas_de_extrusion.md)
    * 2.1 La impresora no extruye suficiente filamento (Subextrusión)
    * 2.2 La impresora no extruye filamento
-   * La impresora extruye demasiado filamento
+   * 2.3 La impresora extruye demasiado filamento
    * El extrusor gotea filamento al calentarlo
 * [Problemas de deformaciones](problemas_de_deformaciones.md)
    * Levantamiento de las esquinas de la base (Warping)
