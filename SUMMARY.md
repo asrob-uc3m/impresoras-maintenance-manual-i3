@@ -32,7 +32,7 @@
    * 3.4 Grietas en la pieza
 * [4. Problemas de acabado de las piezas](problemas_de_acabado_de_las_piezas.md)
    * [4.1 Relleno defectuoso](41_relleno_defectuoso.md)
-   * 4.2 Voladizos (Overhang)
+   * [4.2 Voladizos (Overhang)](42_voladizos_overhang.md)
    * 4.3 Lateral de la pieza irregular
    * 4.4 Arañazos en la pieza
    * 4.5 Impresión poco precisa
