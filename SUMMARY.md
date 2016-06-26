@@ -43,14 +43,14 @@
    * 2.2 La impresora no extruye filamento
    * 2.3 La impresora extruye demasiado filamento
    * 2.4 El extrusor gotea filamento al calentarlo
-* [Problemas de deformaciones](problemas_de_deformaciones.md)
-   * Levantamiento de las esquinas de la base (Warping)
-   * Parte interior de piezas curvada
-   * Impresión desplazada
 * [Problemas de exceso de material](problemas_de_exceso_de_material.md)
    * Hilos finos entre piezas (Hairy print)
    * Hilos gruesos entre piezas (Strining)
    * Burbujas en la pieza
+* [Problemas de deformaciones](problemas_de_deformaciones.md)
+   * Levantamiento de las esquinas de la base (Warping)
+   * Parte interior de piezas curvada
+   * Impresión desplazada
 * [Problemas de homogeneidad en la pieza](problemas_de_homogeneidad_del_material.md)
    * La base de la pieza no se imprime de forma homogénea
    * Almohadillado en capa superior (Pillowing)
