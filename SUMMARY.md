@@ -45,7 +45,7 @@
 * [4. Problemas de acabado de las piezas](problemas_de_acabado_de_las_piezas.md)
    * 4.1 Relleno defectuoso
    * 4.2 Voladizos (Overhang)
-   * Lateral de la pieza irregular
+   * 4.3 Lateral de la pieza irregular
    * Arañazos en la pieza
    * Impresión poco precisa
 * [Problemas de exceso de material](problemas_de_exceso_de_material.md)
