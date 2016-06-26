@@ -4,6 +4,9 @@
 * [Glosario terminológico](glosario.md)
 * [Herramientas para el mantenimiento de las impresoras](herramientas_para_el_mantenimiento_de_las_impresor.md)
 * [Recomendaciones previas](recomendaciones_previas.md)
+* [1. Problemas básicos/frecuentes](problemas_basicosfrecuentes.md)
+   * [1.1 Reemplazo de filamento durante la impresión](11_reemplazo_de_filamento_durante_la_impresion.md)
+   * [1.2 Problemas de fijación de la pieza a la mesa](12_problemas_de_fijacion_de_la_pieza_a_la_mesa.md)
 * [2. Problemas de extrusión](problemas_de_extrusion.md)
    * [2.1 La impresora no extruye suficiente filamento (Subextrusión)](21_la_impresora_no_extruye_suficiente_filamento_su.md)
    * [2.2 La impresora no extruye filamento](22_la_impresora_no_extruye_filamento.md)
@@ -34,7 +37,4 @@
 * [Bibliografía](bibliografia.md)
 * [ANEXO 1: Sistema operativo y sofware](anexo_2_sistema_operativo_y_sofware.md)
 * [ANEXO 2: Configuración del software de impresión](anexo_1_archivos_de_configuracion.md)
-* [1. Problemas básicos/frecuentes](problemas_basicosfrecuentes.md)
-   * [1.1 Reemplazo de filamento durante la impresión](11_reemplazo_de_filamento_durante_la_impresion.md)
-   * [1.2 Problemas de fijación de la pieza a la mesa](12_problemas_de_fijacion_de_la_pieza_a_la_mesa.md)
 
