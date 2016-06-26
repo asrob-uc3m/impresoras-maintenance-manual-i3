@@ -1,10 +1,10 @@
 # 3.1 La base de la pieza no se imprime de forma homogénea
 
-Si hay **grietas** o **lineas muy visibles** que incluso se levantan de la base en la capa inferior de nuestra pieza, tal y como ocurre en la figura 9, tendremos que revisar una serie de ajustes en nuestra impresora.
+Si hay **grietas** o **lineas muy visibles** que incluso se levantan de la base en la capa inferior de nuestra pieza, tal y como ocurre en la figura 11, tendremos que revisar una serie de ajustes en nuestra impresora.
 
 <img src="mal.JPG" alt="mal" height="300" width="400" align="middle">
 
-*Figura 9: Capa inferior no uniforme de pieza impresa con la impresora Blacky.*
+*Figura 11: Capa inferior no uniforme de pieza impresa con la impresora Blacky.*
 
 ### 1- Altura de la primera capa
 
@@ -30,8 +30,8 @@ Si la altura de la primera capa es demasiado alta, tendremos problemas con la ho
 ---
 
 
-Una **impresión correcta** de la capa inferior debería tener un aspecto similar al mostrado en la figura 10. Si no logra que su impresora realice una impresión correcta de la base de la pieza siguiendo las indicaciones anteriores, contacte con el **personal de mantenimiento**.
+Una **impresión correcta** de la capa inferior debería tener un aspecto similar al mostrado en la figura 12. Si no logra que su impresora realice una impresión correcta de la base de la pieza siguiendo las indicaciones anteriores, contacte con el **personal de mantenimiento**.
 
 <img src="bien.JPG" alt="bien" height="300" width="400" align="middle">
 
-*Figura 10: Capa inferior uniforme de pieza impresa con la impresora Hija Revolution.*
+*Figura 12: Capa inferior uniforme de pieza impresa con la impresora Hija Revolution.*
