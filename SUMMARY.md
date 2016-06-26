@@ -43,7 +43,7 @@
    * 3.3 Huecos entre el relleno y el perímetro
    * 3.4 Grietas en la pieza
 * [4. Problemas de acabado de las piezas](problemas_de_acabado_de_las_piezas.md)
-   * Relleno defectuoso
+   * 4.1 Relleno defectuoso
    * Voladizos (Overhang)
    * Lateral de la pieza irregular
    * Arañazos en la pieza
