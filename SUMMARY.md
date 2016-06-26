@@ -33,7 +33,7 @@
 * [2. Problemas de extrusión](problemas_de_extrusion.md)
    * [2.1 La impresora no extruye suficiente filamento (Subextrusión)](21_la_impresora_no_extruye_suficiente_filamento_su.md)
    * [2.2 La impresora no extruye filamento](22_la_impresora_no_extruye_filamento.md)
-   * 2.3 La impresora extruye demasiado filamento
+   * [2.3 La impresora extruye demasiado filamento](23_la_impresora_extruye_demasiado_filamento.md)
    * 2.4 El extrusor gotea filamento al calentarlo
 * [3. Problemas de homogeneidad en la pieza](problemas_de_homogeneidad_del_material.md)
    * 3.1 La base de la pieza no se imprime de forma homogénea
