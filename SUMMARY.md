@@ -5,6 +5,7 @@
 * [Herramientas para el mantenimiento de las impresoras](herramientas_para_el_mantenimiento_de_las_impresor.md)
 * [Recomendaciones previas](recomendaciones_previas.md)
 * [7. Problemas para los cuales debe contactar a un operador](errores_para_los_cuales_debe_contactar_a_un_tecnic.md)
+   * 7.1
 * [Bibliografía](bibliografia.md)
 * [ANEXO 1: Sistema operativo y sofware](anexo_2_sistema_operativo_y_sofware.md)
 * [ANEXO 2: Configuración del software de impresión](anexo_1_archivos_de_configuracion.md)
