@@ -40,7 +40,7 @@
    * 4.4 Arañazos en la pieza
    * 4.5 Impresión poco precisa
 * [5. Problemas de exceso de material](problemas_de_exceso_de_material.md)
-   * 5.1 Hilos finos entre piezas (Hairy print)
+   * [5.1 Hilos finos entre piezas (Hairy print)](51_hilos_finos_entre_piezas_hairy_print.md)
    * 5.2 Hilos gruesos entre piezas (Strining)
    * 5.3 Burbujas en la pieza
 * [6. Problemas de deformaciones](problemas_de_deformaciones.md)
