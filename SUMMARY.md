@@ -52,7 +52,7 @@
    * 5.1 Hilos finos entre piezas (Hairy print)
    * 5.2 Hilos gruesos entre piezas (Strining)
    * 5.3 Burbujas en la pieza
-* [Problemas de deformaciones](problemas_de_deformaciones.md)
+* [6. Problemas de deformaciones](problemas_de_deformaciones.md)
    * Levantamiento de las esquinas de la base (Warping)
    * Parte interior de piezas curvada
    * Impresión desplazada
