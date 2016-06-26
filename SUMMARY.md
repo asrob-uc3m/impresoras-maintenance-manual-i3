@@ -41,7 +41,7 @@
    * 3.1 La base de la pieza no se imprime de forma homogénea
    * 3.2 Almohadillado en capa superior (Pillowing)
    * 3.3 Huecos entre el relleno y el perímetro
-   * Grietas en la pieza
+   * 3.4 Grietas en la pieza
 * [Problemas de acabado de las piezas](problemas_de_acabado_de_las_piezas.md)
    * Relleno defectuoso
    * Voladizos (Overhang)
