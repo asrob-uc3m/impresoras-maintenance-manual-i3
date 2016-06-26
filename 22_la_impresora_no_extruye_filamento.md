@@ -1,6 +1,6 @@
 # 2.2 La impresora no extruye filamento
 
-La no extrusión de filamento es otro problema con numerosos posibles orígenes, se recomienda leer detenidamente la sección *La impresora no extruye suficiente filamento (Subextrusión)*, ya que la no extrusión de filamento **suele comenzar por** una **subextrusión** del material.
+La no extrusión de filamento es otro problema con numerosos posibles orígenes, se recomienda leer detenidamente la sección *2.1 La impresora no extruye suficiente filamento (Subextrusión)*, ya que la no extrusión de filamento **suele comenzar por** una **subextrusión** del material.
 
 Los principales motivos directos de la no extrusión de filamento son los siguientes:
 
@@ -19,7 +19,7 @@ Este es uno de los problemas más comunes en la impresión 3D. La polea muerde e
 
 <img src="fm.JPG" alt="fm" height="250" width="400" align="middle">
 
-*Figura 5: Filamento de PLA mordido.*
+*Figura 7: Filamento de PLA mordido.*
 
 Si el cabezal no está obstruido, quitaremos el filamento pulsando el botón *Retraer* repetidas veces en la pestaña de *Control Manual* y cortaremos la parte mordida de este, ajustando correctamente a posteriori la tensión del muelle mediante las tuercas con orejas. Una de las principales causas de este problema puede ser, precisamente, que la **presión** que ejercen estos tornillos sea **insuficiente**.
 
@@ -29,7 +29,7 @@ Otros factores que debemos tener en cuenta para evitar la mordedura del filament
 2. **Temperatura**: Si la temperatura no es la adecuada, al igual que en el caso anterior se pueden producir problemas de extrusión con la correspondiente mordida del filamento.
 3. **Diámetro**: Un diámetro inferior al especificado puede producir que el filamento sea mordido.
 
-Conviene revisar que la polea esté libre de residuos que le impidan trabajar conrrectamente. Para ello, desenrroscaremos los tornillos con los muelles que unen la polea al rodillo en el caso de la impresora *Blacky*, o desenroscamos el tornillo con la llave allen en el caso de la impresora *Hija Resurrection* (ver figuras 6 y 7). 
+Conviene revisar que la polea esté libre de residuos (figura 8) que le impidan trabajar conrrectamente. Para ello, desenrroscaremos los tornillos con los muelles que unen la polea al rodillo en el caso de la impresora *Blacky*, o desenroscamos el tornillo con la llave allen en el caso de la impresora *Hija Resurrection* (ver figuras 9 y 10). 
 
 Si fuese necesario, **limpiaríamos** con algún **objeto fino** los espacios entre los dientes, pues el residuo que deja el filamento mordido puede impedir que la polea desempeñe su función correctamente. Se recomienda comprobar que los dientes no estén desgastados.
 
@@ -57,8 +57,8 @@ Es importante que el sistema de presión del extrusor esté bien ajustado o lleg
 
 <img src="polea.JPG" alt="polea" height="250" width="400" align="middle">
 
-*Figura 6: Tornillos de la impresora Blacky que permiten ajustar la presión que se ejerce contra el filamento (en este caso abiertos).*
+*Figura 9: Tornillos de la impresora Blacky que permiten ajustar la presión que se ejerce contra el filamento (en este caso abiertos).*
 
 <img src="hr.jpg" alt="hr" height="300" width="400" align="middle">
 
-*Figura 7: Tornillo a desenroscar en la impresora Hija Resurrection para controlar la presión de la polea contra el filamento.*
+*Figura 10: Tornillo a desenroscar en la impresora Hija Resurrection para controlar la presión de la polea contra el filamento.*
