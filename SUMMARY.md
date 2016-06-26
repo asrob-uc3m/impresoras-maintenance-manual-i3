@@ -53,7 +53,7 @@
    * 5.2 Hilos gruesos entre piezas (Strining)
    * 5.3 Burbujas en la pieza
 * [6. Problemas de deformaciones](problemas_de_deformaciones.md)
-   * Levantamiento de las esquinas de la base (Warping)
+   * 6.1 Levantamiento de las esquinas de la base (Warping)
    * Parte interior de piezas curvada
    * Impresión desplazada
 
