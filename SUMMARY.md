@@ -4,7 +4,6 @@
 * [Glosario terminológico](glosario.md)
 * [Herramientas para el mantenimiento de las impresoras](herramientas_para_el_mantenimiento_de_las_impresor.md)
 * [Recomendaciones previas](recomendaciones_previas.md)
-* [Reemplazo de filamento durante la impresión](escasez_de_filamento_durante_la_impresion_reemplaz.md)
 * [Problemas de fijación de la pieza a la mesa](problemas_de_fijacion_de_la_pieza_a_la_mesa.md)
 * [La base de la pieza no se imprime uniforme](la_base_de_la_pieza_no_se_imprime_uniforme.md)
 * [Almohadillado en capa superior (Pillowing)](almohadillado_pillowing.md)
