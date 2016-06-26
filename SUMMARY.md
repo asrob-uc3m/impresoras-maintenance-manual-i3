@@ -4,7 +4,6 @@
 * [Glosario terminológico](glosario.md)
 * [Herramientas para el mantenimiento de las impresoras](herramientas_para_el_mantenimiento_de_las_impresor.md)
 * [Recomendaciones previas](recomendaciones_previas.md)
-* [Hilos finos entre piezas (Hairy print)](aparicion_de_hilos_finos_hairy_print.md)
 * [Hilos gruesos entre piezas (Strining)](hilos_gruesos_entre_piezas_strining.md)
 * [Levantamiento de las esquinas de la base (Warping)](levantamiento_de_las_esquinas_de_la_base_warping.md)
 * [Voladizos (Overhang)](voladizos_overhang.md)
