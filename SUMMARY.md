@@ -4,7 +4,6 @@
 * [Glosario terminológico](glosario.md)
 * [Herramientas para el mantenimiento de las impresoras](herramientas_para_el_mantenimiento_de_las_impresor.md)
 * [Recomendaciones previas](recomendaciones_previas.md)
-* [Grietas en la pieza](grietas_en_la_pieza.md)
 * [Arañazos en la pieza](aranazos_en_la_pieza.md)
 * [Impresión poco precisa](impresion_poco_precisa.md)
 * [Impresión desplazada](impresion_desplazada.md)
