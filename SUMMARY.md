@@ -46,7 +46,7 @@
    * 4.1 Relleno defectuoso
    * 4.2 Voladizos (Overhang)
    * 4.3 Lateral de la pieza irregular
-   * Arañazos en la pieza
+   * 4.4 Arañazos en la pieza
    * Impresión poco precisa
 * [Problemas de exceso de material](problemas_de_exceso_de_material.md)
    * Hilos finos entre piezas (Hairy print)
