@@ -14,6 +14,12 @@ La elección de este sistema responde a dos motivos fundamentales:
 
 A la instalación del sistema se puede acceder desde este [enlace](http://lubuntu.net/). Se puede proceder a instalarlo desde un dispositivo USB booteable, haciendo uso de* [Unetbooting](https://unetbootin.github.io/)*.
 
+[INCLUIR DETALLES DE INSTALACIÓN]
+
+---
+
+Es probable que al instalar Lubuntu en equipos antiguos nos encontremos con el error típico de el monitor 'out of range' o fuera de rango. Para solucionar este issue [...] COMPLETAR
+
 
 ### 2- Software *Cura*
 
