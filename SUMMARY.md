@@ -29,7 +29,7 @@
    * [5.3 Burbujas en la pieza](53_burbujas_en_la_pieza.md)
 * [6. Problemas de deformaciones](problemas_de_deformaciones.md)
    * [6.1 Levantamiento de las esquinas de la base (Warping)](61_levantamiento_de_las_esquinas_de_la_base_warpin.md)
-   * [6.2 Parte interior de piezas curvada](62_parte_interior_de_piezas_curvada.md)
+   * [6.2 Parte inferior de piezas curvada](62_parte_interior_de_piezas_curvada.md)
    * [6.3 Impresión desplazada](63_impresion_desplazada.md)
 * [7. Problemas para los cuales debe contactar a un operador](errores_para_los_cuales_debe_contactar_a_un_tecnic.md)
    * [7.1 Impresiones que se desplazan en los ejes X y/o Y](71.md)
