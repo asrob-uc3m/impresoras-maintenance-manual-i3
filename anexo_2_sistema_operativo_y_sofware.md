@@ -16,11 +16,41 @@ A la instalación del sistema se puede acceder desde este [enlace](http://lubunt
 
 Al iniciar nuestro PC desde el disco en el que tengamos nuestro sistema operativo, saldrá la siguiente imagen en pantalla.
 
+<img src="lub1.png" alt="lub1" height="300" width="400" align="middle">
+
+*Figura 19: Installer de Lubuntu*
+
+Antes de clicar *Install Lubuntu*, si vamos a trabajar con monitores antiguos, conviene pulsar *F6 Other Options* y cuando salga un desplegable como el que se muestra en la figura 20, pulsar ESC para poder modificar el código que sale seguido de *Boot Options*.
+
+<img src="lub2.jpg" alt="lub1" height="160" width="400" align="middle">
+
+*Figura 20: Desplegable al pulsar F6*
+
+En la linea de *Boot Options* reemplazaremos *quiet splash* por *vga=normal nomodeset*. Despues de esto procederemos a instalar Lubuntu en el equipo siguiendo las instrucciones del instalador.
+
+---
+
+Es probable que al instalar Lubuntu en equipos antiguos nos encontremos, a pesar del ajuste anterior, con el error típico de el monitor 'out of range' o fuera de rango cada vez que iniciemos el equipo, lo que nos impedirá entrar en el sistema con normalidad. Se ha encontrado una solución estable para este problema, para ello hay que seguir los siguientes pasos:
+
+1. Mantener pulsado ESC mientras se inicia el equipo hasta que salgan varias opciones relacionadas con el arranque de Lubuntu.
+2. Entrar al sistema operativo desde el modo *Recovery*, haciendo un *boot* normal.
+3. Abrir el terminal de Lubuntu y escribir lo siguiente:
+ 1. ls 
+ 2. nano /etc/grub.d/10 linux
+4. En el código que saldrá en pantalla a continuación, debemos encontrar las lineas que se muestran a continuación y comprobar que el codigo es idéntico a este. Lo que habremos de modificar será la parte en la que incluiremos el *vga=normal nomodeset \$vt_handoff*.
+
+<img src="lub3.JPG" alt="lub3" height="100" width="400" align="middle">
+
+*Figura 21: Código terminal Lubuntu para solucionar problema de monitor fuera de rango*
+
+Después de estos ajustes el problema no debería persistir, si persiste pongasé en contacto con el personal especializado.
 
 
 ---
 
-Es probable que al instalar Lubuntu en equipos antiguos nos encontremos con el error típico de el monitor 'out of range' o fuera de rango. Para solucionar este issue [...] COMPLETAR
+
+ 
+
 
 
 ### 2- Software *Cura*
