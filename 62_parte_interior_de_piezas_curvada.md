@@ -1,4 +1,4 @@
-# 6.2 Parte interior de piezas curvada
+# 6.2 Parte inferior de piezas curvada
 
 Si la parte de nuestra pieza cercana a la base empieza a curvarse, lo más probable es que la **temperatura** de nuestra **cama caliente** esté **por encima del valor adecuado** y que esto esté causando que se deforme debido a su estado de alta **maleabilidad**. Podemos ajustar esta temperatura en la pestaña de *Control Manual*.
 
