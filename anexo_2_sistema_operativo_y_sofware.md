@@ -12,9 +12,11 @@ La elección de este sistema responde a dos motivos fundamentales:
 
 * Al no disponer de equipos demasiado potentes en el laboratorio, nos conviene un sistema operativo que **no consuma demasiados recursos**, como es el caso de *Lubuntu*, que puede ser considerada la versión ligera de *Ubuntu*.
 
-A la instalación del sistema se puede acceder desde este [enlace](http://lubuntu.net/). Se puede proceder a instalarlo desde un dispositivo USB booteable, haciendo uso de* [Unetbooting](https://unetbootin.github.io/)*.
+A la instalación del sistema se puede acceder desde este [enlace](http://lubuntu.net/). Se puede proceder a instalarlo desde un dispositivo USB booteable, haciendo uso de* [Unetbooting](https://unetbootin.github.io/)*, o desde un DVD.
 
-[INCLUIR DETALLES DE INSTALACIÓN]
+Al iniciar nuestro PC desde el disco en el que tengamos nuestro sistema operativo, saldrá la siguiente imagen en pantalla.
+
+
 
 ---
 
