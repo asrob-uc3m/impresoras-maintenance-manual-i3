@@ -65,7 +65,7 @@ Para su instalación, en este caso de la **versión 15.04.6 de 64 bits**, se deb
 
 2. Una vez hayamos instalado *Cura*, se ejecute y arranque el instalador, aseguraremos en la pestaña de *Choose Components* de que el softwarer abra **archivos .stl y .obj**. Puede interesarnos marcar *Uninstall other Cura versions* si tenemos versiones anteriores instaladas en el ordenador.
 
-3. Seguimos los pasos que marca el instalador hasta que esta finalice. Cuando esto ocurra **no abriremos el programa** ya que primero hay que configurar el software.
+3. Seguiremos los pasos que marca el instalador hasta que esta finalice. Cuando esto ocurra **no abriremos el programa** ya que primero hay que configurar el software.
 
 
 
