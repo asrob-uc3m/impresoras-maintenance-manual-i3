@@ -12,15 +12,15 @@ La elección de este sistema responde a dos motivos fundamentales:
 
 * Al no disponer de equipos demasiado potentes en el laboratorio, nos conviene un sistema operativo que **no consuma demasiados recursos**, como es el caso de *Lubuntu*, que puede ser considerada la versión ligera de *Ubuntu*.
 
-A la instalación del sistema se puede acceder desde este [enlace](http://lubuntu.net/). Se puede proceder a instalarlo desde un dispositivo USB booteable, haciendo uso de* [Unetbooting](https://unetbootin.github.io/)*, o desde un DVD.
+A la instalación del sistema se puede acceder desde este [enlace](https://help.ubuntu.com/community/Lubuntu/GetLubuntu). Se puede proceder a instalarlo desde un dispositivo USB booteable, haciendo uso de* [Unetbooting](https://unetbootin.github.io/)*, o desde un DVD.
 
-Al iniciar nuestro PC desde el disco en el que tengamos nuestro sistema operativo, saldrá la siguiente imagen en pantalla.
+En los equipos de la universidad hemos instalado **Lubuntu 14.04 de 64 bits***. Al iniciar nuestro PC desde el disco en el que tengamos nuestro sistema operativo, saldrá la siguiente imagen en pantalla.
 
 <img src="lub1.png" alt="lub1" height="300" width="400" align="middle">
 
 *Figura 19: Installer de Lubuntu*
 
-**Antes** de clicar *Install Lubuntu*, si vamos a trabajar con monitores antiguos, conviene pulsar *F6 Other Options* y cuando salga un desplegable como el que se muestra en la figura 20, pulsar **ESC** para poder **modificar el código** que sale seguido de *Boot Options*.
+**Antes** de clicar *Install Lubuntu*, si vamos a trabajar con monitores antiguos, conviene pulsar *F6 Other Options* y cuando salga un desplegable como el que se muestra en la figura 20, elegir *nomodeset* pulsar **ESC** para poder **modificar el código** que sale seguido de *Boot Options*.
 
 <img src="lub2.jpg" alt="lub1" height="160" width="400" align="middle">
 
@@ -55,9 +55,9 @@ Después de estos ajustes el problema no debería persistir, si persiste pongas�
 
 ### 2- Software *Cura*
 
-Cura es un software libre de impresión que usaremos en el entorno de *Lubuntu*. Puede ser descargado desde [este](https://github.com/tumaker/Printing_software) repositorio.
+Cura es un software libre de impresión que usaremos en el entorno de *Lubuntu*. Puede ser descargado desde [este](https://ultimaker.com/en/products/cura-software/list) repositorio.
 
-Para su instalación se deben seguir los siguientes pasos:
+Para su instalación, en este caso de la **versión 15.04.6 de 64 bits**, se deben seguir los siguientes pasos:
 
 1. Abrir el **archivo ejecutable** y seguir las instrucciones del asistente de instalación.
 2. En la ventana de *Choose Components* aseguramos de que el softwarer abra **archivos .stl y .obj**. Puede interesarnos marcar *Uninstall other Cura versions* si tenemos versiones anteriores instaladas en el ordenador.
@@ -75,7 +75,7 @@ Para su instalación se deben seguir los siguientes pasos:
 
 ### 3- Software Repetier-Host
 
-*Repetier-Host *es el software de impresión utilizado de forma exclusiva hasta el 2016 en las impresoras del Departamento de Robótica de la UC3M. Puede ser descargado desde [este](https://github.com/tumaker/Printing_software) repositorio.
+*Repetier-Host *es el software de impresión utilizado de forma exclusiva hasta el 2016 en las impresoras del Departamento de Robótica de la UC3M. Puede ser descargado desde [este](https://www.repetier.com/downloads/) repositorio.
 
 Para su instalación se deben seguir los siguientes pasos:
 
