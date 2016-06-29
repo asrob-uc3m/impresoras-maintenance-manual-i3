@@ -59,8 +59,12 @@ Cura es un software libre de impresión que usaremos en el entorno de *Lubuntu*.
 
 Para su instalación, en este caso de la **versión 15.04.6 de 64 bits**, se deben seguir los siguientes pasos:
 
-1. Abrir el **archivo ejecutable** y seguir las instrucciones del asistente de instalación.
-2. En la ventana de *Choose Components* aseguramos de que el softwarer abra **archivos .stl y .obj**. Puede interesarnos marcar *Uninstall other Cura versions* si tenemos versiones anteriores instaladas en el ordenador.
+1. Abrir el terminal de Lubuntu y escribir *sudo apt-get update* para actualizar el listado de paquetes disponibles que pueden sernos necesarios para la instalación del sofware.
+
+2. Escribiremos en el terminal *sudo apt-get install cura*, si la instalación no se completa correctamente porque se requiere la instalación de más paquetes (se nos enumerarán), procederemos a la instalación de estos paquetes en serie del siguiente modo: *sudo apt-get install nombrepaquete1 'et''et' sudo apt-get install nombrepaquete2 'et''et'*, etc, siendo 'et' el símbolo de la "y conjunción".
+
+2. Una vez hayamos instalado *Cura*, se ejecute y arranque el instalador, aseguraremos en la pestaña de *Choose Components* de que el softwarer abra **archivos .stl y .obj**. Puede interesarnos marcar *Uninstall other Cura versions* si tenemos versiones anteriores instaladas en el ordenador.
+
 3. Seguimos los pasos que marca el instalador hasta que esta finalice. Cuando esto ocurra **no abriremos el programa** ya que primero hay que configurar el software.
 
 
@@ -75,7 +79,7 @@ Para su instalación, en este caso de la **versión 15.04.6 de 64 bits**, se deb
 
 ### 3- Software Repetier-Host
 
-*Repetier-Host *es el software de impresión utilizado de forma exclusiva hasta el 2016 en las impresoras del Departamento de Robótica de la UC3M. Puede ser descargado desde [este](https://www.repetier.com/downloads/) repositorio.
+*Repetier-Host *es el software de impresión utilizado de forma exclusiva hasta el 2016 en las impresoras del Departamento de Robótica de la UC3M. Puede ser descargado desde [este](https://www.repetier.com/downloads/)  repositorio.
 
 Para su instalación se deben seguir los siguientes pasos:
 
