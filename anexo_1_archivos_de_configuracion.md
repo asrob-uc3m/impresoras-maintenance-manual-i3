@@ -81,7 +81,7 @@ Para su instalación, en este caso de la **versión 15.04.6 de 64 bits**, se deb
 
 ### 3- Software Repetier-Host
 
-*Repetier-Host *es el software de impresión utilizado de forma exclusiva hasta el 2016 en las impresoras del Departamento de Robótica de la UC3M. Puede ser descargado desde [este](https://www.repetier.com/downloads/)  repositorio.
+*Repetier-Host *es el software de impresión utilizado de forma exclusiva hasta el 2016 en las impresoras del Departamento de Robótica de la UC3M. Puede ser descargado desde [este](https://www.repetier.com/downloads/)  repositorio. En los equipos del laboratorio encontramos la versión **Repetier Host Linux 1.6.2**.
 
 Para su instalación se deben seguir los siguientes pasos:
 
