@@ -67,7 +67,7 @@ Para su instalación, en este caso de la **versión 15.04.6 de 64 bits**, se deb
 
 3. Seguiremos los pasos que marca el instalador hasta que esta finalice. Cuando esto ocurra **no abriremos el programa** ya que primero hay que configurar el software.
 
-4. Para poder imprimir necesitaremos tener permisos de administrador. Para ello, escribiremos en el terminal: *sudo chmod 777 /dev/*.
+4. Para poder imprimir necesitaremos tener permisos de administrador. Para ello, escribiremos en el terminal: *sudo chmod 777 /dev/ttyS0*.
 
 
 
