@@ -36,5 +36,5 @@
    * [7.2 Algún/os motor/es no funciona/n](72.md)
 * [Bibliografía](bibliografia.md)
 * [ANEXO 2: Configuración del software de impresión](anexo_2_sistema_operativo_y_sofware.md)
-* [ANEXO 1: Sistema operativo y softwar](anexo_1_archivos_de_configuracion.md)
+* [ANEXO 1: Sistema operativo y software](anexo_1_archivos_de_configuracion.md)
 
