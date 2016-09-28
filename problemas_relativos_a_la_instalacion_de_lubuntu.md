@@ -21,4 +21,27 @@ Si aparece el mensaje **monitor 'out of range'** o " monitor fuera de rango" cad
 Después de estos ajustes el problema no debería persistir, si persiste pongasé en contacto con el personal especializado.
 
 
-### 2- **Problemas de resolución del monitor**
+
+---
+
+
+### 2- **Resolución del monitor**
+
+Otro de los errores con los que nos podemos encontrar es con una baja resolución de pantalla (640x480 píxeles), sin opción de modificación mediante el procedimiento convencional (*preferences -> monitor settings*).
+
+Una de las opciones más simples y rápidas, llevada a cabo existosamente en el equipo que opera con la impresora *Blacky*, es la que se detalla a continuación:
+
+
+1. Ejecutar en el terminal.
+2.  Escribir: ***sudo leafpad /etc/default/grub***.
+3. Cambiar (solo para grub-pc) *♯GRUB_TERMINAL=console* por ***GRUB_TERMINAL=console*** para desactivar terminal gráfica.
+4. Activar escribiendo: ***sudo update-grub***.
+5. Reiniciar ordenador.
+
+Esta solución solucionará el problema de resolución de nuestro monitor con el único y poco significativo inconveniente de la desaparición del logotipo de Lubuntu al inicio del sistema.
+
+
+
+
+
+
