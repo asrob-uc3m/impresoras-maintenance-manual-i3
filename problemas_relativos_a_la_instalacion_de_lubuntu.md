@@ -32,7 +32,7 @@ Otro de los errores con los que nos podemos encontrar es con una baja resolució
 Una de las opciones más simples y rápidas, llevada a cabo existosamente en el equipo que opera con la impresora *Blacky*, es la que se detalla a continuación:
 
 
-1. Ejecutar en el terminal.
+1. Ejecutar el terminal.
 2.  Escribir: ***sudo leafpad /etc/default/grub***.
 3. Cambiar (solo para grub-pc) *♯GRUB_TERMINAL=console* por ***GRUB_TERMINAL=console*** para desactivar terminal gráfica.
 4. Activar escribiendo: ***sudo update-grub***.
