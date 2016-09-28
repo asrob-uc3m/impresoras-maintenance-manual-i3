@@ -5,7 +5,7 @@ La instalación del OS Lubuntu en ciertos equipos puede ocasionar problemas rela
 
 ### 1- **Monitor fuera de rango**
 
-Si aparece el mensaje **monitor 'out of range'** o " monitor fuera de rango" cada vez que se inicia el equipo, impidiéndonos entrar en el sistema con normalidad, se deberá proceder como se explica a continuación:
+Si aparece el mensaje "monitor out of range" o " monitor fuera de rango" cada vez que se inicia el equipo, impidiéndonos entrar en el sistema con normalidad, se deberá proceder como se explica a continuación:
 
 1. Mantener pulsado ESC mientras se inicia el equipo hasta que salgan varias opciones relacionadas con el arranque de Lubuntu.
 2. Entrar al sistema operativo desde el modo *Recovery*, haciendo un *boot* normal.
