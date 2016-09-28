@@ -18,7 +18,7 @@ Si aparece el mensaje "monitor out of range" o " monitor fuera de rango" cada ve
 
 *Figura 21: Código terminal Lubuntu para solucionar problema de monitor fuera de rango*
 
-Después de estos ajustes el problema no debería persistir, si persiste pongasé en contacto con el personal especializado.
+Después de estos ajustes el problema no debería persistir, si persiste póngase en contacto con el personal especializado.
 
 
 
