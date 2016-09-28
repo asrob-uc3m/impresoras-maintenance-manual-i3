@@ -1,7 +1,7 @@
 # Problemas relativos a la instalación de Lubuntu
 
 
-La instalación del OS Lubuntu en ciertos equipos puede ocasionar problemas relacionados con el buen funcionamiento del monitor.
+La instalación del OS Lubuntu en ciertos equipos puede ocasionar problemas relacionados, principalmente, con el buen funcionamiento del monitor.
 
 ### 1- **Monitor fuera de rango**
 
