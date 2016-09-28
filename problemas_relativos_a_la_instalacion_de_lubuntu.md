@@ -38,7 +38,7 @@ Una de las opciones más simples y rápidas, llevada a cabo existosamente en el 
 4. Activar escribiendo: ***sudo update-grub***.
 5. Reiniciar ordenador.
 
-Esta solución solucionará el problema de resolución de nuestro monitor con el único y poco significativo inconveniente de la desaparición del logotipo de Lubuntu al inicio del sistema.
+Esta solución resolverá el problema de resolución de nuestro monitor con el único y poco significativo inconveniente de la desaparición del logotipo de Lubuntu al inicio del sistema.
 
 
 
