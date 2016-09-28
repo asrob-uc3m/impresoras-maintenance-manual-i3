@@ -27,7 +27,7 @@ Después de estos ajustes el problema no debería persistir; si persiste, pónga
 
 ### 2- **Resolución del monitor**
 
-Otro de los errores con los que nos podemos encontrar es con una baja resolución de pantalla (640x480 píxeles), sin opción de modificación mediante el procedimiento convencional (*preferences -> monitor settings*).
+Otro de los errores con los que nos podemos encontrar es con una baja resolución de pantalla (*640x480 píxeles*), sin opción de modificación mediante el procedimiento convencional (*preferences -> monitor settings*).
 
 Una de las opciones más simples y rápidas, llevada a cabo existosamente en el equipo que opera con la impresora *Blacky*, es la que se detalla a continuación:
 
