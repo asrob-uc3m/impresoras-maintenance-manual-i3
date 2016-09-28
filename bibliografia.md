@@ -19,3 +19,4 @@
 4. Ventura, V. (2015). Crear G-Code con Cura para imprimir en 3D. [online] Polaridad.es. Available at: http://polaridad.es/gcode-cura-imprimir-3d/
 5. Wiki.ikaslab.org. (2016). Instalación de softwares y drivers para impresión 3D - IkasLab. [online] Available at: http://wiki.ikaslab.org/index.php/Instalaci%C3%B3n_de_softwares_y_drivers_para_impresi%C3%B3n_3D#Instalaci.C3.B3n_de_Cura
 6. Openthefile.net. (2016). OBJ extensión de archivo - ¿Qué es un archivo obj y cómo puedo abrir un archivo obj?. [online] Available at: http://www.openthefile.net/es/extension/obj
+7. Ubuntuforums.org. (2015). [SOLVED] how to increase screen resolution on laptop. [online] Available at: https://ubuntuforums.org/showthread.php?t=2260082 
