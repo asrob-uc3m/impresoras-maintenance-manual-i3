@@ -35,7 +35,7 @@
    * [7.1 Impresiones que se desplazan en los ejes X y/o Y](71.md)
    * [7.2 Algún/os motor/es no funciona/n](72.md)
 * [Bibliografía](bibliografia.md)
-* [ANEXO 1: Sistema operativo y software](anexo_1_archivos_de_configuracion.md)
+* [ANEXO 1: Sistema operativo y software](anexo_1_sistema_operativo_y_sofware.md)
    * [Problemas relativos a la instalación de Lubuntu](problemas_relativos_a_la_instalacion_de_lubuntu.md)
-* [ANEXO 2: Configuración del software de impresión](anexo_2_sistema_operativo_y_sofware.md)
+* [ANEXO 2: Configuración del software de impresión](anexo_2_archivos_de_configuracion.md)
 
