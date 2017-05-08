@@ -16,10 +16,9 @@ Este obra está bajo una licencia de [Creative Commons Reconocimiento-NoComercia
 ](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.es_ES)
 
 **Autores:** 
-* 
-**Jennifer Joana Gago Muñoz (2016-presente)**
-* 
-**Juan G Victores (2016-presente)**
+
+* **Jennifer Joana Gago Muñoz (2016-presente)**
+* **Juan G Victores (2016-presente)**
 
 
 ---
