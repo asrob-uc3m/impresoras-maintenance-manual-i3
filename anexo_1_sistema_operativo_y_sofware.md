@@ -86,61 +86,10 @@ Para llevar a cabo la configuración de la sesión de invitado los pasos a prose
 
 1. Inicio de sesión en modo Administrador.
 2. Acceso al fichero de configuración a la generación de sesión de invitado a través de la ruta /usr/share/lib/lightdm/guest-session-auto.sh
-3. Modificación del Script de generación de sesión de invitado con los siguientes parámetros:
+3. Modificación del Script de generación de sesión de invitado facilitado en la ruta ( https://github.com/asrob-uc3m/impresoras-asrob/blob/master/Blacky/guest-session-auto.sh ),
+con los siguientes parámetros:
 
 -------------------------------------------------------------------------------------------------
-#!/bin/sh
-#
-# Copyright (C) 2013 Canonical Ltd
-# Author: Gunnar Hjalmarsson <gunnarhj@ubuntu.com>
-#
-# This program is free software: you can redistribute it and/or modify it under
-# the terms of the GNU General Public License as published by the Free Software
-# Foundation, version 3 of the License.
-#
-# See http://www.gnu.org/copyleft/gpl.html the full text of the license.
-
-# This script is run via autostart at the launch of a guest session.
-
-export TEXTDOMAINDIR=/usr/share/locale-langpack
-export TEXTDOMAIN=lightdm
-
-# disable screen locking
-gsettings set org.gnome.desktop.lockdown disable-lock-screen true
-
-# info dialog about the temporary nature of a guest session
-dialog_content () {
-	TITLE=$(gettext 'Temporary Guest Session')
-	TEXT=$(gettext 'All data created during this guest session will be deleted
-when you log out, and settings will be reset to defaults.
-Please save files on some external device, for instance a
-USB stick, if you would like to access them again later.')
-	para2=$(gettext 'Another alternative is to save files in the
-/var/guest-data folder.')
-	test -w /var/guest-data && TEXT="$TEXT\n\n$para2"
-}
-test -f "$HOME"/.skip-guest-warning-dialog || {
-	if [ "$KDE_FULL_SESSION" = true ] && [ -x /usr/bin/kdialog ]; then
-		dialog_content
-		TEXT_FILE="$HOME"/.guest-session-kdialog
-		echo -n "$TEXT" > $TEXT_FILE
-		{
-			# Sleep to wait for the the info dialog to start.
-			# This way the window will likely become focused.
-			sleep $DIALOG_SLEEP
-			kdialog --title "$TITLE" --textbox $TEXT_FILE 450 250
-			rm -f $TEXT_FILE
-		} &
-	elif [ -x /usr/bin/zenity ]; then
-		dialog_contentmkdir -p ~/Desktop/aa/bb/cd
-		{
-			# Sleep to wait for the the info dialog to start.
-			# This way the window will likely become focused.
-			sleep $DIALOG_SLEEPmkdir -p ~/Desktop/aa/bb/cd
-			zenity --warning --no-wrap --title="$TITLE" --text="$TEXT"
-		} &
-	fi
-}
 
 # run possible local startup commands
 test -f /etc/guest-session/auto.sh && . /etc/guest-session/auto.sh
@@ -194,3 +143,8 @@ Dichas carpetas deben copiarse a la carpeta local del invitado, mediante las sig
  `cp -r /usr/share/asrob/repetier ~/.mono/registry/CurrentUser/software`
  `cp -r /usr/share/asrob/.Slic3r ~/`
 
+Por último, mediante la línea:
+
+xset s 0 dpms 0 0 0
+
+Se cancelará el auto-logout de la sesión de invitado, previniendo así pérdida de datos durante el uso de la sesión.
