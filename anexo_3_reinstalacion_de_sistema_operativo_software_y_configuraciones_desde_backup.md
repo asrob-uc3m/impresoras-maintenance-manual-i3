@@ -8,7 +8,7 @@ Por ello, en caso de suceder cualquier tipo de conflicto que no pueda ser resuel
 
 ### 1- Herramientas de backup
 
-Para el proceso de backup del sistema completo, se ha empleado la herramienta fsarchiver (fsa), la cual puede descargarse en caso de ser necesario desde el acceso ([descargar](http://www.fsarchiver.org/). A su vez, puede ejecutarse desde una distro Live de Ubuntu Xenial o anterior, facilitada en el link ([descargar](http://releases.ubuntu.com/16.04/).
+Para el proceso de backup del sistema completo, se ha empleado la herramienta fsarchiver (fsa), la cual puede descargarse en caso de ser necesario desde el acceso ( [descargar](http://www.fsarchiver.org/) ). A su vez, puede ejecutarse desde una distro Live de Ubuntu Xenial o anterior, facilitada en el link ( [descargar](http://releases.ubuntu.com/16.04/) ).
 Respecto al fichero backup a reinstalar, puede accederse en ( Pendiente ).
 
 ### 2- Restauración del S.O en una partición arrancable
@@ -54,4 +54,4 @@ Lo guardamos y cerramos. Ahora actualizaremos grub con el comando: sudo update-g
 
 Si queremos que el menú de arranque de Grub aparezca más limpio (eliminar entradas repetidas del kernel o aquellas que no utilizamos) podemos hacerlo modificando el fichero: “/boot/grub/grub.cfg”, de forma que comentaremos el código de aquellas partes que corresponden a lineas que no queremos que aparezcan en el menú. ¡OJO! es muy importante realizar previamente una copia de este fichero, por si cometiésemos algún error en la modificación del mismo. Se recomienda comentar las lineas en vez de eliminarlas, por si tuviéramos que corregir alguna modificación.
 
-Para más información, fuente ([UC3M Robots](http://robots.uc3m.es/index.php/Tutorial:_C%C3%B3mo_restaurar_un_S.O_en_una_partici%C3%B3n_arrancable).
+Para más información, fuente ( [UC3M Robots](http://robots.uc3m.es/index.php/Tutorial:_C%C3%B3mo_restaurar_un_S.O_en_una_partici%C3%B3n_arrancable) ).
