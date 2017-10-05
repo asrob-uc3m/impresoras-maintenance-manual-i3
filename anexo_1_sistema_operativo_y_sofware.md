@@ -145,6 +145,6 @@ Dichas carpetas deben copiarse a la carpeta local del invitado, mediante las sig
 
 Por último, mediante la línea:
 
-xset s 0 dpms 0 0 0
+`xset s 0 dpms 0 0 0`
 
 Se cancelará el auto-logout de la sesión de invitado, previniendo así pérdida de datos durante el uso de la sesión.
