@@ -91,16 +91,16 @@ con los siguientes parámetros:
 
 -------------------------------------------------------------------------------------------------
 
-# run possible local startup commands
+`# run possible local startup commands
 test -f /etc/guest-session/auto.sh && . /etc/guest-session/auto.sh
 
 
-# cp -r /usr/share/asrob/RepetierHost ~/.local/share/
+`# cp -r /usr/share/asrob/RepetierHost ~/.local/share/
 mkdir -p ~/.mono/registry/CurrentUser/software
 cp -r /usr/share/asrob/repetier ~/.mono/registry/CurrentUser/software
 cp -r /usr/share/asrob/.Slic3r ~/
 
-#Disable auto-logout
+`#Disable auto-logout
 export TMOUT=0
 xset s 0 dpms 0 0 0
 
