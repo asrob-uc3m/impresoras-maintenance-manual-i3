@@ -40,7 +40,7 @@ Desde dentro del programa, pulsaremos el botón de la esquina superior derecha *
 2. **Pestaña Impresora (valores usados en el laboratorio):**
   * Velocidad Desplazamiento sin extruir: 4800
   * Velocidad Avance del Eje Z: 100
-  * Temperatura precalentamiento Extrusor: 180
+  * Temperatura precalentamiento Extrusor: 180 (Se recomienda no superar la temperatura de 240ºC, debido a las limitaciones físicas del extrusor)
   * Temperatura precalentamiento Plataforma: 50
   * Número de Extrusores: 1
   * Comprobar cada 3 segundos
