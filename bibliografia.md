@@ -20,5 +20,5 @@
 5. Wiki.ikaslab.org. (2016). Instalación de softwares y drivers para impresión 3D - IkasLab. [online] Available at: http://wiki.ikaslab.org/index.php/Instalaci%C3%B3n_de_softwares_y_drivers_para_impresi%C3%B3n_3D#Instalaci.C3.B3n_de_Cura
 6. Openthefile.net. (2016). OBJ extensión de archivo - ¿Qué es un archivo obj y cómo puedo abrir un archivo obj?. [online] Available at: http://www.openthefile.net/es/extension/obj
 
-ANEXO 3. UC3M Robots. (2015).Como restaurar un S.O en una partición. [online] Available at: 
+ANEXO 3. UC3M Robots. (2015). Como restaurar un S.O en una partición. [online] Available at: 
 http://robots.uc3m.es/index.php/Tutorial:_C%C3%B3mo_restaurar_un_S.O_en_una_partici%C3%B3n_arrancable
