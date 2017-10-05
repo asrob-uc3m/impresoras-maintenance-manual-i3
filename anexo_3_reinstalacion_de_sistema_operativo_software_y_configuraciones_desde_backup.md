@@ -25,3 +25,32 @@ Una vez conocemos la partición, utilizaremos el programa fsarchiver de la sigui
 Una vez creada la nueva copia de seguridad, tendremos que modificar los UUIDs. Para poder consultar los UUIDs de cada partición, utilizaremos el comando: sudo blkid. Al ejecutarlo, podremos observar que los UUIDs de las particiones /dev/sda1 y /dev/sda3 (partición principal y partición copia) contienen el mismo número de identificación. Cuando se clonan discos en linux, si hay un disco clonado habrá dos discos con UUIDs iguales, y esto confundirá a el grub. Esto es porque grub busca la raiz según el UUID de partición, al arrancar linux, realizando un arranque aleatorio de estas clonaciones, lo que	significa que nunca se sabrá cual de las dos particiones clonadas se arranco. Es por ello que deberemos de cambiar las UUIDs para solventar esto. Ejecutaremos por tanto la siguiente linea en el terminal: sudo tune2fs /dev/sda3 -U random la cual asignará un número de serie aleatorio a dicha partición (/dev/sda3). A continuación, confirmamos que el número de serie ha cambiado correctamente con el comando: sudo blkid.
 Lo siguiente que deberemos hacer es añadir al menú de grub la nueva partición de arranque. Para esto, editaremos el fichero: /etc/grub.d/40_custom en el cual incluiremos las instrucciones necesarias que permitirán ser incorporadas posteriormente en el fichero de configuración de grub: /boot/grub/grub.cfg Un ejemplo de lo que debemos de incluir en el fichero /etc/grub.d/40_custom es lo siguiente:
 
+---------------------------------------------------------------------------------------------------
+
+menuentry ‘Lubuntu, 14.04.1‘{
+insmod part_msdos
+insmod ext2 
+set root='(hd0,msdos6)’
+search –no-floppy –fs-uuid –set 2f16be23-6dff-4872-a1c5-367d364c9f71
+linux /boot/vmlinuz-2.6.32-5-686 root=UUID=2f16be23-6dff-4872-a1c5-367d364c9f71 ro quiet
+initrd /boot/initrd.img-2.6.32-5-686
+} 
+
+-------------------------------------------------------------------------------------------------
+
+− En Lubuntu, 14.04.1 pondremos el nombre que queramos que aparezca en el Grub
+− En hd0,msdos6 habrá que poner el disco duro y la partición en la que se encuentra el S.O Linux, donde:
+− hd0 sería el primer disco duro, o sea sda.
+hd1 sería en segundo disco duro, o sea sdb y así sucesivamente
+− msdos1 sería la primera partición del disco duro
+msdos2 sería la segunda partición del disco duro y así sucesivamente
+Por lo tanto hd0,msdos6 sería el primer disco duro y la sexta partición (sda6)
+− En 2f16be23-6dff-4872-a1c5-367d364c9f71 pondríamos el UUID de la partición donde se encuentra el S.O Linux, que lo veríamos abriendo un terminal y usando el comando blkid
+− Por último donde pone /boot/vmlinuz-2.6.32-5-686 y /boot/initrd.img-2.6.32-5-686 obviamente nos dirigiremos a la partición donde se encuentra el S.O Linux que queremos poner en el Grub, nos dirigiremos a el directorio /boot/ y pondremos el vmlinuz y el intrd.img con el número que corresponda (si lo tiene) aunque también nos valen los que se encuentran en la raíz del sistema de archivos.
+Lo guardamos y cerramos. Ahora actualizaremos grub con el comando: sudo update-grub2
+
+## Eliminar entradas residuales del menú de Grub
+
+Si queremos que el menú de arranque de Grub aparezca más limpio (eliminar entradas repetidas del kernel o aquellas que no utilizamos) podemos hacerlo modificando el fichero: “/boot/grub/grub.cfg”, de forma que comentaremos el código de aquellas partes que corresponden a lineas que no queremos que aparezcan en el menú. ¡OJO! es muy importante realizar previamente una copia de este fichero, por si cometiésemos algún error en la modificación del mismo. Se recomienda comentar las lineas en vez de eliminarlas, por si tuviéramos que corregir alguna modificación.
+
+Para más información, fuente (http://robots.uc3m.es/index.php/Tutorial:_C%C3%B3mo_restaurar_un_S.O_en_una_partici%C3%B3n_arrancable).
