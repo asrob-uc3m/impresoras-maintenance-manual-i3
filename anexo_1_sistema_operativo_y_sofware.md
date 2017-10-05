@@ -86,7 +86,7 @@ Para llevar a cabo la configuración de la sesión de invitado los pasos a segui
 
 1. Inicio de sesión en modo Administrador.
 2. Acceso al fichero de configuración a la generación de sesión de invitado a través de la ruta /usr/share/lib/lightdm/guest-session-auto.sh
-3. Modificación del Script de generación de sesión de invitado facilitado en la ruta ( https://github.com/asrob-uc3m/impresoras-asrob/blob/master/Blacky/guest-session-auto.sh ),
+3. Modificación del Script de generación de sesión de invitado facilitado en la ruta ( https://github.com/asrob-uc3m/impresoras-asrob/blob/master/Blacky/guest-session-auto.sh ), o bien (https://github.com/asrob-uc3m/impresoras-asrob/blob/master/Hija%20Resurrection/guest-session-auto.sh),
 con los siguientes parámetros:
 
 -------------------------------------------------------------------------------------------------
