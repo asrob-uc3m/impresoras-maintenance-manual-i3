@@ -82,7 +82,7 @@ Para su instalación se deben seguir los siguientes pasos:
 
 Debido al elevado tráfico de usuarios, y por medidas de seguridad para un correcto funcionamiento, se requiere de la generación de una sesión de invitado, a partir de la cual se generará una configuración de forma temporal para permitir su autodestrucción al finalizar la experiencia de usuario.
 
-Para llevar a cabo la configuración de la sesión de invitado los pasos a proseguir serán los siguientes:
+Para llevar a cabo la configuración de la sesión de invitado los pasos a seguir serán los siguientes:
 
 1. Inicio de sesión en modo Administrador.
 2. Acceso al fichero de configuración a la generación de sesión de invitado a través de la ruta /usr/share/lib/lightdm/guest-session-auto.sh
