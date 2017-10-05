@@ -38,4 +38,5 @@
 * [ANEXO 1: Sistema operativo y software](anexo_1_sistema_operativo_y_sofware.md)
    * [Problemas relativos a la instalación de Lubuntu](problemas_relativos_a_la_instalacion_de_lubuntu.md)
 * [ANEXO 2: Configuración del software de impresión](anexo_2_archivos_de_configuracion.md)
+* [ANEXO 3: Reinstalación de sistema operativo, software y configuraciones desde backup](anexo_3_reinstalacion_de_sistema_operativo_software_y_configuraciones_desde_backup.md)
 
