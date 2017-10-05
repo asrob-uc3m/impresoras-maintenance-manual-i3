@@ -91,8 +91,8 @@ con los siguientes parámetros:
 
 -------------------------------------------------------------------------------------------------
 
-`# run possible local startup commands
-test -f /etc/guest-session/auto.sh && . /etc/guest-session/auto.sh
+`# run possible local startup commands`
+`test -f /etc/guest-session/auto.sh && . /etc/guest-session/auto.sh`
 
 
 `# cp -r /usr/share/asrob/RepetierHost ~/.local/share/`
