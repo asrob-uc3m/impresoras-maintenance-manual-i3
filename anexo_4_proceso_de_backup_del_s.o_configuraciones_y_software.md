@@ -19,6 +19,6 @@ Respecto al fichero backup a reinstalar, puede accederse en ( Pendiente ).
 
 *Figura 2: Ubuntu Xenial Live*
 
-<img src="proceso_de_backup.png" alt="lub1" height="300" width="400" align="middle">
+<img src="proceso_de_backup.png" alt="lub1" height="500" width="400" align="middle">
 
 *Figura 3: Proceso de backup*
