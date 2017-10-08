@@ -23,6 +23,10 @@ Lo primero que deberemos de tener es un sistema operativo booteable desde el USB
 Lo siguiente que haremos será descargar gparted: sudo apt-get install gparted
 Arrancamos escribiendo en la terminal: sudo gparted. Una vez abierto, seleccionamos la partición donde se encuentra instalado el S.O, nos vamos al menú principal y seleccionamos Partition > Resize/Move. En Free space preceding (MiB) indicamos el tamaño que queremos que tenga la nueva partición. En nuestro caso hemos decidido indicar una partición de aproximadamente 20 GiB (20.480 MiB). Una vez creada la nueva partición, la formateamos en el formato correspondiente pulsando sobre el menú Partition > Format to > ext3/ext4 y aplicamos los cambios pulsando sobre el tick verde. El formato a aplicar será ext3 o ext4 según el caso. Para saber cual tenemos que utilizar, nos fijaremos en el sistema de ficheros utilizado por la partición principal donde se encuentra instalado linux y utilizaremos el mismo sistema de ficheros para que no haya conflictos.
 
+<img src="restaurar_backup.png" alt="lub1" height="300" width="400" align="middle">
+
+*Figura 2: Restauración del backup*
+
 ## Cómo instalar el S.O (copia) en la nueva partición
 
 Pasaremos a restaurar la copia de seguridad en la partición que hemos formateado. Para ello utilizaremos el programa fsarchiver. Nos situamos en la ruta donde se encuentra el archivo de copia con extensión fsa. A partir de aquí, deberemos conocer cual es la partición sobre la que queremos restaurar la copia. Podemos conocer las particiones que disponemos con el tecleando el comando: sudo fdisk -l. En nuestro caso, la partición tendrá la nomenclatura /dev/sda3. Es importante que esta partición esté sin montar para que fsarchiver no nos dé errores.
@@ -60,6 +64,6 @@ Si queremos que el menú de arranque de Grub aparezca más limpio (eliminar entr
 
 <img src="ejemplo_grub.png" alt="lub1" height="300" width="400" align="middle">
 
-*Figura 2: Ejemplo de grub de arranque*
+*Figura 3: Ejemplo de grub de arranque*
 
 Para más información, fuente ( [UC3M Robots](http://robots.uc3m.es/index.php/Tutorial:_C%C3%B3mo_restaurar_un_S.O_en_una_partici%C3%B3n_arrancable) ).
