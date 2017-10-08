@@ -11,6 +11,10 @@ Por ello, en caso de suceder cualquier tipo de conflicto que no pueda ser resuel
 Para el proceso de backup del sistema completo, se ha empleado la herramienta fsarchiver (fsa), la cual puede descargarse en caso de ser necesario desde el acceso ( [descargar](http://www.fsarchiver.org/) ). A su vez, puede ejecutarse desde una distro Live de Ubuntu Xenial o anterior, facilitada en el link ( [descargar](http://releases.ubuntu.com/16.04/) ).
 Respecto al fichero backup a reinstalar, puede accederse en ( Pendiente ).
 
+<img src="ubuntu_xenial.png" alt="lub1" height="300" width="400" align="middle">
+
+*Figura 1: Ubuntu Xenial Live*
+
 ### 2- Restauración del S.O en una partición arrancable
 
 ## Crear una particion nueva a partir de la reducción de otra partición:
