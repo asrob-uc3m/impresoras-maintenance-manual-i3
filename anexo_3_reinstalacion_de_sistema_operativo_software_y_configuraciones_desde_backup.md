@@ -58,4 +58,8 @@ Lo guardamos y cerramos. Ahora actualizaremos grub con el comando: sudo update-g
 
 Si queremos que el menú de arranque de Grub aparezca más limpio (eliminar entradas repetidas del kernel o aquellas que no utilizamos) podemos hacerlo modificando el fichero: “/boot/grub/grub.cfg”, de forma que comentaremos el código de aquellas partes que corresponden a lineas que no queremos que aparezcan en el menú. ¡OJO! es muy importante realizar previamente una copia de este fichero, por si cometiésemos algún error en la modificación del mismo. Se recomienda comentar las lineas en vez de eliminarlas, por si tuviéramos que corregir alguna modificación.
 
+<img src="ejemplo_grub.png" alt="lub1" height="300" width="400" align="middle">
+
+*Figura 2: Ejemplo de grub de arranque*
+
 Para más información, fuente ( [UC3M Robots](http://robots.uc3m.es/index.php/Tutorial:_C%C3%B3mo_restaurar_un_S.O_en_una_partici%C3%B3n_arrancable) ).
