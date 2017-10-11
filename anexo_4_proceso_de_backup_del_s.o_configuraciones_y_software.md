@@ -132,10 +132,16 @@ La captura se realizó tras realizar el backup del PC de Hija Resurrection, y po
 
 *Figura 19: Proceso de backup*
 
-24. Comenzará el proceso de cálculo
+24. Comenzará el proceso de cálculo.
 <img src="Proceso_de_backup_18.jpg" alt="lub1" height="300" width="400" align="middle">
 
 *Figura 20: Proceso de backup*
 
+25. Comenzará el proceso de backup del sistema, con una duración aproximada de 10 minutos.
+<img src="Proceso_de_backup_19.jpg" alt="lub1" height="300" width="400" align="middle">
 
+*Figura 21: Proceso de backup*
 
+26. Una vez finalizado, se concluye el proceso de backup.
+
+Para más información y proceso de restauración, por favor consulte el ANEXO 3.
