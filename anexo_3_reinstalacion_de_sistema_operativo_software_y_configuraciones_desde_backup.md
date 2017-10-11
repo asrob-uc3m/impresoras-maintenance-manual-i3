@@ -73,14 +73,13 @@ Se recomienda grabación en CD o DVD, debido a problemas de reconocimiento de lo
 
 *Figura 8: Proceso de backup*
 
-13. En este apartado, seleccionamos la unidad la cual almacenará el backup o restaurará de él, en este caso almacenará.
-Para el proceso se llevo a cabo almacenandolo en un dispositivo USB de 16 GB. Se recomienda un dispositivo superior a 4 GB, dado que el backup es de aproximadamente 2-3 GB.
+14. En este apartado, seleccionamos la unidad la cual almacena el backup.
 
 <img src="Proceso_de_backup_07.jpg" alt="lub1" height="300" width="400" align="middle">
 
 *Figura 9: Proceso de backup*
 
-14. Selecionamos la unidad donde almacenar, en este caso únicamente nos dirigimos a Done, para seleccionar toda la unidad.
+15. Selecionamos la unidad donde esta almacenado, en este caso únicamente nos dirigimos a Done, para seleccionar toda la unidad.
 NOTA:
 La captura se realizó tras realizar el backup del PC de Hija Resurrection, y por ello la carpeta del dispositivo con el otro backup.
 
@@ -88,70 +87,68 @@ La captura se realizó tras realizar el backup del PC de Hija Resurrection, y po
 
 *Figura 10: Proceso de backup*
 
-15. Seleccionamos el modo Beginner
+16. Seleccionamos el modo Beginner
 
 <img src="Proceso_de_backup_09.jpg" alt="lub1" height="300" width="400" align="middle">
 
 *Figura 11: Proceso de backup*
 
-16. Selecionamos la opción de savedisk, dado que el proceso será el de realizar el backup del sistema.
+17. Selecionamos la opción de restoredisk, dado que el proceso será restauración de copia de seguridad.
 
 <img src="Proceso_de_backup_10.jpg" alt="lub1" height="300" width="400" align="middle">
 
 *Figura 12: Proceso de backup*
 
-17. Asignamos un nombre al fichero de backup.
-
-<img src="Proceso_de_backup_11.jpg" alt="lub1" height="300" width="400" align="middle">
-
-*Figura 13: Proceso de backup*
-
-18. Selecionamos el disco del cual realizaremos el backup.
+18. Selecionamos el disco en el cual restauraremos el backup.
 
 <img src="Proceso_de_backup_12.jpg" alt="lub1" height="300" width="400" align="middle">
 
-*Figura 14: Proceso de backup*
+*Figura 13: Proceso de backup*
 
 19. Podemos omitir la comprobación y reparación del sistema de archivos de la fuente, o bien realizarlo. (A opción del ususario, no se recomienda la última opción por seguiridad)
 
 <img src="Proceso_de_backup_13.jpg" alt="lub1" height="300" width="400" align="middle">
 
-*Figura 15: Proceso de backup*
+*Figura 14: Proceso de backup*
 
 20. Respecto a la imagen final es posible comprobar o no el resultado final. Es recomendable realizarlo por seguridad.
 
 <img src="Proceso_de_backup_14.jpg" alt="lub1" height="300" width="400" align="middle">
 
-*Figura 16: Proceso de backup*
+*Figura 15: Proceso de backup*
 
 21. Selecionamos no cifrar la imagen.
 <img src="Proceso_de_backup_15.jpg" alt="lub1" height="300" width="400" align="middle">
 
-*Figura 17: Proceso de backup*
+*Figura 16: Proceso de backup*
 
 22. Selecionamos la eleción una vez finalizado. ( A elección del usuario )
 <img src="Proceso_de_backup_16.jpg" alt="lub1" height="300" width="400" align="middle">
 
-*Figura 18: Proceso de backup*
+*Figura 17: Proceso de backup*
 
 23. Una vez seleccionado, comenzará y pedirá una confimación por seguridad.Escribimos "y", acto seguido presionamos Intro.
 <img src="Proceso_de_backup_17.jpg" alt="lub1" height="300" width="400" align="middle">
 
-*Figura 19: Proceso de backup*
+*Figura 18: Proceso de backup*
 
 24. Comenzará el proceso de cálculo.
 <img src="Proceso_de_backup_18.jpg" alt="lub1" height="300" width="400" align="middle">
 
+*Figura 19: Proceso de backup*
+
+25. Comenzará el proceso de restauración backup del sistema, con una duración aproximada de 7 minutos.
+<img src="Proceso_de_backup_20.jpg" alt="lub1" height="300" width="400" align="middle">
+
 *Figura 20: Proceso de backup*
 
-25. Comenzará el proceso de backup del sistema, con una duración aproximada de 10 minutos.
-<img src="Proceso_de_backup_19.jpg" alt="lub1" height="300" width="400" align="middle">
+26. Una vez finalizado, se concluye el proceso de resturación de backup.
 
-*Figura 21: Proceso de backup*
+Para más información y proceso de backup, por favor consulte el ANEXO 4.
 
-26. Una vez finalizado, se concluye el proceso de backup.
+NOTA:
 
-Para más información y proceso de restauración, por favor consulte el ANEXO 3.
+Adicional.
 
 ## Eliminar entradas residuales del menú de Grub
 
@@ -159,6 +156,6 @@ Si queremos que el menú de arranque de Grub aparezca más limpio (eliminar entr
 
 <img src="ejemplo_grub.png" alt="lub1" height="300" width="400" align="middle">
 
-*Figura 3: Ejemplo de grub de arranque*
+*Figura 21: Ejemplo de grub de arranque*
 
 Para más información, fuente ( [UC3M Robots](http://robots.uc3m.es/index.php/Tutorial:_C%C3%B3mo_restaurar_un_S.O_en_una_partici%C3%B3n_arrancable) ).
