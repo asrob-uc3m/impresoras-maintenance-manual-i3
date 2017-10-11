@@ -21,7 +21,7 @@ Clonezilla puede descargarse en caso de ser necesario desde el acceso ( [descarg
 Para poder llevar a cabo el proceso de restauración backup correctamente, las instrucciones recomendadas a seguir serán las siguientes:
 
 1. Descarga de la imagen de la distro Live de Clonezilla desde el acceso ( [descargar](http://clonezilla.org/downloads.php) ). 
-2. Descarge el backup de sistema operativo, con configuraciones y aplicaciones desde ( [aquí](https://drive.google.com/a/uc3m.es/file/d/0BwWZ4ZeHwSLXN21oZ0FjQjVBN2s/view?usp=sharing) )., y almacenelo en un dispotitivo externo.
+2. Descarge el backup de sistema operativo, con configuraciones y aplicaciones desde ( [aquí](https://drive.google.com/a/uc3m.es/file/d/0BwWZ4ZeHwSLXN21oZ0FjQjVBN2s/view?usp=sharing) ), y almacenelo en un dispotitivo externo.
 NOTA:
 Capacidad recomendada de al menos 3 GB, dado que el peso del backup es de aproximadamente 2-3 GB.
 3. Quemado de la imagen en un dispositivo que permita un arranque posteriormente, tales como USB, CD o DVD ( Permite el arrque desde partición de disco, arranque de red y semejantes, sin embargo requerirá de preconfiguración adicional ).
