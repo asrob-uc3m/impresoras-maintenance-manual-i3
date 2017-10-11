@@ -46,4 +46,23 @@ Se recomienda grabación en CD o DVD, debido a problemas de reconocimiento de lo
 
 <img src="Proceso_de_backup_03.jpg" alt="lub1" height="300" width="400" align="middle">
 
-*Figura 4: Inicio*
+*Figura 5: Inicio*
+
+10. Seleccionamos la primera opción dado que trabajaremos con imagenes de disco, discos y particiones.
+
+<img src="Proceso_de_backup_04.jpg" alt="lub1" height="300" width="400" align="middle">
+
+*Figura 6: Proceso de backup*
+
+11. Seleccionamos la primera opción dado que trabajaremos cen modo local.
+
+<img src="Proceso_de_backup_05.jpg" alt="lub1" height="300" width="400" align="middle">
+
+*Figura 7: Proceso de backup*
+
+12. Conectamos el dispositivo donde almacenar el backup o de donde restaurar, una vez se encuentre en la lista, ejecutar CTRL+C.
+
+<img src="Proceso_de_backup_06.jpg" alt="lub1" height="300" width="400" align="middle">
+
+*Figura 8: Proceso de backup*
+
