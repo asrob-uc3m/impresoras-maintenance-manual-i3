@@ -121,3 +121,21 @@ La captura se realizó tras realizar el backup del PC de Hija Resurrection, y po
 <img src="Proceso_de_backup_15.jpg" alt="lub1" height="300" width="400" align="middle">
 
 *Figura 17: Proceso de backup*
+
+22. Selecionamos la eleción una vez finalizado. ( A elección del usuario )
+<img src="Proceso_de_backup_16.jpg" alt="lub1" height="300" width="400" align="middle">
+
+*Figura 18: Proceso de backup*
+
+23. Una vez seleccionado, comenzará y pedirá una confimación por seguridad.Escribimos "y", acto seguido presionamos Intro.
+<img src="Proceso_de_backup_17.jpg" alt="lub1" height="300" width="400" align="middle">
+
+*Figura 19: Proceso de backup*
+
+24. Comenzará el proceso de cálculo
+<img src="Proceso_de_backup_18.jpg" alt="lub1" height="300" width="400" align="middle">
+
+*Figura 20: Proceso de backup*
+
+
+
