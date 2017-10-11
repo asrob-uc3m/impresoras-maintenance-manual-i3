@@ -158,4 +158,4 @@ Si queremos que el menú de arranque de Grub aparezca más limpio (eliminar entr
 
 *Figura 21: Ejemplo de grub de arranque*
 
-Para más información, fuente ( [UC3M Robots](http://robots.uc3m.es/index.php/Tutorial:_C%C3%B3mo_restaurar_un_S.O_en_una_partici%C3%B3n_arrancable) ).
+Para más información, fuente ( [Clonezilla](http://clonezilla.org/downloads.php) ).
