@@ -14,8 +14,18 @@ Clonezilla puede descargarse en caso de ser necesario desde el acceso ( [descarg
 
 ### 2- Proceso de backup
 
-(Pendiente).
+Para poder llevar a cabo el proceso de backup correctamente, las instrucciones recomendadas a seguir serán las siguientes:
 
+1. Descarga de la imagen de la distro Live de Clonezilla desde el acceso ( [descargar](http://clonezilla.org/downloads.php) ). 
+2. Quemado de la imagen en un dispositivo que permita un arranque posteriormente, tales como USB, CD o DVD ( Permite el arrque desde partición de disco, arranque de red y semejantes, sin embargo requerirá de preconfiguración adicional ).
+NOTA:
+Se recomienda grabación en CD o DVD, debido a problemas de reconocimiento de los dispositvos modernos.
+
+3. Insertar el DVD o CD en el ordenador.
+4. Arranque del ordenador desde la unidad de CDROM.
+5. El sistema arrancará cargando el CD Live. Debido a la leve capacidad de cómputo del PC, es normal que tarde alrededor de 30-40 segundos hasta aparecer la primera selección.
+
+El proceso de backup
 <img src="ubuntu_xenial.png" alt="lub1" height="300" width="400" align="middle">
 
 *Figura 2: Ubuntu Xenial Live*
