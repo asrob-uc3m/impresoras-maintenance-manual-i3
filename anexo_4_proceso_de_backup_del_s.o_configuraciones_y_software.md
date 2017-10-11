@@ -4,12 +4,13 @@ Con el fin de facilitar el proceso llevado a cabo para la realización del backu
 
 ### 1- Herramientas de backup
 
-Para el proceso de backup del sistema completo, se ha empleado la herramienta fsarchiver (fsa), la cual puede descargarse en caso de ser necesario desde el acceso ( [descargar](http://www.fsarchiver.org/) ). A su vez, puede ejecutarse desde una distro Live de Ubuntu Xenial o anterior, facilitada en el link ( [descargar](http://releases.ubuntu.com/16.04/) ).
-Respecto al fichero backup a reinstalar, puede accederse en ( Pendiente ).
+Para llevar a cabo el proceso de backup del sistema completo, se ha empleado la herramienta Clonezilla. Clonezilla es un software libre de recuperación ante desastres, sirve para la clonación de discos y particiones. Clonezilla está diseñado por Steven Shaiu y desarrollado por el NCHC Labs en Taiwán.
+Durante el proceso de backup, la versión empleada fué "stable - 2.5.2-31", sin embargo, para procesos posteriores de backup y/o restauración, puede emplearse la versión actual, dado que se trata de un sofware retrocompatible.
+Clonezilla puede descargarse en caso de ser necesario desde el acceso ( [descargar](http://clonezilla.org/downloads.php) ). 
 
-<img src="fsarchiver.png" alt="lub1" height="300" width="400" align="middle">
+<img src="Clonezilla.png" alt="lub1" height="300" width="400" align="middle">
 
-*Figura 1: fsarchiver*
+*Figura 1: Descarga de DVD Live Clonezilla*
 
 ### 2- Proceso de backup
 
