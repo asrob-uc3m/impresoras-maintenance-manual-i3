@@ -80,3 +80,27 @@ La captura se realizó tras realizar el backup del PC de Hija Resurrection, y po
 <img src="Proceso_de_backup_08.jpg" alt="lub1" height="300" width="400" align="middle">
 
 *Figura 10: Proceso de backup*
+
+15. Seleccionamos el modo Beginner
+
+<img src="Proceso_de_backup_09.jpg" alt="lub1" height="300" width="400" align="middle">
+
+*Figura 11: Proceso de backup*
+
+16. Selecionamos la opción de savedisk, dado que el proceso será el de realizar el backup del sistema.
+
+<img src="Proceso_de_backup_10.jpg" alt="lub1" height="300" width="400" align="middle">
+
+*Figura 12: Proceso de backup*
+
+17. Asignamos un nombre al fichero de backup.
+
+<img src="Proceso_de_backup_11.jpg" alt="lub1" height="300" width="400" align="middle">
+
+*Figura 13: Proceso de backup*
+
+18. Selecionamos el disco del cual realizaremos el backup.
+
+<img src="Proceso_de_backup_12.jpg" alt="lub1" height="300" width="400" align="middle">
+
+*Figura 14: Proceso de backup*
