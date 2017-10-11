@@ -66,3 +66,17 @@ Se recomienda grabación en CD o DVD, debido a problemas de reconocimiento de lo
 
 *Figura 8: Proceso de backup*
 
+13. En este apartado, seleccionamos la unidad la cual almacenará el backup o restaurará de él, en este caso almacenará.
+Para el proceso se llevo a cabo almacenandolo en un dispositivo USB de 16 GB. Se recomienda un dispositivo superior a 4 GB, dado que el backup es de aproximadamente 2-3 GB.
+
+<img src="Proceso_de_backup_07.jpg" alt="lub1" height="300" width="400" align="middle">
+
+*Figura 9: Proceso de backup*
+
+14. Selecionamos la unidad donde almacenar, en este caso únicamente nos dirigimos a Done, para seleccionar toda la unidad.
+NOTA:
+La captura se realizó tras realizar el backup del PC de Hija Resurrection, y por ello la carpeta del dispositivo con el otro backup.
+
+<img src="Proceso_de_backup_08.jpg" alt="lub1" height="300" width="400" align="middle">
+
+*Figura 10: Proceso de backup*
