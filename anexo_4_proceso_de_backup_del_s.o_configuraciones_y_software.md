@@ -145,4 +145,5 @@ La captura se realizó tras realizar el backup del PC de Hija Resurrection, y po
 26. Una vez finalizado, se concluye el proceso de backup.
 
 Para más información y proceso de restauración, por favor consulte el ANEXO 3.
+
 Para más información, fuente ( [Clonezilla](http://clonezilla.org/clonezilla-usage/general-live-use.php) ).
