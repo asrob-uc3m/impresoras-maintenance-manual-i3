@@ -24,12 +24,22 @@ Se recomienda grabación en CD o DVD, debido a problemas de reconocimiento de lo
 3. Insertar el DVD o CD en el ordenador.
 4. Arranque del ordenador desde la unidad de CDROM.
 5. El sistema arrancará cargando el CD Live. Debido a la leve capacidad de cómputo del PC, es normal que tarde alrededor de 30-40 segundos hasta aparecer la primera selección.
+6. Aparecerá el siguiente menú, seleccionar la opción por defecto Clonezilla Live.
 
-El proceso de backup
-<img src="ubuntu_xenial.png" alt="lub1" height="300" width="400" align="middle">
+<img src="Arranque_clonezilla.png" alt="lub1" height="300" width="400" align="middle">
 
-*Figura 2: Ubuntu Xenial Live*
+*Figura 2: Arranque de DVD Live Clonezilla*
 
-<img src="proceso_de_backup.png" alt="lub1" height="500" width="400" align="middle">
+7. Tras la selección anterior arrancará el programa Live, tardando al rededor de otros 30 segundos, y elegiremos el idoma en cuestión, recomendando el Español, debido a la distribución del Teclado.
 
-*Figura 3: Proceso de backup*
+<img src="Proceso_de_backup_01.jpg" alt="lub1" height="300" width="400" align="middle">
+
+*Figura 3: Selección de idioma*
+
+8. Seleccionamos no tocar el mapa de teclado.
+
+<img src="Proceso_de_backup_02.jpg" alt="lub1" height="300" width="400" align="middle">
+
+*Figura 4: Configuración del teclado*
+
+
