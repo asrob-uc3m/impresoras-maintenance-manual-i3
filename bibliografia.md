@@ -22,3 +22,6 @@
 
 ANEXO 3. UC3M Robots. (2016). Como restaurar un S.O en una partición. [online] Available at: 
 http://robots.uc3m.es/index.php/Tutorial:_C%C3%B3mo_restaurar_un_S.O_en_una_partici%C3%B3n_arrancable
+ANEXO 3. Clonezilla. (2017). Como restaurar un S.O en una partición. [online] Available at: 
+http://clonezilla.org/clonezilla-usage/general-live-use.php
+
