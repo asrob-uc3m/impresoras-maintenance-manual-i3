@@ -158,4 +158,4 @@ Si queremos que el menú de arranque de Grub aparezca más limpio (eliminar entr
 
 *Figura 21: Ejemplo de grub de arranque*
 
-Para más información, fuente ( [Clonezilla](http://clonezilla.org/downloads.php) ).
+Para más información, fuente ( [Clonezilla](http://clonezilla.org/clonezilla-usage/general-live-use.php) ).
