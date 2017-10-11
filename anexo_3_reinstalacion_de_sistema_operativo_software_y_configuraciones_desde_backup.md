@@ -8,8 +8,8 @@ Por ello, en caso de suceder cualquier tipo de conflicto que no pueda ser resuel
 
 ### 1- Herramientas de backup
 
-Para llevar a cabo el proceso de backup del sistema completo, se ha empleado la herramienta Clonezilla. Clonezilla es un software libre de recuperación ante desastres, sirve para la clonación de discos y particiones. Clonezilla está diseñado por Steven Shaiu y desarrollado por el NCHC Labs en Taiwán.
-Durante el proceso de backup, la versión empleada fué "stable - 2.5.2-31", sin embargo, para procesos posteriores de backup y/o restauración, puede emplearse la versión actual, dado que se trata de un sofware retrocompatible.
+Para llevar a cabo el proceso de restauración desde backup del sistema completo, se ha empleado la herramienta Clonezilla. Clonezilla es un software libre de recuperación ante desastres, sirve para la clonación de discos y particiones. Clonezilla está diseñado por Steven Shaiu y desarrollado por el NCHC Labs en Taiwán.
+Durante el proceso de restauración backup, la versión empleada fué "stable - 2.5.2-31", sin embargo, para procesos posteriores de backup y/o restauración, puede emplearse la versión actual, dado que se trata de un sofware retrocompatible.
 Clonezilla puede descargarse en caso de ser necesario desde el acceso ( [descargar](http://clonezilla.org/downloads.php) ). 
 
 <img src="Clonezilla.png" alt="lub1" height="300" width="400" align="middle">
@@ -18,53 +18,56 @@ Clonezilla puede descargarse en caso de ser necesario desde el acceso ( [descarg
 
 ### 2- Proceso de backup
 
-Para poder llevar a cabo el proceso de backup correctamente, las instrucciones recomendadas a seguir serán las siguientes:
+Para poder llevar a cabo el proceso de restauración backup correctamente, las instrucciones recomendadas a seguir serán las siguientes:
 
 1. Descarga de la imagen de la distro Live de Clonezilla desde el acceso ( [descargar](http://clonezilla.org/downloads.php) ). 
-2. Quemado de la imagen en un dispositivo que permita un arranque posteriormente, tales como USB, CD o DVD ( Permite el arrque desde partición de disco, arranque de red y semejantes, sin embargo requerirá de preconfiguración adicional ).
+2. Descarge el backup de sistema operativo, con configuraciones y aplicaciones desde aquí, y almacenelo en un dispotitivo externo.
+NOTA:
+Capacidad recomendada de al menos 3 GB, dado que el peso del backup es de aproximadamente 2-3 GB.
+3. Quemado de la imagen en un dispositivo que permita un arranque posteriormente, tales como USB, CD o DVD ( Permite el arrque desde partición de disco, arranque de red y semejantes, sin embargo requerirá de preconfiguración adicional ).
 NOTA:
 Se recomienda grabación en CD o DVD, debido a problemas de reconocimiento de los dispositvos modernos.
 
-3. Insertar el DVD o CD en el ordenador.
-4. Arranque del ordenador desde la unidad de CDROM.
+4. Insertar el DVD o CD en el ordenador.
+5. Arranque del ordenador desde la unidad de CDROM.
 5. El sistema arrancará cargando el CD Live. Debido a la leve capacidad de cómputo del PC, es normal que tarde alrededor de 30-40 segundos hasta aparecer la primera selección.
-6. Aparecerá el siguiente menú, seleccionar la opción por defecto Clonezilla Live.
+7. Aparecerá el siguiente menú, seleccionar la opción por defecto Clonezilla Live.
 
 <img src="Arranque_clonezilla.png" alt="lub1" height="300" width="400" align="middle">
 
 *Figura 2: Arranque de DVD Live Clonezilla*
 
-7. Tras la selección anterior arrancará el programa Live, tardando al rededor de otros 30 segundos, y elegiremos el idoma en cuestión, recomendando el Español, debido a la distribución del Teclado.
+8. Tras la selección anterior arrancará el programa Live, tardando al rededor de otros 30 segundos, y elegiremos el idoma en cuestión, recomendando el Español, debido a la distribución del Teclado.
 
 <img src="Proceso_de_backup_01.jpg" alt="lub1" height="300" width="400" align="middle">
 
 *Figura 3: Selección de idioma*
 
-8. Seleccionamos no tocar el mapa de teclado.
+9. Seleccionamos no tocar el mapa de teclado.
 
 <img src="Proceso_de_backup_02.jpg" alt="lub1" height="300" width="400" align="middle">
 
 *Figura 4: Configuración del teclado*
 
-9. Iniciamos Clonezilla.
+10. Iniciamos Clonezilla.
 
 <img src="Proceso_de_backup_03.jpg" alt="lub1" height="300" width="400" align="middle">
 
 *Figura 5: Inicio*
 
-10. Seleccionamos la primera opción dado que trabajaremos con imagenes de disco, discos y particiones.
+11. Seleccionamos la primera opción dado que trabajaremos con imagenes de disco, discos y particiones.
 
 <img src="Proceso_de_backup_04.jpg" alt="lub1" height="300" width="400" align="middle">
 
 *Figura 6: Proceso de backup*
 
-11. Seleccionamos la primera opción dado que trabajaremos cen modo local.
+12. Seleccionamos la primera opción dado que trabajaremos cen modo local.
 
 <img src="Proceso_de_backup_05.jpg" alt="lub1" height="300" width="400" align="middle">
 
 *Figura 7: Proceso de backup*
 
-12. Conectamos el dispositivo donde almacenar el backup o de donde restaurar, una vez se encuentre en la lista, ejecutar CTRL+C.
+13. Conectamos el dispositivo donde almacenar el backup o de donde restaurar, una vez se encuentre en la lista, ejecutar CTRL+C.
 
 <img src="Proceso_de_backup_06.jpg" alt="lub1" height="300" width="400" align="middle">
 
