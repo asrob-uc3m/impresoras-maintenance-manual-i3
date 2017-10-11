@@ -104,3 +104,20 @@ La captura se realizó tras realizar el backup del PC de Hija Resurrection, y po
 <img src="Proceso_de_backup_12.jpg" alt="lub1" height="300" width="400" align="middle">
 
 *Figura 14: Proceso de backup*
+
+19. Podemos omitir la comprobación y reparación del sistema de archivos de la fuente, o bien realizarlo. (A opción del ususario, no se recomienda la última opción por seguiridad)
+
+<img src="Proceso_de_backup_13.jpg" alt="lub1" height="300" width="400" align="middle">
+
+*Figura 15: Proceso de backup*
+
+20. Respecto a la imagen final es posible comprobar o no el resultado final. Es recomendable realizarlo por seguridad.
+
+<img src="Proceso_de_backup_14.jpg" alt="lub1" height="300" width="400" align="middle">
+
+*Figura 16: Proceso de backup*
+
+21. Selecionamos no cifrar la imagen.
+<img src="Proceso_de_backup_15.jpg" alt="lub1" height="300" width="400" align="middle">
+
+*Figura 17: Proceso de backup*
