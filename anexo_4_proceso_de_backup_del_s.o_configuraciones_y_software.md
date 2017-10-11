@@ -42,4 +42,8 @@ Se recomienda grabación en CD o DVD, debido a problemas de reconocimiento de lo
 
 *Figura 4: Configuración del teclado*
 
+9. Iniciamos Clonezilla.
 
+<img src="Proceso_de_backup_03.jpg" alt="lub1" height="300" width="400" align="middle">
+
+*Figura 4: Inicio*
